@@ -17,7 +17,7 @@ The filler must be in an upright position at all times when in use.
 <br>
 <br>
 
-<img src="/static/spray.png" alt="drawing" style="width:200px;"/>
+<img src="/retype/static/spray.png" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
