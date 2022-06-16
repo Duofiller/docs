@@ -17,12 +17,13 @@ The filler must be in an upright position at all times when in use.
 <br>
 <br>
 
-<img src="/retype/static/spray.png" alt="drawing" style="width:200px;"/>
+<img src="/static/spray.png" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
 
 ![](/static/goggles.jpg)
+<img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
 
 The filler is not suitable for installation in an area where a water jet could be used. Do not spray and do not submerge in water. It may cause damage to health, life, or property. 
 
