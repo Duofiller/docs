@@ -28,7 +28,7 @@ The filler is not suitable for installation in an area where a water jet could b
 <br>
 <br>
 
-<img src="/photo/pressure.jfif" alt="drawing" style="width:200px;"/>
+<img src="static/pressure.jfif" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
@@ -38,7 +38,7 @@ Duofiller is normally used with liquid under pressure. Always inspect hoses and 
 <br>
 <br>
 
-<img src="/photo/goggles.jpg" alt="drawing" style="width:200px;"/>
+<img src="static/goggles.jpg" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
@@ -48,7 +48,7 @@ When using the filler with cleaning chemicals and/or hot liquid use PPE as requi
 <br>
 <br>
 
-<img src="/photo/electric.png" alt="drawing" style="width:200px;"/>
+<img src="static/electric.png" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
