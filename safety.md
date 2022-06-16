@@ -1,7 +1,7 @@
 # Safety
 
 
-<img src="/photo/warning.jpg" alt="drawing" style="width:200px;"/>
+<img src="/static/warning.jpg" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 
@@ -17,7 +17,7 @@ The filler must be in an upright position at all times when in use.
 <br>
 <br>
 
-<img src="/photo/spray.png" alt="drawing" style="width:200px;"/>
+<img src="/static/spray.png" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
