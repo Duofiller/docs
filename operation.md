@@ -4,10 +4,21 @@ The operation of the Duofiller and Duofiller Mono is simple and intuitive. When 
 
 A typical can-fill run:
 
-I. Insert empty can, press button to start fill
-II. Wait until filling stops
-III. Remove the full can, insert a new empty can
-IIII. Press button to start a new fill
+<img src="/docs/static/Monocan.png" alt="drawing" style="width:200px;"/>
+
+I. Choose Sensor Mode or Timer Mode
+II. Insert empty can, press button to start fill
+III. Wait until filling stops
+IIII. Remove the full can, insert a new empty can
+IIIII. Press button to start a new fill. Repeat.
+
+A typical bottle-fill run:
+
+I. Choose Timer Mode
+II. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
+III. Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops
+IIII. Remove the full bottle, insert a new empty bottle
+IIIII. Press button to start a new fill. Repeat.
 
 To set the fill level setpoints we first go through the different modes:
 
