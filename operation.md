@@ -6,19 +6,17 @@ A typical can-fill run:
 
 <img src="/docs/static/monocan.png" alt="drawing" style="width:200px;"/>
 
-I. Choose Sensor Mode or Timer Mode
-II. Insert empty can, press button to start fill
-III. Wait until filling stops
-IIII. Remove the full can, insert a new empty can
-IIIII. Press button to start a new fill. Repeat.
+I. Insert empty can, press button to start fill
+II. Wait until filling stops
+III. Remove the full can, insert a new empty can
+IIII. Press button to start a new fill. Repeat.
 
 A typical bottle-fill run:
 
-I. Choose Timer Mode
-II. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
-III. Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops
-IIII. Remove the full bottle, insert a new empty bottle
-IIIII. Press button to start a new fill. Repeat.
+I. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
+II. Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops
+III. Remove the full bottle, insert a new empty bottle
+IIII. Press button to start a new fill. Repeat.
 
 To set the fill level setpoints we first go through the different modes:
 
