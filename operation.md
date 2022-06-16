@@ -92,5 +92,5 @@ For details please see the quick reference :icon-arrow-down: [!ref Quick Referen
 
 The Duofiller has a Wifi AP which can be used to upload new firmware. To start the Wifi access point first un-power the filler. Hold the button while repowering the filler. On boot, the LED will start to toggle between red-green-blue. This indicates that the AP is started. Connect to the AP with password "duofiller". Go to address http://192.168.4.1 and upload the new firmware. Please never unplug the filler while the firmware upgrade is in progress. When the upgrade is complete it will be indicated by a solid green light in the led indication that it's back in Timer Mode. It's not necessary to reboot the filler after the firmware upgrade.
 
-![](/photo/IMG_1242_small.jpg)
+![](/retype/static/IMG_1242_small.jpg)
 

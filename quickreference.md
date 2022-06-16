@@ -5,4 +5,4 @@ order: 102
 
 # Quick reference
 
---![](/photo/Duofillerquickreference1.svg)
+--![](/retype/static/Duofillerquickreference1.svg)
