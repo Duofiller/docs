@@ -4,7 +4,7 @@ The operation of the Duofiller and Duofiller Mono is simple and intuitive. When 
 
 A typical can-fill run:
 
-<img src="/docs/static/Monocan.png" alt="drawing" style="width:200px;"/>
+<img src="/docs/static/monocan.png" alt="drawing" style="width:200px;"/>
 
 I. Choose Sensor Mode or Timer Mode
 II. Insert empty can, press button to start fill
