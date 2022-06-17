@@ -3,7 +3,7 @@ output: .retype
 url: https://docs.duofiller.com
 branding:
   title: 
-  label:
+  label: test
   logo: static/Color logo - no background.png
 
 links:
