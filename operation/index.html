@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.708772324064">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.708772623853">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.3.0">
@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=2.3.0.708772324064" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=2.3.0.708772623853" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=2.3.0.708772324064" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=2.3.0.708772623853" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=2.3.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.3.0.708772324064" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.3.0.708772623853" data-turbo-eval="false" defer></script>
     <script id="mermaid-js" type="text/javascript" src="../resources/js/mermaid.js?v=2.3.0" defer></script>
 </head>
 <body>
@@ -226,6 +226,36 @@
 <li>Remove the full bottle, insert a new empty bottle</li>
 <li>Press button to start a new fill. Repeat.</li>
 </ol>
+<doc-anchor-target id="fill-sequence">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#fill-sequence">#</doc-anchor-trigger>
+        <span>Fill sequence</span>
+    </h3>
+</doc-anchor-target>
+<p>The fill sequence is started by pressing the button with a short press when the filler is idle in Timer Mode or Sensor Mode.</p>
+<p><strong>Timer mode sequence and LED status:</strong></p>
+<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph TD;
+    Idle(Idle)--&gt;|short button press|Purge(Purge);
+    style Idle fill:#00FF00
+    Purge(Purge)--&gt;Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)--&gt;Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill time reached)--&gt;|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    </pre></div>
+<p><strong>Sensor mode sequence and LED status:</strong></p>
+<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph TD;
+    Idle(Idle)--&gt;|short button press|Purge(Purge);
+    style Idle fill:#00FFFF
+    Purge(Purge)--&gt;Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)--&gt;Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill level reached)--&gt;|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    </pre></div>
+<p>The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.</p>
 <p>To set the fill level setpoints we first go through the different modes:</p>
 <doc-anchor-target id="timer-mode">
     <h3>
@@ -260,36 +290,6 @@
 <p>When at desired purge time, hold the button for more than 6 seconds and release. Purge time will be stored and you&#x27;ll be back in the previously used mode.</p>
 <p>Purge time is set globally for both Timer Mode and Sensor Mode. For Timer Mode purge can be disabled but for Sensor Mode, it&#x27;s recommended to use at least 1 second purge time to ensure the CO<sub>2</sub> tube is free of liquid before each fill sequence.</p>
 <p>Default and factory set purge time are 6 seconds. The Purge time setting is stored in persistent memory.</p>
-<doc-anchor-target id="fill-sequence">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#fill-sequence">#</doc-anchor-trigger>
-        <span>Fill sequence</span>
-    </h3>
-</doc-anchor-target>
-<p>The fill sequence is started by pressing the button with a short press when the filler is idle in Timer Mode or Sensor Mode.</p>
-<p><strong>Timer mode sequence and LED status:</strong></p>
-<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph TD;
-    Idle(Idle)--&gt;|short button press|Purge(Purge);
-    style Idle fill:#00FF00
-    Purge(Purge)--&gt;Beverage_fill(Beverage fill);
-    style Purge fill:#00FFFF
-    Beverage_fill(Beverage fill)--&gt;Done(Done);
-    style Beverage_fill fill:#FF3131
-    Done(Fill time reached)--&gt;|remove can|Idle(Idle);
-    style Done fill:#00FF00
-    </pre></div>
-<p><strong>Sensor mode sequence and LED status:</strong></p>
-<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph TD;
-    Idle(Idle)--&gt;|short button press|Purge(Purge);
-    style Idle fill:#00FFFF
-    Purge(Purge)--&gt;Beverage_fill(Beverage fill);
-    style Purge fill:#00FFFF
-    Beverage_fill(Beverage fill)--&gt;Done(Done);
-    style Beverage_fill fill:#FF3131
-    Done(Fill level reached)--&gt;|remove can|Idle(Idle);
-    style Done fill:#00FF00
-    </pre></div>
-<p>The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.</p>
 <doc-anchor-target id="details">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#details">#</doc-anchor-trigger>
