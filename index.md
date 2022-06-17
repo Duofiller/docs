@@ -1,5 +1,8 @@
-# Safety
+---
+order: 100
+---
 
+# Safety
 
 <img src="/docs/static/warning.jpg" alt="drawing" style="width:200px;"/>
 <br>
