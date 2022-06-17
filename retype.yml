@@ -3,13 +3,13 @@ output: .retype
 url: docs.duofiller.com
 branding:
   title: 
-  label: test
+  label: BETA
   logo: static/Color logo - no background.png
 
 links:
 - text: Duofiller.com
   link: https://duofiller.com
-  icon: globe
+  icon: home
   iconAlign: left
 
 - text: Contact us
