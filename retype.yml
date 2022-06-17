@@ -4,7 +4,7 @@ url: # Add your website address here
 branding:
   title: 
   label:
-  logo: /docs/static/Color logo - no background.png
+  logo: //docs/static/Color logo - no background.png
 
 links:
 - text: Duofiller.com
