@@ -22,6 +22,42 @@ II. Move bottle downwards as it fills, keeping the fill-tube submerged only a fe
 III. Remove the full bottle, insert a new empty bottle
 IIII. Press button to start a new fill. Repeat.
 
+### Fill sequence
+
+The fill sequence is started by pressing the button with a short press when the filler is idle in Timer Mode or Sensor Mode.
+
+**Timer mode sequence and LED status:**
+
+```mermaid
+graph TD;
+    Idle(Idle)-->|short button press|Purge(Purge);
+    style Idle fill:#00FF00
+    Purge(Purge)-->Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)-->Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill time reached)-->|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    
+```
+
+**Sensor mode sequence and LED status:**
+
+```mermaid
+graph TD;
+    Idle(Idle)-->|short button press|Purge(Purge);
+    style Idle fill:#00FFFF
+    Purge(Purge)-->Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)-->Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill level reached)-->|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    
+```
+
+The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.
+
 To set the fill level setpoints we first go through the different modes:
 
 ### Timer Mode
@@ -60,41 +96,6 @@ Purge time is set globally for both Timer Mode and Sensor Mode. For Timer Mode p
 
 Default and factory set purge time are 6 seconds. The Purge time setting is stored in persistent memory.
 
-### Fill sequence
-
-The fill sequence is started by pressing the button with a short press when the filler is idle in Timer Mode or Sensor Mode.
-
-**Timer mode sequence and LED status:**
-
-```mermaid
-graph TD;
-    Idle(Idle)-->|short button press|Purge(Purge);
-    style Idle fill:#00FF00
-    Purge(Purge)-->Beverage_fill(Beverage fill);
-    style Purge fill:#00FFFF
-    Beverage_fill(Beverage fill)-->Done(Done);
-    style Beverage_fill fill:#FF3131
-    Done(Fill time reached)-->|remove can|Idle(Idle);
-    style Done fill:#00FF00
-    
-```
-
-**Sensor mode sequence and LED status:**
-
-```mermaid
-graph TD;
-    Idle(Idle)-->|short button press|Purge(Purge);
-    style Idle fill:#00FFFF
-    Purge(Purge)-->Beverage_fill(Beverage fill);
-    style Purge fill:#00FFFF
-    Beverage_fill(Beverage fill)-->Done(Done);
-    style Beverage_fill fill:#FF3131
-    Done(Fill level reached)-->|remove can|Idle(Idle);
-    style Done fill:#00FF00
-    
-```
-
-The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.
 
 ### Details
 
