@@ -96,7 +96,6 @@ Purge time is set globally for both Timer Mode and Sensor Mode. For Timer Mode p
 
 Default and factory set purge time are 6 seconds. The Purge time setting is stored in persistent memory.
 
-
 ### Details
 
 For details please see the quick reference :icon-arrow-down: [!ref Quick Reference](/Support/quickreference.md) 
@@ -107,4 +106,9 @@ For details please see the quick reference :icon-arrow-down: [!ref Quick Referen
 The Duofiller has a Wifi AP which can be used to upload new firmware. To start the Wifi access point first un-power the filler. Hold the button while repowering the filler. On boot, the LED will start to toggle between red-green-blue. This indicates that the AP is started. Connect to the AP with password "duofiller". Go to address http://192.168.4.1 and upload the new firmware. Please never unplug the filler while the firmware upgrade is in progress. When the upgrade is complete it will be indicated by a solid green light in the led indication that it's back in Timer Mode. It's not necessary to reboot the filler after the firmware upgrade.
 
 ![](/static/IMG_1242_small.jpg)
+
+
+### Factory reset
+
+Hold any button for for more than 30 seconds and release. It will reset to factory defaults, including fill levels, purge time and wifi settings.
 
