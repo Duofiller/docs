@@ -40,7 +40,7 @@ If you use the filler for mixed fermentation fluids it might be desired to disin
 Alternatively use a caustic disinfectant but please contact us for a chemical compatibility check if you want to use a disinfector. Don't use chlorine or strong acids. 
 
 
-<img src="/photo/chemical.png" alt="drawing" style="width:600px;"/>
+<img src="/static/chemical.png" alt="drawing" style="width:600px;"/>
 
 <br>
 <br>
