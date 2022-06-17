@@ -11,13 +11,6 @@ links:
   link: https://duofiller.com
   icon: globe
   iconAlign: left
-- text: Duofiller.no
-  link: https://duofiller.no
-  icon: globe
-  iconAlign: left
-
-  server:
-    host: 127.0.0.1:5005  # Custom port also supported.
   
 
 footer:
