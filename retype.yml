@@ -9,13 +9,10 @@ branding:
 links:
 - text: Duofiller.com
   link: https://duofiller.com
-  icon: home
+  icon: globe
   iconAlign: left
 
-  - text: Contact us
-  link: https://duofiller.com/pages/contact
-  icon: info
-  iconAlign: left
+
   
 
 footer:
