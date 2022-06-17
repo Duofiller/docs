@@ -2,7 +2,7 @@
 order: 999
 ---
 
-<img src="/docs/static/nogo.png" alt="drawing" style="width:600px;"/>
+<img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
 This user manual is for Duofiller G2 and Duofiller Mono. It's not for Duofiller Gen1 fillers, please find Gen1 user manual at:
 
@@ -13,7 +13,7 @@ Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the s
 
 # Safety
 
-<img src="/docs/static/warning.jpg" alt="drawing" style="width:200px;"/>
+<img src="static/warning.jpg" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 
@@ -29,7 +29,7 @@ The filler must be in an upright position at all times when in use.
 <br>
 <br>
 
-<img src="/docs/static/spray.png" alt="drawing" style="width:200px;"/>
+<img src="docs/static/spray.png" alt="drawing" style="width:200px;"/>
 
 <br>
 <br>
