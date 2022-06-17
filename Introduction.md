@@ -1,7 +1,7 @@
 ---
 order: 109
 ---
-<img src="/docs/static/nogo.png" alt="drawing" style="width:600px;"/>
+<img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
 This user manual is for Duofiller G2 and Duofiller Mono. It's not for Duofiller Gen1 fillers, please find Gen1 user manual at:
 

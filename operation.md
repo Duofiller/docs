@@ -8,7 +8,7 @@ The operation of the Duofiller and Duofiller Mono is simple and intuitive. When 
 
 A typical can-fill run:
 
-<img src="/docs/static/monocan.png" alt="drawing" style="width:200px;"/>
+<img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
 
 I. Insert empty can, press button to start fill
 II. Wait until filling stops
@@ -106,5 +106,5 @@ For details please see the quick reference :icon-arrow-down: [!ref Quick Referen
 
 The Duofiller has a Wifi AP which can be used to upload new firmware. To start the Wifi access point first un-power the filler. Hold the button while repowering the filler. On boot, the LED will start to toggle between red-green-blue. This indicates that the AP is started. Connect to the AP with password "duofiller". Go to address http://192.168.4.1 and upload the new firmware. Please never unplug the filler while the firmware upgrade is in progress. When the upgrade is complete it will be indicated by a solid green light in the led indication that it's back in Timer Mode. It's not necessary to reboot the filler after the firmware upgrade.
 
-![](/docs/static/IMG_1242_small.jpg)
+![](/static/IMG_1242_small.jpg)
 
