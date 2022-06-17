@@ -21,7 +21,7 @@ order: 107
      II. Increase keg pressure to increase flow. It will produce more foam but it's not as efficient as increasing the temperature.
      III. Get the flow control kit, it will get you more flow but also the possibility to reduce flow/foam if there's too much foam.
 <br>
-<br>
+
      People carbonated differently and it affects the foam cap. In general, we recommend always filling cold beer but it also might be that warmer than 4C (5-8C) will work best for your beverage type and carbonation level. Do your experiments over time. Start cold and let it heat up until you get that perfect foam cap, eventually go colder if there is too much foam at 4C
 ##
 - **Beverage valve does not open on first-time use:**
@@ -41,6 +41,9 @@ order: 107
      <br>
      <br>
    After each purge and before the beverage valve opens the filler does a reference pressure reading during the 1.5s delay between the two operations. You might want to check that droplets from the beverage fill tube don't form on the tip of the CO~2~ tube after purging. Then the reference pressure reading is affected and the fill level will end up wrong. There's a simple solution, just make sure the tip of the CO~2~tube is at the same level or higher than the tip of the beverage tube so droplets from the beverage tube will fall down and not stick to the CO~2~ tube.
+
+<br>
+     Another test to do is to put a glass of water under the fill head while the CO~2~ is pressurised. Check for bubbles coming out of the CO~2~ tube. Verify that purge pressure is below 3psi. If it is, [please contact us](https://duofiller.com/pages/contact), you might have a defect purge valve.
 
      
 ##
