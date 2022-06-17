@@ -40,9 +40,8 @@ order: 107
      Fill level accuracy with an ideal beverage and ideal flow rate is fractions of a millimeter. If the level measurement is affected by other factors the fill level measurement might be affected and the actual fill level will become inconsistent. Such external factors can be (large) carbonation bubbles, flow from the beverage tube affecting the pressure reading done by the CO~2~ tube, too high CO~2~ purge pressure, etc. 
      <br>
      <br>
-   After each purge and before the beverage valve opens the filler does a reference pressure reading during the 1.5s delay between the two operations. You might want to check that droplets from the beverage fill tube don't form on the tip of the CO~2~ tube after purging. Then the reference pressure reading is affected and the fill level will end up wrong. There's a simple solution, just make sure the tip of the CO~2~tube is at the same level or higher than the tip of the beverage tube so droplets from the beverage tube will fall down and not stick to the CO~2~ tube.
-
-<br>
+     After each purge and before the beverage valve opens the filler does a reference pressure reading during the 1.5s delay between the two operations. You might want to check that droplets from the beverage fill tube don't form on the tip of the CO~2~ tube after purging. Then the reference pressure reading is affected and the fill level will end up wrong. There's a simple solution, just make sure the tip of the CO~2~tube is at the same level or higher than the tip of the beverage tube so droplets from the beverage tube will fall down and not stick to the CO~2~ tube.
+     <br>
      Another test to do is to put a glass of water under the fill head while the CO~2~ is pressurised. Check for bubbles coming out of the CO~2~ tube. Verify that purge pressure is below 3psi. If it is, [please contact us](https://duofiller.com/pages/contact), you might have a defect purge valve.
 
      
