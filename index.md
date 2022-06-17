@@ -8,7 +8,7 @@ This user manual is for Duofiller G2 and Duofiller Mono. It's not for Duofiller 
 
 [!ref target="blank" text="Duofiller Gen1 user manual"](https://duofiller.com/manual)
 
-Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the same functionality as G2 fillers. Excemption, for an upgraded G1 filler max temperature is 65 C / 149 F, not 76 C / 170 F.
+Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the same functionality as G2 fillers. Excemption, for an upgraded G1 filler max temperature is 65 C / 149 F, not 76 C / 170 F as for the Duofiller G2 fillers.
 
 
 # Safety
