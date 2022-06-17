@@ -3,6 +3,6 @@ order: 109
 ---
 
 
-# Hookup
+# Connect to keg
 
 Coming soon
