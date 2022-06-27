@@ -18,28 +18,28 @@ When assembling the filler it's mandatory to use gloves. There might be sharp eg
 This is how the filler comes in the box. The user need to assemble teh stainless tubes to the soft tubes and assemble the tubeholder and canholder bracket.<br>
 Fasten the tubeholder bracket:<br>
 
---![](/static/mono2.png)
+<img src="/static/mono2.png" alt="drawing" style="width:200px;"/>
 
 Fasten the foam pad on the tubeholder:<br>
 
---![](/static/mono3.png)
+<img src="/static/mono3.png" alt="drawing" style="width:200px;"/>
 
 Fit the soft tubes over the stainless tubes.<br> 
 
---![](/static/mono4.png)
+<img src="/static/mono4.png" alt="drawing" style="width:200px;"/>
 
 The stainless tubes shall go approximately 10mm into the soft tubes. The thickest stainless tube is the beverage tube, it goes on the right side. It has a thin end, this is the end that goes into the soft tube. The thinnest stainless tube (CO2 tube) has one straight cut end and one bevel cut end. The straight end goes into the soft tube on the left side. Beware of the bevel end, it might be sharp. :<br>
 
---![](/static/mono5.png)
+<img src="/static/mono5.png" alt="drawing" style="width:200px;"/>
 
 Position the tube clamp over the tubes:<br>
 
---![](/static/mono6.png)
+<img src="/static/mono6.png" alt="drawing" style="width:200px;"/>
 
 Slide the tubeclamp over the tubeholder bracket. You need to push the tubeclamp from beneath and up and it will slide onto the stainless bracket. The foam pad will be compressed to support the tubes in place.<br>
 
---![](/static/mono7.png)
+<img src="/static/mono7.png" alt="drawing" style="width:200px;"/>
 
 If you plan to use with cans, fasten the canholder bracket. If you plan to use only with botttles then this bracket is not necessary.<br>
 
---![](/static/mono8.png)
+<img src="/static/mono8.png" alt="drawing" style="width:200px;"/>
