@@ -57,7 +57,7 @@ Mounting hole distance is 75mm;<br>
 <br>
 <br>
 <br>
-Plug in the beverage tube, power plug abnd CO2 tube:<br> 
+Plug in the beverage tube, power plug and CO2 tube:<br> 
 <img src="/static/mono12.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
@@ -67,7 +67,7 @@ We don't provide the CO2 tube but we include a 3/8" pushfit to 1/4" barb fitting
 <br>
 <br>
 <br>
-CO2 presure max 3psi / 0.2bar. Please always use a separate regualtor for CO2 pressure.<br>
+CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pressure.<br>
 <img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
