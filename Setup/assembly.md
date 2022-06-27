@@ -77,3 +77,4 @@ Connect beverage tubing to a keg. Max beverage pressure is 20psi/1.4bar. Please 
 <br>
 <br>
 <br>
+<img src="/static/mono16.png" alt="drawing" style="width:200px;"/>
