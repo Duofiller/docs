@@ -2,9 +2,7 @@
 order: 110
 ---
 
-# Assembly
-
-## Duofiller Mono
+# Assembly Duofiller Mono
 
 When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.<br>
 <img src="/static/gloves.png" alt="drawing" style="width:200px;"/>
