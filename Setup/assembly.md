@@ -56,3 +56,7 @@ Mounting hole distance is 75mm;<br>
 <br>
 <br>
 <br>
+<img src="/static/mono10.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
