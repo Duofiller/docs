@@ -25,18 +25,19 @@ Children should be supervised to ensure that they are kept away from the device 
 
 The Duofiller may only be used for its intended purpose and in a safe and secure condition. Ensure that the filler is in proper condition before each use.
 The filler must be in an upright position at all times when in use. Always use a drip tray below the filler.
-<br>
-<br>
-Use only in ventilated areas. As the filler uses CO~2~ for purge gas there is hazard of suffocation if the user location is not properly ventilated. 
+
 <br>
 <br>
 <img src="/static/suffocation.jpg" alt="drawing" style="width:300px;"/>
 <br>
 <br>
-Never use the filler to fill flammable liquids. Never use it with beverage that has more than 30% alcohol concentration. Only use for beverages and the recommended cleaning agents, never use it to fill chemicals<br>
+Use only in ventilated areas. As the filler uses CO~2~ for purge gas there is hazard of suffocation if the user location is not properly ventilated. 
 <br>
 <br>
 <img src="/static/flammable.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+Never use the filler to fill flammable liquids. Never use it with beverage that has more than 30% alcohol concentration. Only use for beverages and the recommended cleaning agents, never use it to fill chemicals<br>
 <br>
 <br>
 <img src="/static/spray.png" alt="drawing" style="width:200px;"/>
