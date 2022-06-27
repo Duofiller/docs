@@ -4,7 +4,7 @@ order: 102
 
 # Cleaning
 
-### Prior to use
+### Before use
 Before using the Duofiller, to be sure its flow path is clean before the beverage is introduced we recommend the following cleaning procedure:
 
 1. Place a drip tray under the filler. Always use a drip tray to collect spills under the filler.
