@@ -7,9 +7,10 @@ order: 102
 ### Prior to use
 Before using the Duofiller, to be sure its flow path is clean before the beverage is introduced we recommend the following cleaning procedure:
 
-1. Flush through the filler with lukewarm water. Contact time 5 minutes or more. First-time use or if there are liquid residues in the tubes we recommend using PBW or a dishwasher detergent and flush for 10 minutes. (Start a fill in Timer Mode programming mode for flushing, the beverage valve will stay open until manually aborted)
-2. Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan) at its recommended concentration. Contact time 3 minutes or more
-3. Spray or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.
+1. Place a drip tray under the filler. Always use a drip tray to collect spills under the filler.
+2. Flush through the filler with lukewarm water. Contact time 5 minutes or more. First-time use or if there are liquid residues in the tubes we recommend using PBW or a dishwasher detergent and flush for 10 minutes. (Start a fill in Timer Mode programming mode for flushing, the beverage valve will stay open until manually aborted)
+3. Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan) at its recommended concentration. Contact time 3 minutes or more
+4. Spray or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.
 
 While the sanitizer is connected to the filler it's a good idea to do the first level calibration. Please be aware that to get the correct calibration in Timer Mode the filler must be primed and the container must be empty for the correct volume to be stored. Calibration in sensor mode can be done with the sanitizer but be aware that the fill level programmed with the sanitizer may not be the same when later filling carbonated beverage and/or a beverage with higher SG (specific gravity). Consider calibration with the sanitizer as a course calibration. Fine calibration can be done later by moving the CO~2~ tube up or down to move the fill level setpoint.
 
@@ -20,7 +21,8 @@ After using the Duofiller with beverage it's mandatory to immediately do an in-l
 2. Flush through clean, lukewarm water to remove the detergent
 3. Displace the liquid in the beverage lines by connecting the beverage line to the gas post of the keg (Make sure beverage valves are open). The CO~2~ from the keg will displace the liquid in the lines. You can either use a grey CO~2~ quick disconnect or you can use the black one by pushing it down on the gas post and just holding it there while the CO~2~ flows.
 4. Spray the outside of the stainless fill tubes and enclosure with clean water. Wipe off with a clean cloth.
-6. Don't leave a liquid-filled can under the fill tubes for a long time (+8 hours). The capillary forces might draw the liquid into the CO~2~ system. 
+5. Don't leave a liquid-filled can under the fill tubes for a long time (+8 hours). The capillary forces might draw the liquid into the CO~2~ system. 
+6. Always disconnect beverage tube, CO~2~ tube and power after use.
 
 ### Periodical cleaning
 Periodical in-line cleaning can be done with a suitable beer line cleaner as “Pipeline beer line cleaner”. 
