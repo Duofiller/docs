@@ -27,7 +27,6 @@ The Duofiller may only be used for its intended purpose and in a safe and secure
 The filler must be in an upright position at all times when in use. Always use a drip tray below the filler.
 
 <br>
-<br>
 <img src="/static/suffocation.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
