@@ -18,15 +18,15 @@ This is how the filler comes in the box. The user need to assemble the stainless
 <img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Fasten the tubeholder bracket:<br>
+Fasten the tubeholder bracket with the included M4*5mm screws:<br>
 <img src="/static/mono2.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Fasten the foam pad on the tubeholder:<br>
+Fasten the foam pad on the tubeholder. Center hole on foam pad to align on center hole of bracket:<br>
 <img src="/static/mono3.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Fit the soft tubes over the stainless tubes.<br> 
+Fit the soft tubes over the stainless tubes. Please note, thick tube on rigth side, thin tube on left side.<br> 
 <img src="/static/mono4.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
