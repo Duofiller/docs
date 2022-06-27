@@ -39,7 +39,7 @@ Use only in ventilated areas. As the filler uses CO~2~ for purge gas there is ha
 <img src="/static/flammable.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Never use the filler to fill flammable liquids. Never use it with beverage that has more than 30% alcohol concentration. Only use for beverages and the recommended cleaning agents, never use it to fill chemicals<br>
+Never use the filler to fill flammable liquids. Never use it with beverages that has more than 30% alcohol concentration. Use only for beverages and the recommended cleaning agents, never use it to fill chemicals<br>
 <br>
 <br>
 <img src="/static/spray.png" alt="drawing" style="width:200px;"/>
