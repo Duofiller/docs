@@ -49,7 +49,11 @@ The filler is not suitable for installation in an area where a water jet could b
 <img src="/static/pressure.jfif" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Duofiller is normally used with liquid under pressure. Always inspect hoses and connectors for damage before use. Use only original connectors and/or accessories to prevent leakage or breakage. **Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 76 °C. Always perform a pressure test with clean, cold water before each use.**
+Duofiller is normally used with liquid under pressure. Always inspect hoses and connectors for damage before use. Use only original connectors and/or accessories to prevent leakage or breakage. 
+
+**Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 76 °C. Always perform a pressure test with clean, cold water before each use.**
+
+**Always depressurise and disconnect after use**
 <br>
 <br>
 <img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
