@@ -7,15 +7,15 @@ order: 110
 ## Duofiller Mono
 <br>
 <img src="/static/gloves.png" alt="drawing" style="width:200px;"/>
-
+<br>
 <br>
 
 When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.<br>
 
-
-
 <img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
+
+This is how the filler comes in the box. The user need to assemble teh stainless tubes to the soft tubes and assemble the tubeholder and canholder bracket.<br>
 Fasten the tubeholder bracket:<br>
 
 --![](/static/mono2.png)
