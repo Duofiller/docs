@@ -8,11 +8,12 @@ order: 102
 Before using the Duofiller, to be sure its flow path is clean before the beverage is introduced we recommend the following cleaning procedure:
 
 1. Place a drip tray under the filler. Always use a drip tray to collect spills under the filler.
-2. Flush through the filler with lukewarm water. Contact time 5 minutes or more. First-time use or if there are liquid residues in the tubes we recommend using PBW or a dishwasher detergent and flush for 10 minutes. (Start a fill in Timer Mode programming mode for flushing, the beverage valve will stay open until manually aborted)
-3. Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan) at its recommended concentration. Contact time 3 minutes or more
-4. Spray or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.
+2. Flush through the filler with lukewarm water. Start a fill in Timer Mode programming mode for flushing, the beverage valve will stay open until manually aborted. Contact time 5 minutes or more. If first-time use or if there are liquid residues in the tubes we recommend using PBW or a dishwasher detergent (at recommended concentration) and flush for 10 minutes.
+3. Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan, SureSan or equivalent) at its recommended concentration. Contact time 3 minutes or more
+4. Gently spray (with a spray bottle) or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.
 
-While the sanitizer is connected to the filler it's a good idea to do the first level calibration. Please be aware that to get the correct calibration in Timer Mode the filler must be primed and the container must be empty for the correct volume to be stored. Calibration in sensor mode can be done with the sanitizer but be aware that the fill level programmed with the sanitizer may not be the same when later filling carbonated beverage and/or a beverage with higher SG (specific gravity). Consider calibration with the sanitizer as a course calibration. Fine calibration can be done later by moving the CO~2~ tube up or down to move the fill level setpoint.
+While the sanitizer is connected to the filler it's a good idea to do the first Sensor mode fill level calibration. Calibration in sensor mode can be done with the sanitizer but be aware that the fill level programmed with the sanitizer may not be the same when later filling carbonated beverage and/or a beverage with higher SG (specific gravity). Consider calibration with the sanitizer as a course calibration. Fine calibration can be done later by moving the CO~2~ tube up or down to move the fill level setpoint.
+Please be aware that to get the correct calibration in Timer Mode the filler must be primed, the container must be empty for the correct volume to be stored and the keg must have the same pressure as the beverage keg. It's often better to calibrate timer mode with beverage and fine adjust the fill level in the web-interface of the filler. 
 
 ### After use
 After using the Duofiller with beverage it's mandatory to immediately do an in-line cleaning of the filler. 
