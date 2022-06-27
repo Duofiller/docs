@@ -55,7 +55,7 @@ Duofiller is normally used with liquid under pressure. Always inspect hoses and 
 
 **Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 76 °C. Always perform a pressure test with clean, cold water before each use.**
 
-**Always depressurise and disconnect when not in use**
+**Always depressurise when not in use**
 <br>
 <br>
 <img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
