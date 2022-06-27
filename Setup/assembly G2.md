@@ -29,7 +29,7 @@ Fit the soft tubes over the stainless tubes. Please note, thick tube on the righ
 <br>
 <br>
 Slide the stainless tubes approximately 10mm into the soft tubes. Use clean, cold water as lube. The tubing will not soften if heated. The thickest stainless tube is the beverage tube, it goes on the right side. It has a thin end, this is the end that goes into the soft tube. The thinnest stainless tube is the CO2 tube. It has one straight-cut end and one bevel-cut end. The straight end goes into the soft tube on the left side. Beware of the bevel end, it might be sharp:<br>
-<img src="/static/mono5.png" alt="drawing" style="width:400px;"/>
+<img src="/static/mono5.png" alt="drawing" width="400" height="600">
 <br>
 <br>
 <br>
