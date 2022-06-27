@@ -59,3 +59,23 @@ Mounting hole distance is 75mm;<br>
 <br>
 <br>
 <br>
+Plug in the beverage tube, power plug abnd CO2 tube:<br> 
+<img src="/static/mono10.png" alt="drawing" style="width:400px;"/>
+<br>
+<br>
+<br>
+We don't provide the CO2 tube but we include a 3/8" pushfit to 1/4" barb fitting:<br>
+<img src="/static/mono13.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
+CO2 presure max 3psi. Please always use a seaprate regualtor.<br>
+<img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
+Connect beverage tubing to a keg. Max beverage pressure is 20psi/1.4bar. Please note that the keg quick disconnect is not included. <br>
+<img src="/static/mono15.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
