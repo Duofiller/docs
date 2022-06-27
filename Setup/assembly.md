@@ -51,7 +51,7 @@ If you plan to use with cans, fasten the canholder bracket. If you plan to use o
 <br>
 <br>
 Mounting hole distance is 75mm;<br>
-<img src="/static/mono9.png" alt="drawing" style="width:200px;"/>
+<img src="/static/mono9.png" alt="drawing" style="width:300px;"/>
 <br>
 <br>
 <br>
@@ -60,16 +60,16 @@ Mounting hole distance is 75mm;<br>
 <br>
 <br>
 Plug in the beverage tube, power plug abnd CO2 tube:<br> 
-<img src="/static/mono10.png" alt="drawing" style="width:400px;"/>
+<img src="/static/mono12.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
 <br>
 We don't provide the CO2 tube but we include a 3/8" pushfit to 1/4" barb fitting:<br>
-<img src="/static/mono13.png" alt="drawing" style="width:200px;"/>
+<img src="/static/mono13.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
 <br>
-CO2 presure max 3psi. Please always use a seaprate regualtor.<br>
+CO2 presure max 3psi / 0.2bar. Please always use a separate regualtor for CO2 pressure.<br>
 <img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
