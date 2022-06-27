@@ -28,7 +28,7 @@ The filler must be in an upright position at all times when in use. Always use a
 
 <br>
 <br>
-<img src="/static/suffocation.png" alt="drawing" style="width:300px;"/>
+<img src="/static/suffocation.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 Use only in ventilated areas. As the filler uses CO~2~ for purge gas there is hazard of suffocation if the user location is not properly ventilated. 
