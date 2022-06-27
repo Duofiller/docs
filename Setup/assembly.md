@@ -20,17 +20,26 @@ Fasten the tubeholder bracket:<br>
 
 <img src="/static/mono2.png" alt="drawing" style="width:200px;"/>
 <br>
+<br>
+<br>
 Fasten the foam pad on the tubeholder:<br>
 <br>
 <img src="/static/mono3.png" alt="drawing" style="width:200px;"/>
 <br>
+<br>
+
 Fit the soft tubes over the stainless tubes.<br> 
 
 <img src="/static/mono4.png" alt="drawing" style="width:200px;"/>
 <br>
+<br>
+<br>
 The stainless tubes shall go approximately 10mm into the soft tubes. The thickest stainless tube is the beverage tube, it goes on the right side. It has a thin end, this is the end that goes into the soft tube. The thinnest stainless tube (CO2 tube) has one straight cut end and one bevel cut end. The straight end goes into the soft tube on the left side. Beware of the bevel end, it might be sharp. :<br>
 
-<img src="/static/mono5.png" alt="drawing" style="width:200px;"/>
+<img src="/static/mono5.png" alt="drawing" style="width:400px;"/>
+<br>
+<br>
+<br>
 
 Position the tube clamp over the tubes:<br>
 
