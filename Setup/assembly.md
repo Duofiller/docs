@@ -17,8 +17,8 @@ When assembling the filler it's mandatory to use gloves. There might be sharp eg
 <img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
 Fasten the tubeholder bracket:<br>
-<br>
---![](/static/mono2.png)<br>
+
+--![](/static/mono2.png)
 
 Fasten the foam pad on the tubeholder:
 
