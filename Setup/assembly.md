@@ -12,7 +12,8 @@ order: 110
 When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.<br>
 
 
---![](/static/mono1.png)
+
+<img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
 Fasten the tubeholder bracket:<br>
 <br>
