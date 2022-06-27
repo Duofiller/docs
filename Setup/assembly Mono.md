@@ -2,7 +2,7 @@
 order: 110
 ---
 
-# Assembly Duofiller Mono
+# Duofiller Mono assembly instructions
 
 When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.<br>
 <img src="/static/gloves.png" alt="drawing" style="width:200px;"/>
@@ -18,17 +18,17 @@ Fasten the tubeholder bracket with the included M4*5mm screws:<br>
 <br>
 <br>
 <br>
-Fasten the foam pad on the tubeholder. Center hole on foam pad to align on center hole of bracket:<br>
+Fasten the foam pad on the tubeholder. Center hole on the foam pad is to align on center hole of bracket:<br>
 <img src="/static/mono3.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
-Fit the soft tubes over the stainless tubes. Please note, thick tube on rigth side, thin tube on left side.<br> 
+Fit the soft tubes over the stainless tubes. Please note, thick tube on the right side, thin tube on the left side.<br> 
 <img src="/static/mono4.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
-Slide the stainless tubes approximately 10mm into the soft tubes. Use clean water as lube. The tubing will not soften if heated. The thickest stainless tube is the beverage tube, it goes on the right side. It has a thin end, this is the end that goes into the soft tube. The thinnest stainless tube (CO2 tube) has one straight-cut end and one bevel-cut end. The straight end goes into the soft tube on the left side. Beware of the bevel end, it might be sharp. :<br>
+Slide the stainless tubes approximately 10mm into the soft tubes. Use clean, cold water as lube. The tubing will not soften if heated. The thickest stainless tube is the beverage tube, it goes on the right side. It has a thin end, this is the end that goes into the soft tube. The thinnest stainless tube is the CO2 tube. It has one straight-cut end and one bevel-cut end. The straight end goes into the soft tube on the left side. Beware of the bevel end, it might be sharp:<br>
 <img src="/static/mono5.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
@@ -48,7 +48,7 @@ If you plan to use with cans, fasten the canholder bracket. If you plan to use o
 <br>
 <br>
 <br>
-Mounting hole distance is 75mm;<br>
+Wall mounting hole distance is 75mm. The Duofiller Mono is meant to be mounted on a wall in an upright posistion. It does not have VESA mounting holes as the Duofiller G2.<br>
 <img src="/static/mono9.png" alt="drawing" style="width:300px;"/>
 <br>
 <br>
@@ -62,12 +62,12 @@ Plug in the beverage tube, power plug and CO2 tube:<br>
 <br>
 <br>
 <br>
-We don't provide the CO2 tube but we include a 3/8" pushfit to 1/4" barb fitting:<br>
+We don't provide the CO2 hose but we include a 3/8" pushfit to 1/4" barb fitting:<br>
 <img src="/static/mono13.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
 <br>
-CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pressure.<br>
+CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pressure. CO2 regulator is not included.<br>
 <img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
