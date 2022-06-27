@@ -46,7 +46,7 @@ Slide the tubeclamp over the tubeholder bracket. You need to push the tubeclamp 
 <br>
 <br>
 If you plan to use with cans, fasten the canholder bracket. If you plan to use only with botttles then this bracket is not necessary.<br>
-<img src="/static/mono8.png" alt="drawing" style="width:200px;"/>
+<img src="/static/mono11.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
