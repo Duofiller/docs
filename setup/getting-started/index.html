@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.709756570526">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.709757696857">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.3.0">
@@ -32,11 +32,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=2.3.0.709756570526" rel="stylesheet" />
+    <link href="../../resources/css/retype.css?v=2.3.0.709757696857" rel="stylesheet" />
 
-    <script type="text/javascript" src="../../resources/js/config.js?v=2.3.0.709756570526" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../../resources/js/config.js?v=2.3.0.709757696857" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.3.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.3.0.709756570526" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.3.0.709757696857" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -264,16 +264,19 @@ To program the filler we want to start a fill and stop it at the desired fill le
     </h2>
 </doc-anchor-target>
 <p>To enter purge time programming mode first make sure that you are in either sensor mode or timer mode. Hold the push button for more than 6 seconds and release. LED will turn off, indicating that it&#x27;s in purge time programming mode. Default, recommended and factory set purge time is 6 seconds. When in purge time programming mode a short press on the button will skip the purge time +1 second forward. For each step, the led will blink red. When the purge time is 5 seconds the led will blink green instead of red. When at 10 seconds the next step will be 0 seconds. When at 0 seconds the led blinks blue (0 seconds = purge disabled). Hold push button more than 6 seconds and release to exit purge time programming mode.</p>
+<p>If you have the Duofiller purge time is set individually for each fill head.</p>
+<p>Purge time is set globally for both Timer Mode and Sensor Mode. For Timer Mode purge can be disabled but for Sensor Mode, it&#x27;s recommended to use at least 1 second purge time to ensure the CO<sub>2</sub> tube is free of liquid before each fill sequence.</p>
 <doc-anchor-target id="web-interface">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#web-interface">#</doc-anchor-trigger>
         <span>Web interface</span>
     </h2>
 </doc-anchor-target>
-<p>On first boot the filler starts an accesspoint (AP) with SSID &quot;Duofiller&quot; and password &quot;duofiller&quot;. Use a phone, tablet or computer to connect to that AP. On successful connection enter &quot;http://192.168.4.1&quot; or &quot;http://duofiller.local&quot; in the browser address field. It will take you to the web-interface menu. In the web interface you can adjust fill level for sensor mode, fill time for timer mode and purge time. there is also a fill counter that is handy to use to easily count how many fillings has been done.</p>
+<p>On first boot the filler starts an accesspoint (AP) with SSID &quot;Duofiller&quot; and password &quot;duofiller&quot;. Use a phone, tablet or computer to connect to that AP. On successful connection enter &quot;http://192.168.4.1&quot; or &quot;http://duofiller.local&quot; in the browser address field. It will take you to the web-interface menu. In the web interface you can adjust fill level for sensor mode, fill time for timer mode and purge time. There is also a fill counter that is handy to use to easily count how many fillings has been done.</p>
+<p>Fill time for Timer Mode can be set in milliseconds and fill level for sensor mode can be set in millimeters. Please note that the intention is to have the possibility to fine-tune the already set fill level. Don&#x27;t expect to dial in the exact fill level in millimeter with the web interface. But for adjusting the fill level 1-2-5-10 mm up or down it works great. Fill level in millimeter indicates the measured fill level above the tip of the CO<sub>2</sub> tube using non carbonated water. With carbonated beverage the actual fill level will be slightly different, depending on the carbonation level and SG (specific gravity).</p>
 <p>In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network. Make sure your phone, tablet or computer is connected back on home wifi. You can find the filler menu by typing address &quot;http://duofiller.local&quot; or it&#x27;s assigned IP address. Find IP address either by using a network scanner (look for a device &quot;Duofiller&quot; or sometimes &quot;espressif&quot;) or log in to your router and find the filler in the DHCP lease list.</p>
 <p>The hostname of the filler can be changed in the menu. For example if you have more than one Duofiller it&#x27;s possible to rename them to for example &quot;Duofiller1&quot;, &quot;Duofiller2&quot;, etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. You can also change each fillers AP SSID to differentiate between more than one filler.</p>
-<p>Web interface also has a &quot;disable wifi&quot; option. The filler works perfectly fine without wifi and if you don&#x27;t use it it&#x27;s possible to disable. To re-enable wifi, reset network settings.</p>
+<p>Web interface also has a &quot;disable wifi&quot; option. The filler works perfectly fine without wifi and if you don&#x27;t use it it&#x27;s possible to disable the wifi radio. To re-enable wifi, reset network settings.</p>
 <doc-anchor-target id="factory-reset">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#factory-reset">#</doc-anchor-trigger>
@@ -281,7 +284,7 @@ To program the filler we want to start a fill and stop it at the desired fill le
     </h2>
 </doc-anchor-target>
 <p>Power off filler, press push button and power up while holding the button.</p>
-<p>Hold push button for 5 seconds and release to reset network settings and 10 seconds and release to reset all settings to default.</p>
+<p>Hold push button for 5 seconds and release to reset network settings and 10 seconds and release to reset all settings to factory default.</p>
 <doc-anchor-target id="firmware-upgrade">
     <h2>
         <doc-anchor-trigger class="header-anchor-trigger" to="#firmware-upgrade">#</doc-anchor-trigger>
@@ -293,6 +296,26 @@ To program the filler we want to start a fill and stop it at the desired fill le
     <img src="../../static/firmware.png" alt="" />
     <figcaption class="caption"></figcaption>
 </figure>
+</p>
+<doc-anchor-target id="details">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#details">#</doc-anchor-trigger>
+        <span>Details</span>
+    </h3>
+</doc-anchor-target>
+<p>For details please see the quick reference <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M4.97 13.22a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 10-1.06-1.06l-4.97 4.97V3.75a.75.75 0 00-1.5 0v14.44l-4.97-4.97a.75.75 0 00-1.06 0z"/></g></g></svg> 
+<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
+    <div class="flex items-center text-blue-500 dark:text-blue-400">
+        <span class="inline-block mb-px">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
+        </span>
+        <span class="inline-block font-medium ml-2">Quick Reference</span>
+    </div>
+    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
+        <span>../../support/quickreference/</span>
+    </div>
+    <a href="../../support/quickreference/" class="absolute block inset-0"></a>
+</div>
 </p>
 
                                 
