@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.709758579770">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.709759286509">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.3.0">
@@ -30,11 +30,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=2.3.0.709758579770" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=2.3.0.709759286509" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=2.3.0.709758579770" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=2.3.0.709759286509" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=2.3.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.3.0.709758579770" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.3.0.709759286509" data-turbo-eval="false" defer></script>
     <script id="mermaid-js" type="text/javascript" src="../resources/js/mermaid.js?v=2.3.0" defer></script>
 </head>
 <body>
@@ -228,9 +228,9 @@
         <span>Operation modes</span>
     </h3>
 </doc-anchor-target>
-<p>The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode. To switch between the modes hold the button for 2 seconds and release. RGB Led color will change on button release.</p>
-<p>Sensor Mode is indicated by a solid blue light in the push-button when the filler is idle. Sensor Mode uses a pressure sensor to measure the fill level height. The pressure is measured in the CO<sub>2</sub> tube. When the liquid level in the can increases the pressure in the CO<sub>2</sub> tube will increase directly proportional to the liquid level in the can. Sensor mode can only be used to fill cans not bottles. When the foam enters the narrow bottleneck it creates a small back pressure in the bottle, enough for the sensor to detect a false level reading. Also be aware that the large bubbles you often find in highly carbonated water, soda, and cider will make the sensor mode more inconsistent than if using it with beer. Timer mode will work best for a carbonated beverage with large bubbles and high carbonation.</p>
-<p>Timer mode is indicated by a solid green light in the push-button when the filler is idle. Timer Mode fills the can for a defined time. Timer mode is very reliable and consistent, but it requires that the keg pressure is stable and the foam cap is consistent from can to can. We recommend using timer mode as the default mode for both carbonated and uncarbonated beverages. Timer mode can also be used to fill bottles.</p>
+<p>The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode.</p>
+<p>Sensor Mode uses a pressure sensor to measure the fill level height. The pressure is measured in the CO<sub>2</sub> tube. When the liquid level in the can increases the pressure in the CO<sub>2</sub> tube will increase directly proportional to the liquid level and basically ignoring the foam height. Sensor mode works best with beer. The large bubbles you often find in highly carbonated water, soda, and cider will make the sensor mode more inconsistent than if using it with beer.</p>
+<p>Timer Mode fills the can for a defined time. Timer mode is very reliable and consistent, but it requires that the keg pressure is stable and the foam cap is consistent from can to can. We recommend using timer mode as the default mode for both carbonated and uncarbonated beverages. When filling bottles Timer Mode must be selcted as Sensor Mode will be unreliable due to backpressure in the bottle when foam exits the bottle neck.</p>
 <doc-anchor-target id="operation">
     <h4>
         <doc-anchor-trigger class="header-anchor-trigger" to="#operation">#</doc-anchor-trigger>
@@ -240,6 +240,7 @@
 <p>The operation of the Duofiller and Duofiller Mono is simple and intuitive. When the filler is idle give the corresponding push-button a short press to start a fill. The fill sequence will start with purge and then beverage fill. Any time during the fill sequence it can be stopped/aborted by a short press on the push button.</p>
 <p>A typical can-fill run:</p>
 <img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
+<p>Set to Sensor Mode or Timer mode</p>
 <ol type="I">
 <li>Insert empty can, press button to start fill</li>
 <li>Wait until filling stops</li>
@@ -247,12 +248,14 @@
 <li>Repeat.</li>
 </ol>
 <p>A typical bottle-fill run:</p>
+<p>Set to Timer Mode and remove the can holder bracket. Bottle must be held in place by hand.</p>
 <ol type="I">
 <li>Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling</li>
 <li>Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops</li>
 <li>Remove the full bottle, insert a new empty bottle</li>
 <li>Repeat.</li>
 </ol>
+<p>You want to move the bottle downwards as it fills. The reason is that you don&#x27;t want the fill tubes to displace to much liquid. If the tubes are fully submerged in the bottle the level will drop when you remove the bottle from the tubes. By lowering the bottle while it fills the volume displaced by the fill tubes is kept at a minimum.</p>
 <doc-anchor-target id="fill-sequence">
     <h3>
         <doc-anchor-trigger class="header-anchor-trigger" to="#fill-sequence">#</doc-anchor-trigger>
@@ -282,7 +285,17 @@
     Done(Fill level reached)--&gt;|remove can|Idle(Idle);
     style Done fill:#00FF00
     </pre></div>
-<p>The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.</p>
+<p>The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing.</p>
+<doc-anchor-target id="bottle-filling-vs-can-filling">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bottle-filling-vs-can-filling">#</doc-anchor-trigger>
+        <span>Bottle filling vs can filling</span>
+    </h3>
+</doc-anchor-target>
+<ul>
+<li>Bottle filling is always done in Timer Mode</li>
+<li></li>
+</ul>
 
                                 
                                 <!-- Required only on API pages -->
