@@ -38,12 +38,6 @@ Use only in ventilated areas. As the filler uses CO~2~ for purge gas there is ha
 Never use the filler to fill flammable liquids. Never use it with beverages that has more than 30% alcohol concentration. Use only for beverages and the recommended cleaning agents, never use it to fill chemicals<br>
 <br>
 <br>
-<img src="/static/spray.png" alt="drawing" style="width:200px;"/>
-<br>
-<br>
-The filler is not suitable for installation in an area where a water jet could be used. Do not spray and do not submerge in water. It may cause damage to health, life, or property. 
-<br>
-<br>
 <img src="/static/pressure.jfif" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -52,6 +46,12 @@ Duofiller is normally used with liquid under pressure. Always inspect hoses and 
 **Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 76 °C. Always perform a pressure test with clean, cold water before each use.**
 
 **Always depressurise when not in use**
+<br>
+<br>
+<img src="/static/spray.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+The filler is not suitable for installation in an area where a water jet could be used. Do not spray and do not submerge in water. It may cause damage to health, life, or property. 
 <br>
 <br>
 <img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
