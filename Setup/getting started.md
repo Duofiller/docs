@@ -20,7 +20,7 @@ Go back to sensor mode programming and repeat a few times until you are familiar
 If you have the Duofiller do the same for the second fill head.
 
 ## Timer mode fill level programming
-Go back to timer mode (hold button 2 seconds and release). When in timer mode hold button for 4-5 seconds and release to go to Timer Mode fill level programming. The green led will start to blink, indicating that it's in Timer Mode fill level programming is active. Programming is done exactly the same way as in sensor mode. Start a fill and stop it at the desired fill level. The only difference is that on successful fill level save, it will not jump automatically back to Timer Mode. To go back to Timer Mode hold push button for 4-5 seconds and release. 
+Go back to timer mode (hold button 2 seconds and release). When in timer mode hold button for 4-5 seconds and release to go to Timer Mode fill level programming. The green led will start to blink, indicating that it's in Timer Mode fill level programming is active. Use a glass, can or bottle to do the programming. Programming is done exactly the same way as in sensor mode. Start a fill and stop it at the desired fill level. The only difference is that on successful fill level save, it will not jump automatically back to Timer Mode. To go back to Timer Mode hold push button for 4-5 seconds and release. 
 
 Start a fill and verify it stops at the programmed fill level.
 
@@ -48,7 +48,7 @@ Fill time for Timer Mode can be set in milliseconds and fill level for sensor mo
 
 In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network. Make sure your phone, tablet or computer is connected back on home wifi. You can find the filler menu by typing address "http://duofiller.local" or it's assigned IP address. Find IP address either by using a network scanner (look for a device "Duofiller" or sometimes "espressif") or log in to your router and find the filler in the DHCP lease list.
 
-The hostname of the filler can be changed in the menu. For example if you have more than one Duofiller it's possible to rename them to for example "Duofiller1", "Duofiller2", etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. You can also change each fillers AP SSID to differentiate between more than one filler.
+The hostname of the filler can be changed in the menu. For example if you have more than one Duofiller it's possible to rename them to for example "Duofiller1", "Duofiller2", etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. You can also change each fillers AP SSID (and password) to differentiate between more than one filler.
 
 Web interface also has a "disable wifi" option. The filler works perfectly fine without wifi and if you don't use it it's possible to disable the wifi radio. To re-enable wifi, reset network settings.
 
