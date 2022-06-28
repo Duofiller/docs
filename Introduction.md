@@ -20,11 +20,11 @@ It's also possible to edit parameters on the Duofillers webpage interface access
 
 ### Operation modes
 
-The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode. To switch between the modes hold the button for 2 seconds and release. RGB Led color will change on button release. 
+The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode. 
 
-Sensor Mode is indicated by a solid blue light in the push-button when the filler is idle. Sensor Mode uses a pressure sensor to measure the fill level height. The pressure is measured in the CO~2~ tube. When the liquid level in the can increases the pressure in the CO~2~ tube will increase directly proportional to the liquid level in the can. Sensor mode can only be used to fill cans not bottles. When the foam enters the narrow bottleneck it creates a small back pressure in the bottle, enough for the sensor to detect a false level reading. Also be aware that the large bubbles you often find in highly carbonated water, soda, and cider will make the sensor mode more inconsistent than if using it with beer. Timer mode will work best for a carbonated beverage with large bubbles and high carbonation.
+Sensor Mode uses a pressure sensor to measure the fill level height. The pressure is measured in the CO~2~ tube. When the liquid level in the can increases the pressure in the CO~2~ tube will increase directly proportional to the liquid level and basically ignoring the foam height. Sensor mode works best with beer. The large bubbles you often find in highly carbonated water, soda, and cider will make the sensor mode more inconsistent than if using it with beer.
 
-Timer mode is indicated by a solid green light in the push-button when the filler is idle. Timer Mode fills the can for a defined time. Timer mode is very reliable and consistent, but it requires that the keg pressure is stable and the foam cap is consistent from can to can. We recommend using timer mode as the default mode for both carbonated and uncarbonated beverages. Timer mode can also be used to fill bottles. 
+Timer Mode fills the can for a defined time. Timer mode is very reliable and consistent, but it requires that the keg pressure is stable and the foam cap is consistent from can to can. We recommend using timer mode as the default mode for both carbonated and uncarbonated beverages. When filling bottles Timer Mode must be selcted as Sensor Mode will be unreliable due to backpressure in the bottle when foam exits the bottle neck. 
 
 #### Operation
 
@@ -34,6 +34,8 @@ A typical can-fill run:
 
 <img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
 
+Set to Sensor Mode or Timer mode
+
 I. Insert empty can, press button to start fill
 II. Wait until filling stops
 III. Remove the full can, insert a new empty can
@@ -41,10 +43,14 @@ IIII. Repeat.
 
 A typical bottle-fill run:
 
+Set to Timer Mode and remove the can holder bracket. Bottle must be held in place by hand.
+
 I. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
 II. Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops
 III. Remove the full bottle, insert a new empty bottle
 IIII. Repeat.
+
+You want to move the bottle downwards as it fills. The reason is that you don't want the fill tubes to displace to much liquid. If the tubes are fully submerged in the bottle the level will drop when you remove the bottle from the tubes. By lowering the bottle while it fills the volume displaced by the fill tubes is kept at a minimum.
 
 ### Fill sequence
 
@@ -80,9 +86,11 @@ graph TD;
     
 ```
 
-The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.
+The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. 
 
-
+### Bottle filling vs can filling
+- Bottle filling is always done in Timer Mode
+- 
 
 
 

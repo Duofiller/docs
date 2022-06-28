@@ -11,7 +11,7 @@ When filler starts up first time the LED will light green. This indicates that t
 
 ## Sensor mode fill level programming
 When in sensor mode hold button for 4 seconds and release. The led starts to blink blue. This inducates that the filler is in sensor mode programming mode. 
-To program the filler we want to start a fill and stop it at the desired fill level. Place a glass or can under the fill head and start a fill by pressing the push button. Fill sequence will begin by first purging and then switch to beverage fill. Pay attention to the fill level. When at desired level press the push button a short press and it will stop. The led goes green, which means it successfully saved the fill level. The fill level will not be stored if the fill level is set at 25mm or less. If the fill level is not stored successfully it blinks red and stays in fill level program mode. On successfull fill level save it will jump back to sensor mode automatically. 
+To program the filler we want to start a fill and stop it at the desired fill level. Place a glass or can under the fill head and start a fill by pressing the push button. Fill sequence will begin by first purging and then switch to beverage fill. Pay attention to the fill level. When at desired level press the push button a short press and it will stop. The led goes green, which means it successfully saved the fill level. The fill level will not be stored if the fill level is set at 25mm or less. If the fill level is not stored successfully it blinks red and stays in fill level program mode. On successfull fill level save it will jump back to sensor mode automatically after the can is removed.
 
 Start a new fill and it will stop at the saved fill level. 
 
