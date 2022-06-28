@@ -108,7 +108,5 @@ The Duofiller has a Wifi AP which can be used to upload new firmware. To start t
 ![](/static/IMG_1242_small.jpg)
 
 
-### Factory reset
 
-Hold any button for for more than 30 seconds and release. It will reset to factory defaults, including fill levels, purge time and wifi settings.
 
