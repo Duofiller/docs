@@ -1,5 +1,6 @@
 ---
 order: 999
+icon: alert
 ---
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
