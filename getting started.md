@@ -50,14 +50,15 @@ Default, on each boot the filler starts an accesspoint (AP) with **SSID "Duofill
 
 Fill time for Timer Mode can be set in milliseconds and fill level for sensor mode can be set in millimeters. Please note that the intention is to have the possibility to fine-tune the already set fill level. Don't expect to dial in the exact fill level in millimeter with the web interface. But for adjusting the fill level 1-2-5-10 mm up or down it works great. Fill level in millimeter indicates the measured fill level above the tip of the CO~2~ tube using non carbonated water. With carbonated beverage the actual fill level will be slightly different, depending on the carbonation level and SG (specific gravity).
 
-In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network. Make sure your phone, tablet or computer is connected back on home wifi. You can find the filler menu by typing address "http://duofiller.local" or it's assigned IP address. Find IP address either by using a network scanner (look for a device "Duofiller" or sometimes "espressif") or log in to your router and find the filler in the DHCP lease list.
+In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network. Make sure your phone, tablet or computer is connected back on home wifi. You can find the filler menu by typing address http://duofiller.local or it's assigned IP address. Find IP address either by using a network scanner (look for a device "Duofiller" or sometimes "espressif") or log in to your router and find the filler in the DHCP lease list.
 
 The hostname of the filler can be changed in the menu. For example if you have more than one Duofiller it's possible to rename them to for example "Duofiller1", "Duofiller2", etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. You can also change each fillers AP SSID (and password) to differentiate between more than one filler.
 
 Web interface also has a "disable wifi" option. The filler works perfectly fine without wifi and if you don't use it it's possible to disable the wifi radio. To re-enable wifi, reset network settings.
 
 ## Factory reset
-**Power off filler, press push button and power up while holding the button: **
+
+**Power off filler, press push button and power up while holding the button:**
 
 Hold push button for 5 seconds and release to reset network settings. 5 seconds is indicated by a blue led. 
 
