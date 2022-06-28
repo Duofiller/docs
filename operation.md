@@ -96,9 +96,7 @@ Purge time is set globally for both Timer Mode and Sensor Mode. For Timer Mode p
 
 Default and factory set purge time are 6 seconds. The Purge time setting is stored in persistent memory.
 
-### Details
 
-For details please see the quick reference :icon-arrow-down: [!ref Quick Reference](/Support/quickreference.md) 
 
 
 ### Firmware upgrade

@@ -12,9 +12,6 @@ Before using the Duofiller, to be sure its flow path is clean before the beverag
 2. Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan, SureSan or equivalent) at its recommended concentration. Contact time 3 minutes or more
 3. Gently spray (with a spray bottle) or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.
 
-Fine calibration can be done later by moving the CO~2~ tube up or down to move the fill level setpoint.
-Please be aware that to get the correct calibration in Timer Mode the filler must be primed, the container must be empty for the correct volume to be stored and the keg must have the same pressure as the beverage keg. It's often better to calibrate timer mode with beverage and fine adjust the fill level in the web-interface of the filler. 
-
 ### After use
 After using the Duofiller with beverage it's mandatory to immediately do an in-line cleaning of the filler. 
 

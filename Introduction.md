@@ -20,26 +20,68 @@ It's also possible to edit parameters on the Duofillers webpage interface access
 
 ### Operation modes
 
-The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode. To switch between the modes hold the button for 2 seconds and release. RGB Led color will change on button release. Timer Mode is indicated by a solid green light when the filler is idle. Sensor mode is indicated by a solid blue light. On boot, it will enter Timer Mode or the standard mode selected in the web interface.
+The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode. To switch between the modes hold the button for 2 seconds and release. RGB Led color will change on button release. 
 
-### Add ons
-The filler comes with a standard length of 2m ID 3.2mm (1/8") / OD 6.4mm (1/4") beverage hose to connect between the keg and the filler. The length is to provide adequate and even pressure drop in the hose to avoid foaming. The flowrate of the standard hose is 1.2 liter/minute @1 bar keg pressure
+Sensor Mode is indicated by a solid blue light in the push-button when the filler is idle. Sensor Mode uses a pressure sensor to measure the fill level height. The pressure is measured in the CO~2~ tube. When the liquid level in the can increases the pressure in the CO~2~ tube will increase directly proportional to the liquid level in the can. Sensor mode can only be used to fill cans not bottles. When the foam enters the narrow bottleneck it creates a small back pressure in the bottle, enough for the sensor to detect a false level reading. Also be aware that the large bubbles you often find in highly carbonated water, soda, and cider will make the sensor mode more inconsistent than if using it with beer. Timer mode will work best for a carbonated beverage with large bubbles and high carbonation.
 
-**Flow control kit**
+Timer mode is indicated by a solid green light in the push-button when the filler is idle. Timer Mode fills the can for a defined time. Timer mode is very reliable and consistent, but it requires that the keg pressure is stable and the foam cap is consistent from can to can. We recommend using timer mode as the default mode for both carbonated and uncarbonated beverages. Timer mode can also be used to fill bottles. 
 
-We also sell a flow control kit where the pressure drop is in an inline flow control valve. The hose that comes along with the kit is 5mm (3/16") ID and 8mm (5/16) OD. The flow rate of the flow control kit is 1.6 liter/minute @1 bar keg pressure. The kit makes it easy to control the beverage flow rate. The foam-cap height normally varies with the temperature but also the flow. To a certain degree, the kit will make it possible to adjust the foam height by controlling the flow rate. The flow control kit includes a filter strainer to keep the flow control valve free of debris
+# Operation
 
-**High-temperature kit**
+The operation of the Duofiller and Duofiller Mono is simple and intuitive. When the filler is idle give the corresponding push-button a short press to start a fill. The fill sequence will start with purge and then beverage fill. Any time during the fill sequence it can be stopped/aborted by a short press on the push button. 
 
-The second kit is a high-temperature kit. It consists of a temperature-resistant hose that can be boiled. With this addon, all beverage contact parts have the temperature rating to be disassembled and boiled in water as an efficient method of disinfection.
+A typical can-fill run:
 
-**Foam reducing kit**
+<img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
 
-Foam reducing kit is a 2m long 2.5mm ID (0.1") / OD 4mm (5/32"). This hose is a lot more foam damping than the original hose.
+I. Insert empty can, press button to start fill
+II. Wait until filling stops
+III. Remove the full can, insert a new empty can
+IIII. Repeat.
 
-**Duofiller G1 -> G2 upgrade kit**
+A typical bottle-fill run:
 
- This kit contains all the beverage contact parts, including the pinch type valves. It also contains the tube clamps that allows for bottle filling and it contains a new control board allowing bottle filling and featuring Wifi. Functionality will be as Duofiller G2 but max temperature is 65 C compared to 76 C for Duofiller G2. Contact us for details.
+I. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
+II. Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops
+III. Remove the full bottle, insert a new empty bottle
+IIII. Repeat.
+
+### Fill sequence
+
+The fill sequence is started by pressing the button with a short press when the filler is idle in Timer Mode or Sensor Mode.
+
+**Timer mode sequence and LED status:**
+
+```mermaid
+graph TD;
+    Idle(Idle)-->|short button press|Purge(Purge);
+    style Idle fill:#00FF00
+    Purge(Purge)-->Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)-->Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill time reached)-->|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    
+```
+
+**Sensor mode sequence and LED status:**
+
+```mermaid
+graph TD;
+    Idle(Idle)-->|short button press|Purge(Purge);
+    style Idle fill:#00FFFF
+    Purge(Purge)-->Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)-->Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill level reached)-->|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    
+```
+
+The fill sequence can be aborted at any time by pressing the button a short press while the fill sequence is ongoing. In sensor mode the LED will be green until the can is removed.
+
 
 
 
