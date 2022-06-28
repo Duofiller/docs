@@ -53,9 +53,11 @@ The hostname of the filler can be changed in the menu. For example if you have m
 Web interface also has a "disable wifi" option. The filler works perfectly fine without wifi and if you don't use it it's possible to disable the wifi radio. To re-enable wifi, reset network settings.
 
 ## Factory reset
-Power off filler, press push button and power up while holding the button. 
+**Power off filler, press push button and power up while holding the button: **
 
-Hold push button for 5 seconds and release to reset network settings and 10 seconds and release to reset all settings to factory default.
+Hold push button for 5 seconds and release to reset network settings. 5 seconds is indicated by a blue led. 
+
+Hold push button for 10 seconds and release to reset all settings to factory default. 10 seconds is indicated by a red led. To abort the reset, hold for more than 15 seconds and release. The filler will start with all settings intact.
 
 ## Firmware upgrade
 
