@@ -30,7 +30,7 @@ Timer Mode fills the can for a defined time. Timer mode is very reliable and con
 
 The operation of the Duofiller and Duofiller Mono is simple and intuitive. When the filler is idle give the corresponding push-button a short press to start a fill. The fill sequence will start with purge and then beverage fill. Any time during the fill sequence it can be stopped/aborted by a short press on the push button. 
 
-A typical can-fill run:
+**A typical can-fill run:**
 
 <img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
 
@@ -41,7 +41,7 @@ II. Wait until filling stops
 III. Remove the full can, insert a new empty can
 IIII. Repeat.
 
-A typical bottle-fill run:
+**A typical bottle-fill run:**
 
 <img src="/static/monobottle.png" alt="drawing" style="width:200px;"/>
 
