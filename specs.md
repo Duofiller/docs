@@ -27,7 +27,7 @@ CO~2~ connector | 3/8" Fluidfit/DMfit type bulkhead / 1/4" hose barb
 Beverage connector | 1/4" Fluidfit type bulkhead
 Fill time repeatability Timer Mode | +/- 100 ms
 Fill level repeatability Sensor Mode | +/- 2 mm
-Wifi frequency | 2.4Ghz (channel 1 default)
+Wifi frequency | 2.4Ghz
 
 
 
