@@ -48,7 +48,7 @@ If you plan to use with cans, fasten the canholder bracket. If you plan to use o
 <br>
 <br>
 <br>
-Wall mounting hole distance is 75mm. The Duofiller Mono is meant to be mounted on a wall in an upright posistion. It does not have VESA mounting holes as the Duofiller G2.<br>
+Wall mounting hole distance is 55mm. The Duofiller Mono is meant to be mounted on a wall in an upright posistion. It does not have VESA mounting holes as the Duofiller G2.<br>
 <img src="/static/mono9.png" alt="drawing" style="width:300px;"/>
 <br>
 <br>
