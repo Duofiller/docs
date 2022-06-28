@@ -14,10 +14,6 @@ Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the s
 
 # Safety
 
-<img src="/static/warning.jpg" alt="drawing" style="width:200px;"/>
-<br>
-<br>
-
 In order to make the most out of your filler, it’s important that you read and follow these instructions carefully.
 
 For the safety of your children, do not leave any packaging parts (cardboard, plastic, etc.) within reach. Do not let small children play with foil. There is a danger of suffocation! The filler is not intended for use by persons (including children) with reduced physical, sensory or mental capabilities or lack of experience and/or knowledge, unless they are supervised by a person responsible for their safety or have received instructions from that person on how to use the device.
