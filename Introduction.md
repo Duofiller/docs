@@ -14,7 +14,7 @@ It has electrical valves to control the CO~2~ flow and the beverage flow. The be
 
 ### User Interface
 
-The primary user interface for the Duofiller is each fill heads corresponding push button and each button has a tri-color RGB LED for user feedback. The filling is started by a short button press. An ongoing fill sequence can be stopped or aborted at any time by pressing the same button once. Programming and menu navigation is done by timed button presses. 
+The primary user interface for the Duofiller is each fill heads corresponding push button. Each button has a tri-color RGB LED for user feedback. The filling is started by a short button press. An ongoing fill sequence can be stopped or aborted at any time by pressing the same button once. Programming and menu navigation is done by timed button presses. 
 
 It's also possible to edit parameters on the Duofillers webpage interface accessed by wifi. Wifi must be considered as a supplement as normally when using the Duofiller your hands are wet and it's not very practical to navigate on a touch screen or computer. But for some settings it might be more convenient to use the web interface, it's up to the user. Wifi is not a requirement for using the filler and wifi radio can aslo be disabled if desired.
 
