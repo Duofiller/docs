@@ -43,6 +43,8 @@ IIII. Repeat.
 
 A typical bottle-fill run:
 
+<img src="/static/monobottle.png" alt="drawing" style="width:200px;"/>
+
 Set to Timer Mode and remove the can holder bracket. Bottle must be held in place by hand.
 
 I. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
@@ -50,7 +52,7 @@ II. Move bottle downwards as it fills, keeping the fill-tube submerged only a fe
 III. Remove the full bottle, insert a new empty bottle
 IIII. Repeat.
 
-You want to move the bottle downwards as it fills. The reason is that you don't want the fill tubes to displace to much liquid. If the tubes are fully submerged in the bottle the level will drop when you remove the bottle from the tubes. By lowering the bottle while it fills the volume displaced by the fill tubes is kept at a minimum.
+You want to move the bottle downwards as it fills. The reason is that you don't want the fill tubes to displace too much liquid. If the tubes are fully submerged in the bottle the level will drop when you remove the bottle from the tubes. By lowering the bottle while it fills the volume displaced by the fill tubes is kept at a minimum.
 
 ### Fill sequence
 
