@@ -72,4 +72,4 @@ The web interface has an "update firmware" option. Select the firmware file (*.b
 
 ### Details
 
-For details please see the quick reference :icon-arrow-down: [!ref Quick Reference](/Support/quickreference.md) 
+For details please see the quick reference :icon-arrow-down: [!ref Quick Reference](/quickreference.md) 
