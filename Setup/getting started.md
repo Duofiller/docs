@@ -2,24 +2,42 @@
 
 This guide is for both the Duofiller and the Duofiller Mono. 
 
-- Make sure the filler is connected to a keg with water or sanitizer and keg pressure approximately 1 bar. 
+- Place a drip tray under the filler. Always use a drip tray to collect spills under the filler.
+- Make sure the filler is connected to a keg with cold water and keg pressure approximately 1 bar. 
 - Connect CO~2~ to the filler and make sure CO~2~ pressure is below 3psi/0.2 bar.
 - Power up the filler by connecting the plug from the power supply into the socket.
 
-When filler starts up first time the LED will light green. This indicates that the filler is in timer mode. For first time use we want to have it in sensor mode for calibration. Hold push button 2 seconds and release. Led shall switch to solid blue, indicating it's switched to sensor mode. (If the led instead starts to blink green you probably held the button to long. Hold button 4 seconds and it should be back in timer mode and try to set it in sensor mode again.)
+When filler starts up first time the LED will light green. This indicates that the filler is in timer mode. For first time use we want to have it in sensor mode for calibration and function test. Hold push button 2 seconds and release. Led shall switch to solid blue, indicating it's switched to sensor mode. (If the led instead starts to blink green you probably held the button to long. Hold button 4-5 seconds and it should be back in timer mode; try to set it in sensor mode again.)
 
-## Sensor mode programming
+## Sensor mode fill level programming/function test
 When in sensor mode hold button for 4 seconds and release. The led starts to blink blue. This inducates that the filler is in sensor mode programming mode. 
-To program the filler we want to start a fill and stop it at the desired fill level. Place a glass or can under the fill head and start a fill by pressing the push button. Fill sequence will begin by first purging and then switch to beverage fill. Pay attention to the fill level. When at desired level press the push button a short press and it will stop. The led goes green, which means it successfully saved the fill level. On successfull fill level save it will jump back to sensor mode automatically. Start a new fill and it will stop at the saved fill level. If you have the Duofiller do the same for the second fill head.
+To program the filler we want to start a fill and stop it at the desired fill level. Place a glass or can under the fill head and start a fill by pressing the push button. Fill sequence will begin by first purging and then switch to beverage fill. Pay attention to the fill level. When at desired level press the push button a short press and it will stop. The led goes green, which means it successfully saved the fill level. The fill level will not be stored if the fill level is set at 25mm or less. If the fill level is not stored successfully it blinks red and stays in fill level program mode. On successfull fill level save it will jump back to sensor mode automatically. 
+
+Start a new fill and it will stop at the saved fill level. 
 
 Go back to sensor mode programming and repeat a few times until you are familiar with the programming. 
 
-## Timer mode programming
-Go back to timer mode (hold button 2 seconds and release). When in timer mode hold button for 4 seconds and release. The green led will start to blink, indicating that it's in timer mode programming mode. Programming is done exactly the same way as in sensor mode. Start a fill and stop it at the desired fill level. The only difference is that on successful fill level save, it will not jump automatically back to timer mode. To go back to timer mode hold push button for 4 seconds and release.
+If you have the Duofiller do the same for the second fill head.
 
+## Timer mode fill level programming/function test
+Go back to timer mode (hold button 2 seconds and release). When in timer mode hold button for 4-5 seconds and release. The green led will start to blink, indicating that it's in Timer Mode fill level programming is active. Programming is done exactly the same way as in sensor mode. Start a fill and stop it at the desired fill level. The only difference is that on successful fill level save, it will not jump automatically back to timer mode.To go back to timer mode hold push button for 4-5 seconds and release. 
+
+Start a fill and verify it stops at the programmed fill level.
+
+Since Timer Mode measures the exact time used to fill to the desired fill level it's important to keep that in mind before the fill level is programmed. Set the keg pressure, flush/prime beverage tubing, etc. before Timer Mode programming is done.
+
+## Cleaning
+
+1. Flush through the filler with lukewarm water. Start a fill in Timer Mode programming mode for flushing, the beverage valve will stay open until manually aborted. Contact time 5 minutes or more. If first-time use or if there are liquid residues in the tubes we recommend using PBW or a dishwasher detergent (at recommended concentration) and flush for 10 minutes.
+2. Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan, SureSan or equivalent) at its recommended concentration. Contact time 3 minutes or more
+3. Gently spray (with a spray bottle) or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.
+
+## Beverage fill
+
+After first time cleaning the filler is ready to use. Connect a keg with beverage. Repeat fill level calibrations using the beverage. Don't expect programmed fill level done with water to be similar to actual fill level with beverage. Many factors play a role; in sensor mode the fill level is affected by SG, carbonation level (amount of bubbles) and flow. In Timer Mode the fill level is mainly affected by keg pressure and beverage viscosity. If you have a stable keg pressure then Timer Mode will be the most accurate fill mode. If you experience inconsistent fill level with Timer Mode then switch to Sensor Mode filling.
 
 ## Purge time programming
-To enter purge time programming mode first make sure that you are in either sensor mode or timer mode. Hold push button for 10 seconds and release. LED will turn dark, indicationg you are in purge time programming mode. Default, recommended and factory set purge time is 6 seconds. To change it push the button once to step one second forward. Each push moves the purge time +1 seconds. When at 10 seconds next step will be 0 seconds. Each step is indicated by a red blink in the led. On 0 seconds the led blinks green and on 5 seconds the led blinks blue. When at desired purge time exit purge time programming mode by holding the push button 10 seconds and release.
+To enter purge time programming mode first make sure that you are in either sensor mode or timer mode. Hold the push button for more than 6 seconds and release. LED will turn off, indicating that it's in purge time programming mode. Default, recommended and factory set purge time is 6 seconds. When in purge time programming mode a short press on the button will skip the purge time +1 second forward. For each step, the led will blink red. When the purge time is 5 seconds the led will blink green instead of red. When at 10 seconds the next step will be 0 seconds. When at 0 seconds the led blinks blue (0 seconds = purge disabled). Hold push button more than 6 seconds and release to exit purge time programming mode.
 
 ## Web interface
 On first boot the filler starts an accesspoint (AP) with SSID "Duofiller" and password "duofiller". Use a phone, tablet or computer to connect to that AP. On successful connection enter "http://192.168.4.1" or "http://duofiller.local" in the browser address field. It will take you to the web-interface menu. In the web interface you can adjust fill level for sensor mode, fill time for timer mode and purge time. there is also a fill counter that is handy to use to easily count how many fillings has been done. 
