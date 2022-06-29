@@ -52,7 +52,7 @@ Fill time for Timer Mode can be set in milliseconds and fill level for sensor mo
 
 In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network and you can control it using any device connected to the same network. You can find the filler menu by typing address http://duofiller.local or it's assigned IP address. Find IP address either by using a network scanner (look for a device "Duofiller" or sometimes "espressif") or log in to your router and find the filler in the DHCP lease list. Make sure your phone, tablet or computer is connected to the same wifi as the filler.
 
-The hostname of the filler can be changed in the menu. For example if you have more than one Duofiller it's possible to rename them to for example "Duofiller1", "Duofiller2", etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. You can also change each fillers AP SSID (and password) to differentiate between more than one filler.
+You can change each fillers AP SSID (and password) to differentiate between more than one filler. The hostname of the filler will be the same as the AP SSID. For example if you have more than one Duofiller it's possible to rename them to for example "Duofiller1", "Duofiller2", etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. 
 
 Web interface also has a "disable wifi" option. The filler works perfectly fine without wifi and if you don't use it it's possible to disable the wifi radio. To re-enable wifi, reset network settings.
 
