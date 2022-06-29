@@ -4,7 +4,7 @@ order: 108
 
 # Getting started
 
-This guide is for both the Duofiller and the Duofiller Mono. 
+This guide is for both the Mono and Duofiller. 
 
 - Place a drip tray under the filler. Always use a drip tray to collect spills under the filler.
 - Make sure the filler is connected to a keg with cold water and keg pressure approximately 1 bar. 

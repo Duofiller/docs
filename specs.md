@@ -4,7 +4,7 @@ order: 0
 
 # Specs
 
-Specs in the table applies to both Duofiller Mono and Duofiller unless specified
+Specs in the table applies to both Mono and Duofiller unless specified
 
 Property   | Value
 ---    | ---
@@ -17,7 +17,7 @@ Ambient temperature | 0 - 40 C / 34 - 104 F
 Flow rate @15psi/1 bar beverage pressure | 1.2 liter/min pr fill-head (with flow control add-on 1.6 liter/min pr fill-head)
 Beverage flow path ID | min. 3.2mm / 1/8"
 Beverage hose | 2m long, ID 3.2mm / OD 6.4mm (ID 1/8", OD 1/4")
-Dimensions Duofiller Mono | 325mm * 90mm * 109mm , weight 1.2kg
+Dimensions Mono | 325mm * 90mm * 109mm , weight 1.2kg
 Dimensions Duofiller | 325mm * 163mm * 109mm, weight 2.0kg
 Box dimensions | 410mm * 300mm * 90mm
 Body material | Stainless steel 304

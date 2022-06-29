@@ -5,7 +5,7 @@ icon: alert
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
-This user manual is for Duofiller G2 and Duofiller Mono. It's not for Duofiller Gen1 fillers, please find Gen1 user manual at:
+This user manual is for G2 series fillers, Mono and Duofiller G2. It's not for Duofiller Gen1 fillers, please find Gen1 user manual at:
 
 [!ref target="blank" text="Duofiller Gen1 user manual"](https://duofiller.com/manual)
 

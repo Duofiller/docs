@@ -4,13 +4,13 @@ order: 998
 
 # Introduction
 
-The new Duofiller generation 2 series is a can- and bottle filler that fills the cans or bottles to the desired fill level. The filling is done from a pressurized keg, unitank, barrel, etc. 
+The new Duofiller generation 2 (G2) series is a can- and bottle filler that fills the cans or bottles to the desired fill level. The filling is done from a pressurized keg, unitank, barrel, etc. 
 
-Currently, the series has two models, Duofiller Mono and Duofiller G2. Duofiller Mono is a single head filler while Duofiller is a dual head filler. Besides the fill-head count, they have equal functionality and they use software with equal functionality.
+Currently, the series has two models, Mono and Duofiller. Mono is a single head filler while Duofiller is a dual head filler. Besides the fill-head count, they have equal functionality and they use software with equal functionality.
 
 The filler has a two-step fill sequence; push the button and it first purges the can with CO~2~ before it starts to fill the beverage. The purge creates a blanket of CO~2~ on top of the liquid to minimize beverage air contact thus increasing the shelf life of the beverage. Beverage fill stops automatically when the desired fill level is reached.
 
-It has electrical valves to control the CO~2~ flow and the beverage flow. The beverage valves are of "pinch" valve type, meaning it pinches a tube to close. When in open position the valve ensures a near-perfect flow path without any restrictions that can cause turbulence or foaming and does not have cavities that are difficult to clean or where particles can get stuck. That also means that the tubing is the only contact material through the valve body. The beverage valve opening is pressure-assisted so it requires a minimum pressure in the beverage line (~0.5 bar) to open fully. After a long time without use, the first opening of the beverage valves may require more than 0.5 bar to assist the opening.
+They have electrical valves to control the CO~2~ flow and the beverage flow. The beverage valves are of "pinch" valve type, meaning it pinches a tube to close. When in open position the valve ensures a near-perfect flow path without any restrictions that can cause turbulence or foaming and does not have cavities that are difficult to clean or where particles can get stuck. That also means that the tubing is the only contact material through the valve body. The beverage valve opening is pressure-assisted so it requires a minimum pressure in the beverage line (~0.5 bar) to open fully. After a long time without use, the first opening of the beverage valves may require more than 0.5 bar to assist the opening.
 
 ### User Interface
 
@@ -28,7 +28,7 @@ Timer Mode fills the can for a defined time. Timer mode is very reliable and con
 
 #### Operation
 
-The operation of the Duofiller and Duofiller Mono is simple and intuitive. When the filler is idle give the corresponding push-button a short press to start a fill. The fill sequence will start with purge and then beverage fill. Any time during the fill sequence it can be stopped/aborted by a short press on the push button. 
+The operation of the Mono and Duofiller is simple and intuitive. When the filler is idle give the corresponding push-button a short press to start a fill. The fill sequence will start with purge and then beverage fill. Any time during the fill sequence it can be stopped/aborted by a short press on the push button. 
 
 **A typical can-fill run:**
 
