@@ -23,7 +23,8 @@ Fasten the foam pad on the tubeholder. Center hole on the foam pad is to align o
 <br>
 <br>
 <br>
-Fit the soft tubes over the stainless tubes. Please note, thick tube on the right side, thin tube on the left side.<br> 
+Fit the soft tubes over the stainless tubes. Point the stainless tube end away from your body. If the tube slips you won't risk to stab your body with it, it can hurt you badly. 
+Thick tube (beverage) on the right side, thin tube (CO~2~) on the left side.<br> 
 <img src="/static/mono4.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
