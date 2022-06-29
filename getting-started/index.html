@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.709856161437">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="2.3.0.709858565916">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 2.3.0">
@@ -32,11 +32,11 @@
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../resources/css/retype.css?v=2.3.0.709856161437" rel="stylesheet" />
+    <link href="../resources/css/retype.css?v=2.3.0.709858565916" rel="stylesheet" />
 
-    <script type="text/javascript" src="../resources/js/config.js?v=2.3.0.709856161437" data-turbo-eval="false" defer></script>
+    <script type="text/javascript" src="../resources/js/config.js?v=2.3.0.709858565916" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../resources/js/retype.js?v=2.3.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.3.0.709856161437" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" type="text/javascript" src="../resources/js/lunr.js?v=2.3.0.709858565916" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -275,7 +275,7 @@ To program the filler we want to start a fill and stop it at the desired fill le
 <p>Default, on each boot the filler starts an accesspoint (AP) with <strong>SSID &quot;Duofiller&quot; and password &quot;duofiller&quot;</strong>. Use a phone, tablet or computer to connect to that AP. On successful connection enter <a href="http://192.168.4.1">http://192.168.4.1</a> or <a href="http://duofiller.local">http://duofiller.local</a> in the browser address field. It will take you to the web-interface menu. In the web interface you can adjust fill level for sensor mode, fill time for timer mode and purge time. There is also a fill counter that is handy to use to easily count how many fillings has been done.</p>
 <p>Fill time for Timer Mode can be set in milliseconds and fill level for sensor mode can be set in millimeters. Please note that the intention is to have the possibility to fine-tune the already set fill level. Don&#x27;t expect to dial in the exact fill level in millimeter with the web interface. But for adjusting the fill level 1-2-5-10 mm up or down it works great. Fill level in millimeter indicates the measured fill level above the tip of the CO<sub>2</sub> tube using non carbonated water. With carbonated beverage the actual fill level will be slightly different, depending on the carbonation level and SG (specific gravity).</p>
 <p>In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network and you can control it using any device connected to the same network. You can find the filler menu by typing address <a href="http://duofiller.local">http://duofiller.local</a> or it&#x27;s assigned IP address. Find IP address either by using a network scanner (look for a device &quot;Duofiller&quot; or sometimes &quot;espressif&quot;) or log in to your router and find the filler in the DHCP lease list. Make sure your phone, tablet or computer is connected to the same wifi as the filler.</p>
-<p>The hostname of the filler can be changed in the menu. For example if you have more than one Duofiller it&#x27;s possible to rename them to for example &quot;Duofiller1&quot;, &quot;Duofiller2&quot;, etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc. You can also change each fillers AP SSID (and password) to differentiate between more than one filler.</p>
+<p>You can change each fillers AP SSID (and password) to differentiate between more than one filler. The hostname of the filler will be the same as the AP SSID. For example if you have more than one Duofiller it&#x27;s possible to rename them to for example &quot;Duofiller1&quot;, &quot;Duofiller2&quot;, etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc.</p>
 <p>Web interface also has a &quot;disable wifi&quot; option. The filler works perfectly fine without wifi and if you don&#x27;t use it it&#x27;s possible to disable the wifi radio. To re-enable wifi, reset network settings.</p>
 <doc-anchor-target id="factory-reset">
     <h2>
