@@ -62,7 +62,9 @@ Web interface also has a "disable wifi" option. The filler works perfectly fine 
 
 Hold push button for 5 seconds and release to reset network settings. 5 seconds is indicated by a blue led. 
 
-Hold push button for 10 seconds and release to reset all settings to factory default. 10 seconds is indicated by a red led. To abort the reset, hold for more than 15 seconds and release. The filler will start with all settings intact.
+Hold push button for 10 seconds and release to reset all settings to factory default. 10 seconds is indicated by a red led. 
+
+To abort the reset, hold for more than 15 seconds and release.
 
 ## Firmware upgrade
 
