@@ -56,7 +56,7 @@ IIII. Repeat.
 
 <img src="/static/duobottle.png" alt="drawing" style="width:200px;"/>
 
-Set to Timer Mode and remove the can holder bracket. Bottle must be held in place by hand.
+Remove can holder bracket and set to Timer Mode.
 
 I. Insert empty bottle, press button to start fill. Hold bottle in place by hand while filling
 II. Move bottle downwards as it fills, keeping the fill-tube submerged only a few centimeters into the liquid. Wait until filling stops
