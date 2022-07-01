@@ -5,13 +5,13 @@ order: 109
 # Mono assembly instructions
 
 When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.<br>
-<img src="/static/gloves.png" alt="drawing" style="width:600px;"/>
+<img src="/static/gloves.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
 Included in the box
 <br>
-<img src="/static/includedmono.png" alt="drawing" style="width:200px;"/>
+<img src="/static/includedmono.png" alt="drawing" style="width:600px;"/>
 <br>
 <br>
 <br>
