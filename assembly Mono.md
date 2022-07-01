@@ -9,6 +9,12 @@ When assembling the filler it's mandatory to use gloves. There might be sharp eg
 <br>
 <br>
 <br>
+Included in the box
+<br>
+<img src="/static/includedmono.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
 This is how the filler comes in the box. The user need to assemble the stainless tubes to the soft tubes and assemble the tubeholder and canholder bracket.<br>
 <img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
