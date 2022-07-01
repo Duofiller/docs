@@ -11,7 +11,7 @@ When assembling the filler it's mandatory to use gloves. There might be sharp eg
 <br>
 Included in the box
 <br>
-<img src="/static/1540.svg" alt="drawing" style="width:600px;"/>
+<img src="/static/1540.svg" alt="drawing" style="width:800px;"/>
 <br>
 <br>
 <br>
