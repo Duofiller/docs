@@ -23,6 +23,11 @@ It's also possible to edit parameters on the Duofillers webpage interface access
 <br>
 <br>
 <br>
+<br>
+<img src="/static/left.png" alt="drawing" style="width:400px;"/>
+<br>
+<br>
+<br>
 
 ### Operation modes
 
