@@ -54,7 +54,7 @@ IIII. Repeat.
 
 **A typical bottle-fill run:**
 
-<img src="/static/monobottle.png" alt="drawing" style="width:200px;"/>
+<img src="/static/duobottle.png" alt="drawing" style="width:200px;"/>
 
 Set to Timer Mode and remove the can holder bracket. Bottle must be held in place by hand.
 
