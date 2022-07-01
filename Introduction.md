@@ -18,6 +18,12 @@ The primary user interface for the Duofiller is each fill heads corresponding pu
 
 It's also possible to edit parameters on the Duofillers webpage interface accessed by wifi. Wifi must be considered as a supplement as normally when using the Duofiller your hands are wet and it's not very practical to navigate on a touch screen or computer. But for some settings it might be more convenient to use the web interface, it's up to the user. Wifi is not a requirement for using the filler and wifi radio can aslo be disabled if desired.
 
+<br>
+<img src="/static/menu.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
+
 ### Operation modes
 
 The Duofiller G2 series has two fill modes; Timer Mode and Sensor Mode. 
