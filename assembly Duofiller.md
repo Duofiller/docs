@@ -31,7 +31,9 @@ Thick tube (beverage) on the right side, thin tube (CO~2~) on the left side.<br>
 <br>
 <br>
 <br>
-Slide the stainless tubes approximately 10mm into the soft tubes. Use clean, cold water as lube. The tubing will not soften if heated. The thickest stainless tube is the beverage tube, it goes on the right side. It has a thin end, this is the end that goes into the soft tube. The thinnest stainless tube is the CO2 tube. It has one straight-cut end and one bevel-cut end. The straight end goes into the soft tube on the left side. Beware of the bevel end, it might be sharp:<br>
+You will need to fit the flexible tube over the end stainless steel pipe by about 10mm. The wider pipe (beverage) will go on the right, and the tube will fit on the narrow end. The thinner pipe (Co2) will go on the left, and the tube will fit on the flat end, and not the bevel end.
+When fitting the soft tubes over the stainless steel pipes ensure not to push the pipe towards your body as if it slips it may cause injury.
+Lubricating the tubes with cold, clean water will aid in the ease of fitting, however hot water will not soften the tube further.<br>
 <img src="/static/duo5.png" alt="drawing" width="300" height="700">
 <br>
 <br>
@@ -43,6 +45,10 @@ Position the tube clamp over the tubes:<br>
 <br>
 Slide the tubeclamp over the tubeholder bracket. You need to push the tubeclamp from beneath and up and it will slide onto the stainless bracket. The foam pad will be compressed to support the tubes in place.<br>
 <img src="/static/duo7.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
+<img src="/static/duo8.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
