@@ -25,13 +25,12 @@ Fasten the foam pad on the tubeholder. Center hole on the foam pad is to align o
 <br>
 <br>
 <br>
-Fit the soft tubes over the stainless tubes. Point the stainless tube end away from your body. If the tube slips you won't risk to stab your body with it, it can hurt you badly. 
-Thick tube (beverage) on the right side, thin tube (CO~2~) on the left side.<br> 
+You will need to fit the flexible tube over the end stainless steel pipe by about 10mm.<br> 
 <img src="/static/duo5.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
-You will need to fit the flexible tube over the end stainless steel pipe by about 10mm. The wider pipe (beverage) will go on the right, and the tube will fit on the narrow end. The thinner pipe (Co2) will go on the left, and the tube will fit on the flat end, and not the bevel end.
+The wider pipe (beverage) will go on the right, and the tube will fit on the narrow end. The thinner pipe (Co2) will go on the left, and the tube will fit on the flat end, and not the bevel end.
 When fitting the soft tubes over the stainless steel pipes ensure not to push the pipe towards your body as if it slips it may cause injury.
 Lubricating the tubes with cold, clean water will aid in the ease of fitting, however hot water will not soften the tube further.<br>
 <img src="/static/duo5.png" alt="drawing" width="300" height="700">
@@ -57,7 +56,7 @@ If you plan to use with cans, fasten the canholder bracket. If you plan to use o
 <br>
 <br>
 <br>
-Wall mounting hole distance is 130mm. The Duofiller is meant to be mounted on a wall in an upright posistion. It does have VESA 100 mounting holes if you want to use a TV or monitor stand, wall mount or flexible mounting arm.<br>
+Wall mounting hole distance is 130mm. The Duofiller is meant to be mounted on a wall in an upright posistion. It also has VESA 100 mounting holes if you want to use a TV or monitor stand, wall mount, or flexible mounting arm.<br>
 <img src="/static/duo9.png" alt="drawing" style="width:300px;"/>
 <br>
 <br>
@@ -71,7 +70,11 @@ Plug in the beverage tube, power plug and CO2 tube:<br>
 <br>
 <br>
 <br>
-We don't provide the CO2 hose but we include a 3/8" pushfit to 1/4" barb fitting:<br>
+We don't provide the CO2 hose but we include a 3/8" pushfit to 1/4" barb fitting<br>
+<img src="/static/duo13.png" alt="drawing" style="width:200px;"/>
+<br>
+<br>
+<br>
 
 CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pressure. CO2 regulator is not included.<br>
 <img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
