@@ -58,7 +58,7 @@ If you plan to use with cans, fasten the canholder bracket. If you plan to use o
 <br>
 <br>
 Wall mounting hole distance is 130mm. The Duofiller is meant to be mounted on a wall in an upright posistion. It does have VESA 100 mounting holes if you want to use a TV or monitor stand, wall mount or flexible mounting arm.<br>
-<img src="/static/duo9.jpg" alt="drawing" style="width:300px;"/>
+<img src="/static/duo9.png" alt="drawing" style="width:300px;"/>
 <br>
 <br>
 <br>
