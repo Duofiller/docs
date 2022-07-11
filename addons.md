@@ -12,4 +12,4 @@ We also have a flow control kit where the pressure drop is in an inline flow con
 The second kit is a high-temperature kit. It consists of a temperature-resistant hose that can be boiled. With this addon, all beverage contact parts have the temperature rating to be disassembled and boiled in water as an efficient method of disinfection.
 
 **Duofiller G1 -> G2 upgrade kit**
-This kit contains all the beverage contact parts, including the pinch type valves. It also contains the tube clamps that allows for bottle filling and it contains a new control board allowing bottle filling and featuring Wifi. Functionality will be as Duofiller G2 but max temperature is 65 C compared to 76 C for Duofiller G2. Contact us for details.
+This kit contains all the beverage contact parts, including the pinch type valves. It also contains the tube clamps that allows for bottle filling and it contains a new control board allowing bottle filling and featuring Wifi. Functionality will be as Duofiller G2.

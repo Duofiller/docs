@@ -9,8 +9,7 @@ This user manual is for G2 series fillers, Mono and Duofiller G2. It's not for D
 
 [!ref target="blank" text="Duofiller Gen1 user manual"](https://duofiller.com/manual)
 
-Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the same functionality as G2 fillers. Excemption, for an upgraded G1 filler max temperature is 65 C / 149 F, not 76 C / 170 F as for the Duofiller G2 fillers.
-
+Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the same functionality as G2 fillers.
 
 # Safety
 
@@ -43,7 +42,7 @@ Never use the filler to fill flammable liquids. Never use it with beverages that
 <br>
 Duofiller is normally used with liquid under pressure. Always inspect hoses and connectors for damage before use. Use only original connectors and/or accessories to prevent leakage or breakage. 
 
-**Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 76 °C. Always perform a pressure test with clean, cold water before each use.**
+**Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 65 °C. Always perform a pressure test with clean, cold water before each use.**
 
 **Always depressurise when not in use**
 <br>
