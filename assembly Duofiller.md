@@ -76,7 +76,7 @@ We don't provide the CO2 hose but we include a 3/8" pushfit to 1/4" barb fitting
 <br>
 <br>
 
-CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pressure. CO2 regulator is not included.<br>
+CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pressure. CO2 regulator is not included. There's two types of hoses in the kit; use the thin for the high carboated beers and the thick (OD 1/4") for normally carbonated beers.<br>
 <img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>

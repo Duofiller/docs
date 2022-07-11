@@ -80,7 +80,7 @@ CO2 presure max 3psi / 0.2bar. Please always use a separate regulator for CO2 pr
 <br>
 <br>
 <br>
-Connect beverage tubing to a keg. Max beverage pressure is 20psi/1.4bar. Please note that the keg quick disconnect is not included. <br>
+Connect beverage tubing to a keg. Max beverage pressure is 20psi/1.4bar. Please note that the keg quick disconnect is not included. There's two types of hoses in the kit; use the thin for the high carboated beers and the thick (OD 1/4") for normally carbonated beers.<br>
 <img src="/static/mono15.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
