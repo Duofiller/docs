@@ -11,6 +11,8 @@ If you have a Gen 1 Duofiller:
 
 [!ref target="blank" text="Leave site and go to Gen 1 user manual instead"](https://duofiller.com/manual)
 
+If you have a G2 Duofiller or Mono please continue.
+
 # Safety
 
 In order to make the most out of your filler, it’s important that you read and follow these instructions carefully.
