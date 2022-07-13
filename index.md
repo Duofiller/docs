@@ -9,9 +9,9 @@ This user manual is only for G2 series fillers, Mono and Duofiller G2. Duofiller
 
 If you have a Gen 1 Duofiller:
 
-[!ref target="blank" text="Leave site and go to Gen 1 user manual instead"](https://duofiller.com/manual)
+[!ref target="blank" text="Leave this site and go to Gen 1 user manual instead"](https://duofiller.com/manual)
 
-If you have a G2 Duofiller or Mono please continue.
+If you have a G2 Duofiller or Mono, please continue.
 
 # Safety
 
