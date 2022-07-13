@@ -5,7 +5,9 @@ icon: alert
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
-This user manual is only for G2 series fillers, Mono and Duofiller G2. Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the same functionality as G2 fillers.
+This user manual is only for G2 series fillers, Mono and Duofiller G2. 
+
+Duofiller Gen1 fillers that are upgraded with the G2 upgrade kit will have the same functionality as G2 fillers.
 
 
 # Safety
