@@ -11,7 +11,7 @@ order: 99
      III. **DON'T SHAKE THE KEG** during its stabilizing period. 
      IIII. **NEVER DECREASE KEG PRESSURE** after carbonation is done / before filling. It might cause massive foam since CO~2~ bubbles will start to migrate out of the beverage. If pressure is decreased then repressurize and wait another day for it to stabilize again.
      IIIII. Rule of thumb, if carbonation level is below 3 volumes then normal fridge temperature is normally cold enough for filling. If more than 3 volumes you might have to cool below 4C and maybe close to zero degrees to have a successful fill session. Always disconnect CO~2~ if you cool below 4C, otherwise, you will increase carbonation as the temperature drops. Disconnect CO~2~ -> cool down -> wait one day -> reconnect CO~2~ (remember, keg pressure is lower because the beverage is colder) -> start filling.
-     IIIIII. Get the foam reducing kit, it has a thinner tubing that will have better foam reducing properties than the original beverage tubing.<br>
+     IIIIII. Use the thinner tubing, it will have better foam reducing properties than the 1/4" OD beverage tubing.<br>
 <br>
      Together with carbonation level, temperature is the most important factors that affects foaming.
 
