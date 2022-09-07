@@ -66,11 +66,6 @@ Hold push button for 10 seconds and release to reset all settings to factory def
 
 To abort the reset, hold for more than 15 seconds and release.
 
-## Firmware upgrade
-
-The web interface has an "update firmware" option. Select the firmware file (*.bin file) and press upload. Please never unplug the filler while the firmware upgrade is in progress. When the upgrade is completed it will be indicated by a solid green light in the led indicating that it's back in timer Mode. It's not necessary to reboot the filler after the firmware upgrade.
-
-![](/static/firmware.png)
 
 ### Details
 
