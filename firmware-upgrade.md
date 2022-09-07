@@ -14,9 +14,9 @@ Never use firmware files of unknown origin and/or of another origin than this pa
 !!!
 
 Changelog:
-:::
-V1.1.0 : New top up function, improved web interface to better fit mobile screens, bug fixes
-:::
+
+- V1.1.0 : New top up function, improved web interface to better fit mobile screens, bug fixes
+
 
 <br>
 <br>
