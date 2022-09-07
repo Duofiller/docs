@@ -10,12 +10,22 @@ Download the newest firmware file
 [!file V1.1, release date 07. September 22](/static/v1.1_OTA.bin)
 
 !!!
-Never upload firmware files of unknown origin and/or of another origin than this page 
+Never use firmware files of unknown origin and/or of another origin than this page 
 !!!
 
 Changelog:
 
 V1.1 : New top up function, improved web interface to better fit mobile screens, bug fixes
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### How to upgrade
 
