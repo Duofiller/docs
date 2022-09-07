@@ -20,10 +20,7 @@ Changelog:
 Never use firmware files of unknown origin and/or of another origin than this page 
 !!!
 
-<br>
-<br>
-<br>
-<br>
+
 
 ### How to upgrade
 
