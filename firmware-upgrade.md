@@ -29,6 +29,6 @@ First check your current version number at the bottom of the menu page:
 
 ![](/static/menu.png)
 
-Go to "Firmware update", select the firmware file (the downloaded *.bin file) and press upload. Please never unplug the filler while the firmware upgrade is in progress. When the upgrade is completed it will be indicated by a solid green light in the led indicating that it's back in timer Mode. It's not necessary to reboot the filler after the firmware upgrade.
+Go to "Update firmware", select the firmware file (the downloaded *.bin file) and press upload. Please never unplug the filler while the firmware upgrade is in progress. When the upgrade is completed the leds will flash when the filler reboots after the upgrade. It's not necessary to reboot the filler manually after the firmware upgrade.
 
 ![](/static/firmware.png)
