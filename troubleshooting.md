@@ -28,8 +28,9 @@ order: 99
      I. The valve tube has stuck in position. Don't worry it's normal and it's easily solved by increasing beverage pressure to assist it to open.
      II. Start a fill. Wait until LED is red. Red LED means that the beverage valve has an opening signal.
      III. Increase keg pressure slowly (max 20 psi / 1.4 bar) and the beverage valve will open. Listen for a loud click when it latches open. Lower keg pressure back to normal. 
-     
-     If the valve still did not open:
+<br>
+If the valve still did not open:
+<br>
      IIII. Try to pinch the tube in the top of the filler to create a counter pressure in the tube going through the valve.
      IIIII. On all the following fillings the valve shall open fully without any assistance or delay. If it still troubles it might be too much stretch in the tube which pulls the valve plunger sideways and prevents it from opening. It can be solved by removing the strecth or simply reposition the tube in the valve groove. Contact us for assistanse.
 <br>
