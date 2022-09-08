@@ -14,9 +14,7 @@ They have electrical valves to control the CO~2~ flow and the beverage flow. The
 
 The valve plunger can not be retracted by the solenoid alone, it requires the tube deflection and a minimum pressure in the beverage line (~0.5 bar) to open fully. After a long time without use, the first opening of the beverage valves may require more than 1-1.4 bar to assist the opening. When the valve is fully open there will be a loud click meaning it latches in fully open position. The valve is rated for 2.000.000 operations and the tube is rated for 500.000 operations. The tube is easily replaceable if it should get worn out.
 <br>
-<img src="/static/valve.png" alt="drawing" style="width:300px;"/>
-<br>
-<br>
+<img src="/static/valve.png" alt="drawing" style="width:400px;"/>
 <br>
 ### User Interface
 
