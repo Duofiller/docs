@@ -24,10 +24,16 @@ order: 99
 
      People carbonated differently and it affects the foam cap. In general, we recommend always filling cold beer but it also might be that warmer than 4C (5-8C) will work best for your beverage type and carbonation level. Do your experiments over time. Start cold and let it heat up until you get that perfect foam cap, eventually go colder if there is too much foam at 4C
 ##
-- **Beverage valve does not open on first-time use:**
-     I. The valve tube has stuck in position. Don't worry it's normal and it's easily solved by increasing beverage pressure to assist it to open
-     II. Start a fill. Wait until LED is red. Red LED means that the beverage valve has an opening signal
-     III. Increase keg pressure slowly (max 20 psi / 1.4 bar) and the beverage valve will open. Lower keg pressure back to normal.
+- **Beverage valve does not open on first-time use, beverage valve does not fully open / low flow and/or foaming:**
+     I. The valve tube has stuck in position. Don't worry it's normal and it's easily solved by increasing beverage pressure to assist it to open.
+     II. Start a fill. Wait until LED is red. Red LED means that the beverage valve has an opening signal.
+     III. Increase keg pressure slowly (max 20 psi / 1.4 bar) and the beverage valve will open. Listen for a loud click when it latches open. Lower keg pressure back to normal. 
+     
+     If the valve still did not open:
+     IIII. Try to pinch the tube in the top of the filler to create a counter pressure in the tube going through the valve.
+     IIIII. On all the following fillings the valve shall open fully without any assistance or delay. If it still troubles it might be too much stretch in the tube which pulls the valve plunger sideways and prevents it from opening. It can be solved by removing the strecth or simply reposition the tube in the valve groove. Contact us for assistanse.
+
+     ![](/static/pinch.png)
 ##
 - **Beverage valve does not close / fill head dripping:**
      I. This happens if beverage pressure is too high. Lower beverage pressure to 20 psi / 1.4 bar or below.
