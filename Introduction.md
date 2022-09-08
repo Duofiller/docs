@@ -10,7 +10,12 @@ Currently, the series has two models, Mono and Duofiller. Mono is a single head 
 
 The filler has a two-step fill sequence; push the button and it first purges the can with CO~2~ before it starts to fill the beverage. The purge creates a blanket of CO~2~ on top of the liquid to minimize beverage air contact thus increasing the shelf life of the beverage. Beverage fill stops automatically when the desired fill level is reached.
 
-They have electrical valves to control the CO~2~ flow and the beverage flow. The beverage valves are of "pinch" valve type, meaning it pinches a tube to close. When in open position the valve ensures a near-perfect flow path without any restrictions that can cause turbulence or foaming and does not have cavities that are difficult to clean or where particles can get stuck. That also means that the tubing is the only contact material through the valve body. The beverage valve opening is pressure-assisted so it requires a minimum pressure in the beverage line (~0.5 bar) to open fully. After a long time without use, the first opening of the beverage valves may require more than 0.5 bar to assist the opening.
+They have electrical valves to control the CO~2~ flow and the beverage flow. The beverage valves are of "pinch" valve type, meaning it pinches a tube to close. When in open position the valve has a full bore, near-perfect flow path without any restrictions that can cause turbulence or foaming. It opens or closes the flexible tube by energizing the solenoid which retracts or attracts the plunger. This type of valve is ideal for sanitary applications because only the easily replaceable tubing contacts the flow media. Since the tube is full bore there are no narrow bore passes where particles can get stuck or cavities where particles settle out and that are difficult to clean.
+
+The beverage valve opening is pressure-assisted so it requires a minimum pressure in the beverage line (~0.5 bar) to open fully. The valve plunger can not be retracted by the solenoid alone, it needs to be assisted by the tube resilience and the pressure inside the tube. After a long time without use, the first opening of the beverage valves may require more than 1 bar to assist the opening. When the valve is fully open there will be a loud click meaning it latches in fully open position.
+
+![](/static/valve.png)
+
 
 ### User Interface
 
