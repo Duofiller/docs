@@ -13,10 +13,11 @@ The filler has a two-step fill sequence; push the button and it first purges the
 They have electrical valves to control the CO~2~ flow and the beverage flow. The beverage valves are of "pinch" valve type, meaning it pinches a tube to close. When in open position the valve has a full bore, near-perfect flow path without any restrictions that can cause turbulence or foaming. It opens or closes the flexible tube by energizing the solenoid which retracts or attracts the plunger. This type of valve is ideal for sanitary applications because only the easily replaceable tubing contacts the flow media. Since the tube is full bore there are no narrow bore passes where particles can get stuck or cavities where particles settle out and that are difficult to clean.
 
 The valve plunger can not be retracted by the solenoid alone, it requires the tube deflection and a minimum pressure in the beverage line (~0.5 bar) to open fully. After a long time without use, the first opening of the beverage valves may require more than 1-1.4 bar to assist the opening. When the valve is fully open there will be a loud click meaning it latches in fully open position. The valve is rated for 2.000.000 operations and the tube is rated for 500.000 operations. The tube is easily replaceable if it should get worn out.
-
-![](/static/valve.png)
-
-
+<br>
+<img src="/static/valve.png" alt="drawing" style="width:300px;"/>
+<br>
+<br>
+<br>
 ### User Interface
 
 The primary user interface for the Duofiller is each fill heads corresponding push button. Each button has a tri-color RGB LED for user feedback. The filling is started by a short button press. An ongoing fill sequence can be stopped or aborted at any time by pressing the same button once. Programming and menu navigation is done by timed button presses. 
