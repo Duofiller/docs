@@ -33,9 +33,10 @@ order: 99
      IIII. Try to pinch the tube in the top of the filler to create a counter pressure in the tube going through the valve.
      IIIII. On all the following fillings the valve shall open fully without any assistance or delay. If it still troubles it might be too much stretch in the tube which pulls the valve plunger sideways and prevents it from opening. It can be solved by removing the strecth or simply reposition the tube in the valve groove. Contact us for assistanse.
 <br>
-<img src="/static/pinch.png" alt="drawing" style="width:400px;"/>
 <br>
-
+<img src="/static/pinch.png" alt="drawing" style="width:300px;"/>
+<br>
+<br>
 ##
 - **Beverage valve does not close / fill head dripping:**
      I. This happens if beverage pressure is too high. Lower beverage pressure to 20 psi / 1.4 bar or below.
