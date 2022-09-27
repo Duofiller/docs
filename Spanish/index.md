@@ -2,6 +2,7 @@
 order: 999
 icon: alert
 ---
+# Spanish
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
@@ -9,7 +10,7 @@ Este manual de usuario es solo para las llenadoras de la serie G2, Mono y Duofil
 
 Los llenadores Duofiller Gen1 que se actualizan con el kit de actualización G2 tendrán la misma funcionalidad que los G2.
 
-# Spanish
+
 
 ## Seguridad
 
