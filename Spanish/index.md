@@ -1,9 +1,10 @@
 ---
 order: 999
+label: Español
 ---
-# Español
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
+<br>
 
 Este manual de usuario es solo para las llenadoras de la serie G2, Mono y Duofiller G2.
 
