@@ -1,5 +1,6 @@
 ---
 order: 999
+label: Sample
 ---
 # English
 
