@@ -8,8 +8,8 @@ label: Welcome
 Choose language:
 
 
-[![](/static/Spain.jpg)](https://docs.duofiller.com/spanish/)]
+[![](/static/Spain.jpg)](https://docs.duofiller.com/spanish/)
 
 
-[![](/static/United_Kingdom.jpg)](https://docs.duofiller.com/english/)]
+[![](/static/United_Kingdom.jpg)](https://docs.duofiller.com/english/)
 
