@@ -1,6 +1,5 @@
 ---
 order: 999
-icon: alert
 ---
 # Spanish
 
