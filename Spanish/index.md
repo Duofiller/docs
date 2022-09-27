@@ -9,8 +9,9 @@ Este manual de usuario es solo para las llenadoras de la serie G2, Mono y Duofil
 
 Los llenadores Duofiller Gen1 que se actualizan con el kit de actualización G2 tendrán la misma funcionalidad que los G2.
 
+# Spanish
 
-# Seguridad
+## Seguridad
 
 Para aprovechar al máximo su llenador, es importante que lea y siga estas instrucciones cuidadosamente.
 
