@@ -1,5 +1,5 @@
 ---
-order: 1
+order: 10000
 label: Welcome
 ---
 
