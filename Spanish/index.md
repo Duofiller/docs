@@ -1,7 +1,7 @@
 ---
 order: 999
 ---
-# Spanish
+# Español
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
