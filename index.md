@@ -3,9 +3,9 @@ order: 10000
 label: Welcome
 ---
 
-# Welcome
+# Welcome / Bienvenido
 
-Choose language:
+Choose language / elige lengua:
 
 
 [![](/static/Spain.jpg)](https://docs.duofiller.com/spanish/)
