@@ -1,6 +1,6 @@
 ---
-order: 999
-label: Welcome_
+order: 1
+label: Welcome
 ---
 
 # Welcome
@@ -8,8 +8,8 @@ label: Welcome_
 Choose language:
 
 
-[![](/static/Spain_flag.png)](https://docs.duofiller.com/spanish/)]
+[![](/static/Spain.jpg)](https://docs.duofiller.com/spanish/)]
 
 
-[![](/static/UK_flag.png)](https://docs.duofiller.com/english/)]
+[![](/static/United_Kingdom.jpg)](https://docs.duofiller.com/english/)]
 
