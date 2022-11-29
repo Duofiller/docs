@@ -9,24 +9,24 @@
     <meta name="generator" content="Retype 2.4.0">
 
     <!-- Primary Meta Tags -->
-    <title>Getting started</title>
-    <meta name="title" content="Getting started">
-    <meta name="description" content="This guide is for both the Mono and Duofiller." />
+    <title>Bruk</title>
+    <meta name="title" content="Bruk">
+    <meta name="description" content="Betjeningen av Mono- og Duofiller er enkel og intuitiv." />
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://docs.duofiller.com/english/getting-started/" />
+    <link rel="canonical" href="https://docs.duofiller.com/norsk/operation/" />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://docs.duofiller.com/english/getting-started/">
-    <meta property="og:title" content="Getting started">
-    <meta property="og:description" content="This guide is for both the Mono and Duofiller.">
+    <meta property="og:url" content="https://docs.duofiller.com/norsk/operation/">
+    <meta property="og:title" content="Bruk">
+    <meta property="og:description" content="Betjeningen av Mono- og Duofiller er enkel og intuitiv.">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://docs.duofiller.com/english/getting-started/">
-    <meta property="twitter:title" content="Getting started">
-    <meta property="twitter:description" content="This guide is for both the Mono and Duofiller.">
+    <meta property="twitter:url" content="https://docs.duofiller.com/norsk/operation/">
+    <meta property="twitter:title" content="Bruk">
+    <meta property="twitter:description" content="Betjeningen av Mono- og Duofiller er enkel og intuitiv.">
 
     <script>(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
@@ -35,6 +35,7 @@
     <script type="text/javascript" src="../../resources/js/config.js?v=2.4.0.723064421712" data-turbo-eval="false" defer></script>
     <script type="text/javascript" src="../../resources/js/retype.js?v=2.4.0" data-turbo-eval="false" defer></script>
     <script id="lunr-js" type="text/javascript" src="../../resources/js/lunr.js?v=2.4.0.723064421712" data-turbo-eval="false" defer></script>
+    <script id="mermaid-js" type="text/javascript" src="../../resources/js/mermaid.js?v=2.4.0" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -203,108 +204,92 @@
                                 <div id="docs-sidebar-right-toggle"></div>
                 
                                 <!-- Page content  -->
-<doc-anchor-target id="getting-started" class="break-words">
+<doc-anchor-target id="bruk" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#getting-started">#</doc-anchor-trigger>
-        <span>Getting started</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#bruk">#</doc-anchor-trigger>
+        <span>Bruk</span>
     </h1>
 </doc-anchor-target>
-<p>This guide is for both the Mono and Duofiller.</p>
-<ul>
-<li>Place a drip tray under the filler. Always use a drip tray to collect spills under the filler.</li>
-<li>Make sure the filler is connected to a keg with cold water and keg pressure approximately 1 bar.</li>
-<li>Connect CO<sub>2</sub> to the filler and make sure CO<sub>2</sub> pressure is below 3psi/0.2 bar.</li>
-<li>Power up the filler by connecting the plug from the power supply into the socket.</li>
-</ul>
-<p>When filler starts up first time the LED will light green. This indicates that the filler is in timer mode. For first time use we want to have it in sensor mode for calibration and function test. Hold push button 2 seconds and release. Led shall switch to solid blue, indicating it&#x27;s switched to sensor mode. (If the led instead starts to blink green you probably held the button to long. Hold button 4-5 seconds and it should be back in timer mode; try to set it in sensor mode again.)</p>
-<doc-anchor-target id="sensor-mode-fill-level-programming">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#sensor-mode-fill-level-programming">#</doc-anchor-trigger>
-        <span>Sensor mode fill level programming</span>
-    </h2>
-</doc-anchor-target>
-<p>When in sensor mode hold button for 4 seconds and release. The led starts to blink blue. This inducates that the filler is in sensor mode programming mode.
-To program the filler we want to start a fill and stop it at the desired fill level. Place a glass or can under the fill head and start a fill by pressing the push button. Fill sequence will begin by first purging and then switch to beverage fill. Pay attention to the fill level. When at desired level press the push button a short press and it will stop. The led goes green, which means it successfully saved the fill level. The fill level will not be stored if the fill level is set at 25mm or less. If the fill level is not stored successfully it blinks red and stays in fill level program mode. On successfull fill level save it will jump back to sensor mode automatically after the can is removed.</p>
-<p>Start a new fill and it will stop at the saved fill level.</p>
-<p>Go back to sensor mode programming and repeat a few times until you are familiar with the programming.</p>
-<p>If you have the Duofiller do the same for the second fill head.</p>
-<doc-anchor-target id="timer-mode-fill-level-programming">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#timer-mode-fill-level-programming">#</doc-anchor-trigger>
-        <span>Timer mode fill level programming</span>
-    </h2>
-</doc-anchor-target>
-<p>Go back to timer mode (hold button 2 seconds and release). When in timer mode hold button for 4-5 seconds and release to go to Timer Mode fill level programming. The green led will start to blink, indicating that it&#x27;s in Timer Mode fill level programming is active. Use a glass, can or bottle to do the programming. Programming is done exactly the same way as in sensor mode. Start a fill and stop it at the desired fill level. The only difference is that on successful fill level save, it will not jump automatically back to Timer Mode. To go back to Timer Mode hold push button for 4-5 seconds and release.</p>
-<p>Start a fill and verify it stops at the programmed fill level.</p>
-<p>Since Timer Mode measures the exact time used to fill to the desired fill level it&#x27;s important to keep that in mind before the fill level is programmed. Set the keg pressure, flush/prime beverage tubing, etc. before Timer Mode programming is done.</p>
-<doc-anchor-target id="first-time-cleaning">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#first-time-cleaning">#</doc-anchor-trigger>
-        <span>First time cleaning</span>
-    </h2>
-</doc-anchor-target>
-<ol>
-<li>Flush through the filler with lukewarm water with detergent. Start a fill in Timer Mode programming mode to do the flushing, the beverage valve will stay open until manually aborted. For first-time clean we recommend using PBW or a dishwasher detergent (at recommended concentration) and flush for 10 minutes.</li>
-<li>Flush through an acid-based sanitizer for beverage equipment (we recommend StarSan, SureSan or equivalent) at its recommended concentration. Contact time 3 minutes or more</li>
-<li>Gently spray (with a spray bottle) or soak the outside of the stainless fill tubes with an acid-based sanitizer. Use goggles. Contact time 3 minutes.</li>
+<p>Betjeningen av Mono- og Duofiller er enkel og intuitiv. Når fylleren er inaktiv, trykker du kort på den tilsvarende trykknappen for å starte en fylling. Fyllingssekvensen starter med tømming og deretter drikkefylling. Når som helst under påfyillingssekvensen kan den stoppes eller avbrytes ved et kort trykk på trykknappen.</p>
+<p>Typisk fylling av boks:</p>
+<img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
+<ol type="I">
+<li>Sett inn en tom boks, og trykk på knappen for å starte fyllingen</li>
+<li>Vent til fyllingen stopper</li>
+<li>Fjern boksen når den er full, og sett inn en tom boks</li>
+<li>Gjenta.</li>
 </ol>
-<doc-anchor-target id="beverage-fill">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#beverage-fill">#</doc-anchor-trigger>
-        <span>Beverage fill</span>
-    </h2>
-</doc-anchor-target>
-<p>After first time cleaning the filler is ready to use. Connect a keg with beverage. Repeat fill level calibrations using the beverage. Don&#x27;t expect programmed fill level done with water to be similar to actual fill level with beverage. Many factors play a role; in sensor mode the fill level is affected by SG, carbonation level (amount of bubbles) and flow. In Timer Mode the fill level is mainly affected by keg pressure and beverage viscosity. If you have a stable keg pressure then Timer Mode will be the most accurate fill mode. If you experience inconsistent fill level with Timer Mode then switch to Sensor Mode filling.</p>
-<doc-anchor-target id="purge-time-programming">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#purge-time-programming">#</doc-anchor-trigger>
-        <span>Purge time programming</span>
-    </h2>
-</doc-anchor-target>
-<p>Default, recommended and factory set purge time is 6 seconds. If you want to change the purge time; make sure that you are in either Sensor Mode or Timer Mode. Hold the push button for more than 6 seconds and release. LED will turn off, indicating that it&#x27;s in purge time programming mode.  When in purge time programming mode a short press on the button will skip the purge time +1 second forward. For each step, the led will blink red. When the purge time is 5 seconds the led will blink green instead of red. When at 10 seconds the next step will be 0 seconds. When at 0 seconds the led blinks blue (0 seconds = purge disabled). Hold push button more than 6 seconds and release to exit purge time programming mode.</p>
-<p>If you have the Duofiller purge time is set individually for each fill head.</p>
-<p>Purge time is set globally for both Timer Mode and Sensor Mode. For Timer Mode purge can be disabled but for Sensor Mode, it&#x27;s recommended to use at least 1 second purge time to ensure the CO<sub>2</sub> tube is free of liquid before each fill sequence.</p>
-<doc-anchor-target id="web-interface">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#web-interface">#</doc-anchor-trigger>
-        <span>Web interface</span>
-    </h2>
-</doc-anchor-target>
-<p>Default, on each boot the filler starts an accesspoint (AP) with <strong>SSID &quot;Duofiller&quot; and password &quot;duofiller&quot;</strong>. Use a phone, tablet or computer to connect to that AP. On successful connection enter <a href="http://192.168.4.1">http://192.168.4.1</a> or <a href="http://duofiller.local">http://duofiller.local</a> in the browser address field. It will take you to the web-interface menu. In the web interface you can adjust fill level for sensor mode, fill time for timer mode and purge time. There is also a fill counter that is handy to use to easily count how many fillings has been done.</p>
-<p>Fill time for Timer Mode can be set in milliseconds and fill level for sensor mode can be set in millimeters. Please note that the intention is to have the possibility to fine-tune the already set fill level. Don&#x27;t expect to dial in the exact fill level in millimeter with the web interface. But for adjusting the fill level 1-2-5-10 mm up or down it works great. Fill level in millimeter indicates the measured fill level above the tip of the CO<sub>2</sub> tube using non carbonated water. With carbonated beverage the actual fill level will be slightly different, depending on the carbonation level and SG (specific gravity).</p>
-<p>In the connection setup menu you can input your home wifi SSID and password. After reboot the filler will connect to your home network and you can control it using any device connected to the same network. You can find the filler menu by typing address <a href="http://duofiller.local">http://duofiller.local</a> or it&#x27;s assigned IP address. Find IP address either by using a network scanner (look for a device &quot;Duofiller&quot; or sometimes &quot;espressif&quot;) or log in to your router and find the filler in the DHCP lease list. Make sure your phone, tablet or computer is connected to the same wifi as the filler.</p>
-<p>You can change each fillers AP SSID (and password) to differentiate between more than one filler. The hostname of the filler will be the same as the AP SSID. For example if you have more than one Duofiller it&#x27;s possible to rename them to for example &quot;Duofiller1&quot;, &quot;Duofiller2&quot;, etc. Connect to each filler by using duofiller1.local, duofiller2.local, etc.</p>
-<p>Web interface also has a &quot;disable wifi&quot; option. The filler works perfectly fine without wifi and if you don&#x27;t use it it&#x27;s possible to disable the wifi radio. To re-enable wifi, reset network settings.</p>
-<doc-anchor-target id="factory-reset">
-    <h2>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#factory-reset">#</doc-anchor-trigger>
-        <span>Factory reset</span>
-    </h2>
-</doc-anchor-target>
-<p><strong>Power off filler, press push button and power up while holding the button:</strong></p>
-<p>Hold push button for 5 seconds and release to reset network settings. 5 seconds is indicated by a blue led.</p>
-<p>Hold push button for 10 seconds and release to reset all settings to factory default. 10 seconds is indicated by a red led.</p>
-<p>To abort the reset, hold for more than 15 seconds and release.</p>
-<doc-anchor-target id="details">
+<p>Typisk fylling av flaske:</p>
+<ol type="I">
+<li>Sett inn en tom flaske, og press på knappen for å starte fyllingen</li>
+<li>Flytt flasken nedover mens den fylles, slik at fyllerøret er et par centimeter under væskenivået i flasken</li>
+<li>Flytt flasken når den er full, og sett inn en ny tom flaske</li>
+<li>Gjenta.</li>
+</ol>
+<doc-anchor-target id="fyllingssekvens">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#details">#</doc-anchor-trigger>
-        <span>Details</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#fyllingssekvens">#</doc-anchor-trigger>
+        <span>Fyllingssekvens</span>
     </h3>
 </doc-anchor-target>
-<p>For details please see the quick reference <svg xmlns="http://www.w3.org/2000/svg" class="docs-icon" viewBox="0 0 24 24" role="presentation"><g fill="currentColor"><g><path fill-rule="evenodd" d="M4.97 13.22a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 10-1.06-1.06l-4.97 4.97V3.75a.75.75 0 00-1.5 0v14.44l-4.97-4.97a.75.75 0 00-1.06 0z"/></g></g></svg> 
-<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
-    <div class="flex items-center text-blue-500 dark:text-blue-400">
-        <span class="inline-block mb-px">
-            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" role="presentation" fill="currentColor"><path fill="none" d="M0 0h24v24H0z"/><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z"/></svg>
-        </span>
-        <span class="inline-block font-medium ml-2">Quick Reference</span>
-    </div>
-    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
-        <span>/quickreference.md</span>
-    </div>
-    <a href="/quickreference.md" class="absolute block inset-0"></a>
-</div>
-</p>
+<p>Fyllesekvensen starter ved å trykke på knappen med et kort trykk når fylleren er i Timer- eller Sensormodus.</p>
+<p><strong>Timermodus med LED-status:</strong></p>
+<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph TD;
+    Idle(Idle)--&gt;|short button press|Purge(Purge);
+    style Idle fill:#00FF00
+    Purge(Purge)--&gt;Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)--&gt;Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill time reached)--&gt;|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    </pre></div>
+<p><strong>Sensormodus med LED-status:</strong></p>
+<div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre class="mermaid w-full">graph TD;
+    Idle(Idle)--&gt;|short button press|Purge(Purge);
+    style Idle fill:#00FFFF
+    Purge(Purge)--&gt;Beverage_fill(Beverage fill);
+    style Purge fill:#00FFFF
+    Beverage_fill(Beverage fill)--&gt;Done(Done);
+    style Beverage_fill fill:#FF3131
+    Done(Fill level reached)--&gt;|remove can|Idle(Idle);
+    style Done fill:#00FF00
+    </pre></div>
+<p>Fyllesekvensen kan avbrytes når som helst ved å trykke på knappen mens fyllesekvensen pågår. I sensormodus vil lysdioden lyse grønt til boksen fjernes.</p>
+<p>For å stille inn fyllnivået går vi først gjennom den forskjellige modusen:</p>
+<doc-anchor-target id="timermodus">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#timermodus">#</doc-anchor-trigger>
+        <span>Timermodus</span>
+    </h3>
+</doc-anchor-target>
+<p>Timermodus indikeres med et kostant grønt lys i trykknappen når påfyllingen er inaktiv. Timermodus fyller boksen i en definert tid. Timermodus er veldig pålitelig og konsekvent, men det krever at fattrykket er stabilt og skumlokket er konsistent fra boks til boks. Vi anbefaler å bruke timermodus som standardmodus for både kullsyreholdige og ukullsyreholdige drikker. Timermodus kan også brukes til å fylle flasker.</p>
+<p><em><strong>Timermodusprogrammering</strong></em></p>
+<p>For å gå inn i timermodusprogrammering, må du først gå til timermodus. Trykk på knappen og hold den inne i 4-5 sekunder. SLipp knappen og det grønne lyset vil begynne å blinke, noe som indikerer at programmering av timermodus er aktiv. For å stille inn fyllingsnivået må du starte en fylling og stoppe den ved ønsket fyllingsnivå. Fyllingsnivået lagres når stoppknappen trykkes inn. Lysdioden blinker 3x grønt. For å gå tilbake til timermodus, trykk og hold knappen i 4-5 sekunder. Lysdioden vil bytte til konstant grønt, noe som indikerer at den er tilbake i timermodus.</p>
+<p>Siden timermodus måler den nøyaktige tiden som brukes til å fylle til ønsket fyllingsnivå, er det viktig å ha det i bakhodet før fyllingsnivået programmeres. Still inn fattrykket, spyle drikkeslanger osv. før programmering av timermodus.</p>
+<doc-anchor-target id="sensormodus">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#sensormodus">#</doc-anchor-trigger>
+        <span>Sensormodus</span>
+    </h3>
+</doc-anchor-target>
+<p>Sensormodus indikeres med et konstant blått lys i trykknappen når påfyllingen er inaktiv. Sensormodus bruker en trykksensor for å måle fyllingsnivåhøyden. Trykket måles i CO2-røret. Når væskenivået i boksen øker, vil trykket i CO2 røret øke direkte proporsjonalt med væskenivået i boksen.</p>
+<p>Sensormodus anbefales brukt hvis timermodusfylling gir et inkosekvent fyllingsnivå. For eksempel ved inkosekvent skumdannelse eller hvis du ønsker å justere trykk eller strømningshastighet mens du fyller. Siden sensoren måler hydrostatisk trykk, er høyden på væsken nesten neglisjert, siden SG av skum er svært lav sammenlignet med flytende SG. Det betyr at sensoren måler væskehøyden og ikke væske+skumhøyden.</p>
+<p>Sensormodus kan ikke brukes til å fylle flasker fordi skummet kommer inn i den trange flaskehalsen, som skaper mottrykk i flasken, som er nok til at sensoren oppdager en falsk nivåavlesning. Vær også oppmerksom på at de store boblene du ofte finner i høyt kullsyreholdig vann, brus, og cider vil gjøre sensormodusen mer inkonsekvent enn å bruke den med øl. Timermodusen vil fungere best for enb kullsyreholdig drikk med store bobler og høy kullsyre.</p>
+<p><em><strong>Sensormodusprogrammering</strong></em></p>
+<p>For å gå inn i sensormodusprogrammering går du først til sensormodus. Trykk på knappen og hold den inne i 4-5 sekunder. Det blå lyset vil begynne å blinke, noe som indikerer at programmering av fyllnivå i sensormodus er aktiv. For å stille inn fyllingsnivået, start en fylling og stopp den ved ønsket fyllingsnivå. Fyllingsnivået lagres når stoppknappen trykkes inn. Lysdioden blinker 3X grønt og den går automatisk tilbake til sensormodus.</p>
+<p><em>Vær oppmerksom på denne forskjellen; i sensormodusprogrammering går den automatisk tilbake til sensormodus etter vellykket nivåprogrammering. I timermodusprogrammering gjør den ikke det, og knappen må holdes inne i 4 sekunder og slippes for å gå tilbake til denne modusen.</em></p>
+<p>Fyllingsnivået vil ikke bli lagret hvis fyllnivået er satt til 25mm eller mindre. Hvis fyllnivået ikke lagres på riktig måte, blinker det rødt og forblir i programmodus for fyllnivå.</p>
+<doc-anchor-target id="programmering-av-purgetid">
+    <h3>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#programmering-av-purgetid">#</doc-anchor-trigger>
+        <span>Programmering av purgetid</span>
+    </h3>
+</doc-anchor-target>
+<p>Det er en tredje modus og den brukes til å programmere purgetiden. Hold trykknappen inne i mer enn 6 sekunder og slipp. LED-lyset vil slå seg av, noe som indikerer at den er i programmeringsmodus for purgetid. Da vil et kort trykk på knappen øke tiden med +1 sekund fremover. For hvert trinn vil lysdioden blinke rødt. Når purgetiden er 5 sekunder vil lysdioden blinke grønt i stedet for rødt. Når du kommer til 10 sekunder vil neste trinn være 0 sekunder. Når den står på 0 sekunder blinker lysdioden blått (0 sekunder = purging deaktivert).</p>
+<p>Når du har satt din ønskede purgetid, kan du holde knappen inne i mer enn 6 sekunder og slippe. Purgetiden vil bli lagret, og du vil være tilbake i den tidligere brukte modusen.</p>
+<p>Purgetid er satt globalt for både timermodus og sensormodus. For timermodus kan rensing deaktiveres, men for sensormodus anbefales det å bruke minst 1 sekunds purgetid for å sikre at CO2-røret er fri for væske før hver fyllingssekvens.</p>
+<p>Standard og fabrikkinnstilt purgetid er 6 sekunder. Innstillingen for purgetid lagres i minnet.</p>
 
                                 
                                 <!-- Required only on API pages -->
@@ -312,27 +297,6 @@ To program the filler we want to start a fill and stop it at the desired fill le
                             </div>
                             <footer class="clear-both">
                             
-                                <nav class="flex mt-14">
-                                    <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../../english/assembly-mono/">
-                                            <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
-                                            <span>
-                                                <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Mono assembly instructions</span>
-                                            </span>
-                                        </a>
-                                    </div>
-                            
-                                    <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../../english/cleaning/">
-                                            <span>
-                                                <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
-                                                <span class="block mt-1">Cleaning</span>
-                                            </span>
-                                            <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
-                                        </a>
-                                    </div>
-                                </nav>
                             </footer>
                         </main>
                 
@@ -371,6 +335,6 @@ To program the filler we want to start a fill and stop it at the desired fill le
 
     <div id="docs-overlay-target"></div>
 
-    <script>window.__DOCS__ = { "title": "Getting started", level: 2, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false }</script>
+    <script>window.__DOCS__ = { "title": "Bruk", level: 2, icon: "file", hasPrism: false, hasMermaid: true, hasMath: false }</script>
 </body>
 </html>
