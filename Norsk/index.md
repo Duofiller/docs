@@ -1,6 +1,6 @@
 ---
 order: 999
-label: English
+label: Norsk
 ---
 
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
