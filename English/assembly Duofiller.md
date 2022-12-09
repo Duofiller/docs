@@ -30,7 +30,7 @@ You will need to fit the flexible tube over the end stainless steel pipe by abou
 <br>
 <br>
 <br>
-The wider pipe (beverage) will go on the right, and the tube will fit on the narrow end. The thinner pipe (Co2) will go on the left, and the tube will fit on the flat end, and not the bevel end.
+The wider pipe (beverage) will go on the right, and the tube will fit on the narrow end. The thinner pipe (Co2) will go on the left. Insert the flat end of the co2 pipe into the flexible tube, not the tapered end. 
 When fitting the soft tubes over the stainless steel pipes ensure not to push the pipe towards your body as if it slips it may cause injury.
 Lubricating the tubes with cold, clean water will aid in the ease of fitting, however hot water will not soften the tube further.<br>
 <img src="/static/duo5.png" alt="drawing" width="300" height="700">
