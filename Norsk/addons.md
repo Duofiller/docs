@@ -9,7 +9,7 @@ Det følger også med en ID 2,5mm / OD 4mm. Denne benytter du for øl som skumme
 
 **Flow control kit**
 
-Vi har også et flow control kit hvor trykkfallet ikke skjer i slangen men over en flow control ventil. Slangen som kommer sammen med kittet er 5mm (3/16'') og 8mm (5/16'') OD. Tappehastigheten er på 1,6 liter/minuttet ved 1 bar trykk i ølfatet. Dette gjør det enkel å kontrollere tappehastigheten. Skummet varierer med temperaturen og tappehastigheten. Til en viss grad vil du kunne beregne skummet ved å kontrollere tappehastigheten. Flow control kitet inkluderer et filter for å holde flow control ventilen fri for partikler. Flow control kitet brukes hvis du ikke får nok skum med standard slangen eller du vil øke fyllehastigheten. Den er ikke ment til å brukes med høyt karbonerte øl.
+Vi har også et flow control kit hvor trykkfallet ikke skjer i slangen men over en flow control ventil. Slangen som kommer sammen med kittet er 5mm (3/16'') og 8mm (5/16'') OD. Tappehastigheten er på 1,6 liter/minuttet ved 1 bar trykk i ølfatet. Dette gjør det enkel å kontrollere tappehastigheten. Skummet varierer med temperaturen og tappehastigheten. Til en viss grad vil du kunne beregne skummet ved å kontrollere tappehastigheten. Flow control kitet brukes hvis du ikke får nok skum med standard slangen eller du vil øke fyllehastigheten. Den er ikke ment til å brukes med høyt karbonerte øl.
 
 **High-temperature kit**
 
