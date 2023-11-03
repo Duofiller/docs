@@ -32,7 +32,7 @@ The stainless enclosure can be cleaned daily with a window cleaning spray and mi
 Keep the CO~2~ system dry at all times. Never connect liquid to the CO~2~ connector as it will damage the fill sensor. It's sufficient to spray the outside of the CO~2~ tube to clean it. If you want to clean the inside of the CO~2~ tube it can be disconnected and flushed or you can use a tube brush to clean it in place.
 
 ### Sanitizing
-Use an acid based sanitizer (e.g. StarSan, SureSan) but only at the recommended concentration. Contact us for chemical compatibility check if you want to use another sanitizer.  
+Use an acid based sanitizer (e.g. StarSan, SureSan) but only at the recommended concentration. Too high concentration of acid sanitizer can damage the plastic connectors. Contact us for chemical compatibility check if you want to use another sanitizer.  
 
 ### Disinfecting
 If you use the filler for mixed fermentation fluids it might be desired to disinfect the filler after use. We recommend disassembling the beverage contact parts and boiling them in water. With the high-temperature add-on, all beverage contact parts can be boiled at 100C. If you don't have the high-temperature add-on don't boil the 2m beverage tube as it will deform and become unusable. Submerge the parts in water and boil, never flush with boiling water or steam, and the risk of personal injury would be too high.
