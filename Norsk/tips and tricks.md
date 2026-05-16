@@ -9,7 +9,7 @@ order: 98
 Duofiller krever lavt CO~2~-trykk, maks 3 psi / 0,2 bar. Ikke alle manometre på trykkregulatorer har fin nok skala til å bekrefte at trykket er under 3 psi. Følg denne prosedyren, så blir CO~2~-trykket innstilt perfekt:
 
 1. Sett regulatoren til null. Vanligvis gjøres det ved å skru regulatorskruen mot klokken til gassen slutter å strømme.
-2. Trykk på Duofiller-knappen for å starte en purge. LED-en lyser blått mens purgen pågår.
+2. Trykk på knappen for å starte en purge. Knappen lyser blått mens purgen pågår.
 3. Mens purgen pågår, øk regulatortrykket til du så vidt hører at CO~2~ begynner å strømme. Det er alt — CO~2~-purgen skal så vidt være hørbar.
 
 En sakte og jevn purge unngår turbulens og sparer CO~2~. Det er ingen vits i å sløse CO~2~ ved å bruke for høyt purgetrykk — det er nok å purge ett boksvolum. Gjøres det sakte vil CO~2~ ikke blande seg med oksygen, men sakte skyve det ut nedenfra og opp.
