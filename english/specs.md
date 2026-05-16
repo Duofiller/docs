@@ -10,7 +10,7 @@ Max CO~2~/purge gas working pressure  | 3 psi / 0.2 bar
 Max beverage temperature | +65 C / 149 F
 Min beverage temperature | 0 C / 32 F 
 Ambient temperature | 0 - 40 C / 34 - 104 F
-Flow rate @15psi/1 bar beverage pressure | 1.2 liter/min pr fill-head (with flow control add-on 1.6 liter/min pr fill-head)
+Flow rate @15psi/1 bar beverage pressure | 1.2 liter/min pr fill-head
 Beverage flow path ID | min. 3.2mm / 1/8"
 Beverage hose | 2m long, ID 3.2mm / OD 6.4mm (ID 1/8", OD 1/4")
 Dimensions Mono | 325mm * 90mm * 109mm , weight 1.2kg

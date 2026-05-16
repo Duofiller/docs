@@ -1,6 +1,6 @@
 # Bruk
 
-Bruken av Mono og Duofiller er enkel og intuitiv. Når boksfylleren er inaktiv, gir du et kort trykk på den tilhørende trykknappen for å starte en fylling. Fyllesekvensen starter med purge og deretter drikkefylling. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på trykknappen.
+Bruken av Mono og Duofiller er enkel og intuitiv. Når boksfylleren er inaktiv, gir du et kort trykk på den tilhørende trykknappen for å starte en fylling. Fyllesekvensen starter med purge og deretter selve fyllingen. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på trykknappen.
 
 Typisk boksefylling:
 
@@ -54,7 +54,7 @@ graph TD;
 
 Fyllesekvensen kan avbrytes når som helst med et kort trykk på knappen mens den pågår. I Sensormodus vil LED-en lyse grønt til boksen fjernes.
 
-For å stille inn fyllenivå-settpunktene, går vi først gjennom de ulike modusene:
+For å stille inn settpunktene, går vi først gjennom de ulike modusene:
 
 ### Timermodus
 
@@ -64,7 +64,7 @@ Timermodus indikeres med konstant grønt lys i trykknappen når boksfylleren er 
 
 For å gå inn i programmering av fyllenivå i Timermodus, gå først til Timermodus. Trykk og hold inne knappen i 4–5 sekunder. Slipp knappen, så begynner det grønne lyset å blinke — det indikerer at programmering av fyllenivå i Timermodus er aktiv. For å stille inn fyllenivået: start en fylling og stopp den ved ønsket fyllenivå. Fyllenivået lagres når stopp-knappen trykkes inn. LED-en blinker grønt 3 ganger. For å gå tilbake til Timermodus, trykk og hold inne knappen i 4–5 sekunder. LED-en skifter til konstant grønt, som indikerer at den er tilbake i Timermodus.
 
-Siden Timermodus måler nøyaktig tiden som brukes til å fylle til ønsket fyllenivå, er det viktig å ha dette i bakhodet før fyllenivået programmeres. Sett fattrykket, skyll/prim drikkeslangene osv. før Timermodus-programmeringen.
+Siden Timermodus måler nøyaktig tiden som brukes til å fylle til ønsket fyllenivå, er det viktig å ha dette i bakhodet før fyllenivået programmeres. Sett fattrykket, skyll/fyll fylleslangene osv. før Timermodus-programmeringen.
 
 ### Sensormodus
 
@@ -72,7 +72,7 @@ Sensormodus indikeres med konstant blått lys i trykknappen når boksfylleren er
 
 Sensormodus anbefales hvis Timermodus gir inkonsekvent fyllenivå. Eksempler er inkonsekvent skumdannelse, eller når du vil justere trykk eller flow underveis. Siden sensoren måler hydrostatisk trykk er skumtoppens høyde i praksis neglisjerbar — SG i skum er svært lav sammenlignet med SG i væsken. Det vil si at sensoren måler væskehøyden og ikke væske+skum-høyden.
 
-Sensormodus kan ikke brukes til å fylle flasker. Når skum kommer inn i den trange flaskehalsen oppstår et lite mottrykk i flasken, nok til at sensoren registrerer en falsk nivåavlesning. Vær også oppmerksom på at de store boblene man ofte finner i sterkt karbonert vann, brus og sider gjør Sensormodus mer inkonsekvent enn med øl. Timermodus fungerer best for sterkt karbonerte drikker med store bobler.
+Sensormodus kan ikke brukes til å fylle flasker. Når skum kommer inn i den trange flaskehalsen oppstår et lite mottrykk i flasken, nok til at sensoren registrerer en falsk nivåmåling. Vær også oppmerksom på at de store boblene man ofte finner i sterkt karbonert vann, brus og sider gjør Sensormodus mer inkonsekvent enn med øl. Timermodus fungerer best for sterkt karbonerte drikker med store bobler.
 
 ***Programmering av fyllenivå i Sensormodus***
 

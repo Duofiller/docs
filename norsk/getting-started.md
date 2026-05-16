@@ -2,7 +2,7 @@
 
 Denne guiden gjelder både Mono og Duofiller.
 
-- Plasser en dryppskål under boksfylleren. Bruk alltid dryppskål for å samle opp søl under boksfylleren.
+- Plasser en dryppbrett under boksfylleren. Bruk alltid dryppbrett for å samle opp søl under boksfylleren.
 - Pass på at boksfylleren er koblet til et fat med kaldt vann, og at fattrykket er ca. 1 bar.
 - Koble CO~2~ til boksfylleren og sørg for at CO~2~-trykket er under 3 psi / 0,2 bar.
 - Slå på boksfylleren ved å koble strømforsyningen til stikkontakten.
@@ -11,7 +11,7 @@ Når boksfylleren starter opp første gang vil LED-en lyse grønt. Det indikerer
 
 ## Programmering av fyllenivå i Sensormodus
 Når du er i Sensormodus, hold inne knappen i 4 sekunder og slipp. LED-en begynner å blinke blått. Det indikerer at boksfylleren er i programmeringsmodus for Sensormodus.
-For å programmere fylleren starter vi en fylling og stopper den på ønsket fyllenivå. Sett et glass eller en boks under fyllehodet og start en fylling ved å trykke på trykknappen. Fyllesekvensen starter med purge og bytter deretter til drikkefylling. Følg med på fyllenivået. Når ønsket nivå er nådd, gi knappen et kort trykk så stopper fyllingen. LED-en blir grønn, som betyr at fyllenivået er lagret. Fyllenivået lagres ikke hvis det er satt til 25 mm eller mindre. Hvis fyllenivået ikke blir lagret, blinker LED-en rødt og forblir i programmeringsmodus. Ved vellykket lagring hopper boksfylleren automatisk tilbake til Sensormodus etter at boksen er fjernet.
+For å programmere fylleren starter vi en fylling og stopper den på ønsket fyllenivå. Sett et glass eller en boks under fyllehodet og start en fylling ved å trykke på trykknappen. Fyllesekvensen starter med purge og bytter deretter til selve fyllingen. Følg med på fyllenivået. Når ønsket nivå er nådd, gi knappen et kort trykk så stopper fyllingen. LED-en blir grønn, som betyr at fyllenivået er lagret. Fyllenivået lagres ikke hvis det er satt til 25 mm eller mindre. Hvis fyllenivået ikke blir lagret, blinker LED-en rødt og forblir i programmeringsmodus. Ved vellykket lagring hopper boksfylleren automatisk tilbake til Sensormodus etter at boksen er fjernet.
 
 Start en ny fylling, og den vil stoppe på det lagrede fyllenivået.
 
@@ -24,15 +24,15 @@ Gå tilbake til Timermodus (hold inne knappen i 2 sekunder og slipp). Når du er
 
 Start en fylling og verifiser at den stopper på det programmerte fyllenivået.
 
-Siden Timermodus måler nøyaktig tiden som brukes til å fylle til ønsket fyllenivå, er det viktig å ha dette i bakhodet før fyllenivået programmeres. Sett fattrykket, skyll/prim drikkeslangene osv. før Timermodus-programmeringen gjøres.
+Siden Timermodus måler nøyaktig tiden som brukes til å fylle til ønsket fyllenivå, er det viktig å ha dette i bakhodet før fyllenivået programmeres. Sett fattrykket, skyll/fyll fylleslangene osv. før Timermodus-programmeringen gjøres.
 
 ## Førstegangsrens
-1. Skyll gjennom boksfylleren med lunkent vann og vaskemiddel. Start en fylling i programmeringsmodus for Timermodus for å skylle — drikkeventilen står da åpen til den manuelt avbrytes. Ved førstegangsrens anbefaler vi PBW eller oppvaskmiddel (i anbefalt konsentrasjon) og 10 minutters skylling.
+1. Skyll gjennom boksfylleren med lunkent vann og vaskemiddel. Start en fylling i programmeringsmodus for Timermodus for å skylle — fylleventilen står da åpen til den manuelt avbrytes. Ved førstegangsrens anbefaler vi PBW eller oppvaskmiddel (i anbefalt konsentrasjon) og 10 minutters skylling.
 2. Skyll gjennom med et næringsmiddelgodkjent, syrebasert desinfeksjonsmiddel for bryggeriutstyr (vi anbefaler StarSan, SureSan eller tilsvarende) i anbefalt konsentrasjon. Kontakttid 3 minutter eller mer.
 3. Spray forsiktig (med en sprayflaske) eller dynk utsiden av de rustfrie fyllerørene med syrebasert desinfeksjonsmiddel. Bruk vernebriller. Kontakttid 3 minutter.
 
-## Drikkefylling
-Etter førstegangsrens er boksfylleren klar til bruk. Koble til et fat med drikke. Gjenta kalibreringen av fyllenivået med drikken. Forvent ikke at fyllenivået programmert med vann blir likt det faktiske fyllenivået med drikken. Mange faktorer spiller inn: i Sensormodus påvirkes fyllenivået av SG, karboneringsnivå (mengden bobler) og flow. I Timermodus påvirkes fyllenivået hovedsakelig av fattrykk og drikkens viskositet. Med stabilt fattrykk vil Timermodus være den mest nøyaktige fyllemodusen. Hvis du opplever inkonsekvent fyllenivå i Timermodus, bytt til Sensormodus.
+## Fylling med drikke
+Etter førstegangsrens er boksfylleren klar til bruk. Koble til et fat med drikke. Gjenta kalibreringen av fyllenivået med drikken. Forvent ikke at fyllenivået programmert med vann blir likt det faktiske fyllenivået med drikken. Mange faktorer spiller inn: i Sensormodus påvirkes fyllenivået av SG, karboneringsnivå (mengden bobler) og flow. I Timermodus påvirkes fyllenivået hovedsakelig av fattrykk og drikkens viskositet. Med stabilt fattrykk vil Timermodus være den mest nøyaktige modusen. Hvis du opplever inkonsekvent fyllenivå i Timermodus, bytt til Sensormodus.
 
 ## Programmering av purgetid
 Standard, anbefalt og fabrikkinnstilt purgetid er 6 sekunder. Hvis du vil endre purgetiden: pass på at du er i Sensormodus eller Timermodus. Hold inne trykknappen i mer enn 6 sekunder og slipp. LED-en slukker, som indikerer at den er i programmeringsmodus for purgetid. I denne modusen øker hvert korte trykk på knappen purgetiden med +1 sekund. For hvert steg blinker LED-en rødt. Når purgetiden er 5 sekunder blinker LED-en grønt i stedet for rødt. Når den står på 10 sekunder vil neste steg være 0 sekunder. Ved 0 sekunder blinker LED-en blått (0 sekunder = purge deaktivert). Hold inne knappen i mer enn 6 sekunder og slipp for å gå ut av programmeringsmodus for purgetid.

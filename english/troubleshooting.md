@@ -13,8 +13,7 @@
 ##
 - **Too little foam. Cap on foam is desired to avoid oxygen contact with the beverage:**
      I. Increase keg temperature. For example, take it out of the fridge and let it heat up before continuing. 
-     II. Increase keg pressure to increase flow. It will produce more foam but it's not as efficient as increasing the temperature.
-     III. Get the flow control kit, it will get you more flow (and foam) with it, but also the possibility to reduce flow/foam if there's too much foam.<br>
+     II. Increase keg pressure to increase flow. It will produce more foam but it's not as efficient as increasing the temperature.<br>
 <br>
 
      People carbonated differently and it affects the foam cap. In general, we recommend always filling cold beer but it also might be that warmer than 4C (5-8C) will work best for your beverage type and carbonation level. Do your experiments over time. Start cold and let it heat up until you get that perfect foam cap, eventually go colder if there is too much foam at 4C

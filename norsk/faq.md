@@ -17,7 +17,7 @@ Ja. Begge kan fylle flasker, men kun i Timermodus, og brukeren må holde flasken
 ---
 
 - Kan både Mono og Duofiller brukes til drikke uten kullsyre?
-Ja, men drikken må være under trykk. Vi anbefaler å fylle fra et trykksatt fat selv om drikken er uten kullsyre. Tappehastigheten øker kraftig ved høyere trykk. Drikkeventilen er også trykkassistert: ved første åpning etter lang tid uten bruk kan ventilen trenge opp til 15 psi / 1 bar drikketrykk for å åpne seg. Påfølgende åpninger trenger lavere trykk.
+Ja, men drikken må være under trykk. Vi anbefaler å fylle fra et trykksatt fat selv om drikken er uten kullsyre. Fyllehastigheten øker kraftig ved høyere trykk. Fylleventilen er også trykkassistert: ved første åpning etter lang tid uten bruk kan ventilen trenge opp til 15 psi / 1 bar drikketrykk for å åpne seg. Påfølgende åpninger trenger lavere trykk.
 ---
 
 - Hvilke drikkevarer kan Mono og Duofiller brukes til?
@@ -26,7 +26,7 @@ Drikketrykket må være 20 psi eller lavere.
 ---
 
 - Kan Mono og Duofiller fylle alle typer standard drikkebokser? 250 ml (slim), 330 ml, 440 ml, 500 ml, 8oz, 12oz, 16oz, 19.2oz, 24oz tallboys, sleek cans?
-Ja. Det er en høydegrense på 190 mm mellom bokseholderen og fyllerørklemmen. Hvis du monterer bokseholderen opp ned blir maks høyde 215 mm.
+Ja. Det er en høydegrense på 190 mm mellom boksholderen og fyllerørklemmen. Hvis du monterer boksholderen opp ned blir maks høyde 215 mm.
 ---
 
 - Tar ølet opp oksygen mens det fylles med Duofiller?
