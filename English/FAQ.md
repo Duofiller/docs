@@ -26,7 +26,6 @@ Yes, they can but the beverage has to be pressurized. We recommend filling from 
 
 - What beverages can the Mono and Duofiller be used for?
 Nearly any. Carbonated and uncarbonated. Highly carbonated beverages with bubble size >1mm will only work in Timer Mode. <br>
-With the high-temperature addon you can safely use it for mixed femermentation beverages as with this addon all beverage contact parts can be boiled in water for disinfection.<br>
 Beverage pressure must be 20 psi or lower.
 ---
 
