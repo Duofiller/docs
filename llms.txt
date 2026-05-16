@@ -1,0 +1,50 @@
+﻿# Welcome / Bienvenido
+
+> Choose language / elige lengua /velg språk:
+
+- [Welcome / Bienvenido](https://docs.duofiller.com/index.md): Welcome / Bienvenido
+- [English](https://docs.duofiller.com/english/index.md): This user manual is only for G2 series fillers, Mono and Duofiller G2.
+- [Español](https://docs.duofiller.com/spanish/index.md): Este manual de usuario es solo para las llenadoras de la serie G2, Mono y Duofiller G2.
+- [Sikkerhet](https://docs.duofiller.com/norsk/index.md): Dette er en manual for G2 serie fyllere, Mono og Duofiller.
+
+## English
+
+- [Introduction](https://docs.duofiller.com/english/introduction.md): The new Duofiller generation 2 (G2) series is a can- and bottle filler that fills the cans or bottles to the desired fill level. The filling is done from a pressurized keg, unitank, barrel, etc.
+- [Duofiller assembly instructions](https://docs.duofiller.com/english/assembly-duofiller.md): When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.
+- [Mono assembly instructions](https://docs.duofiller.com/english/assembly-mono.md): When assembling the filler it's mandatory to use gloves. There might be sharp egdes that can cut you badly and gloves will also prevent fingerprints on the stainless surface.
+- [Getting started](https://docs.duofiller.com/english/getting-started.md): This guide is for both the Mono and Duofiller.
+- [Cleaning](https://docs.duofiller.com/english/cleaning.md): Before using the Duofiller, to be sure its flow path is clean before the beverage is introduced we recommend the following cleaning procedure:
+- [Add ons](https://docs.duofiller.com/english/addons.md): The filler comes with a standard length of 2.5m ID 3.2mm (1/8") / OD 6.4mm (1/4") beverage hose to connect between the keg and the filler. The length is to provide adequate and even pressure drop in the hose to avoid foaming.
+- [FAQ](https://docs.duofiller.com/english/faq.md): Do you offer a full refund if I am not satisfied with the Duofiller? Of course, we do. We issue a full refund (excluded import taxes) if the Duofiller does not meet the expectations.
+- [Troubleshooting](https://docs.duofiller.com/english/troubleshooting.md): Too much foam. Foaming might be tricky but there are a few rules of thumb that will greatly increase the success rate:
+- [Tips and tricks](https://docs.duofiller.com/english/tips-and-tricks.md): The Duofiller requires low CO2 pressure, max 3 psi/0.2 bar. Not all pressure regulator gauges have a scale range fine enough to be sure the pressure is below 3 psi.
+- [Quick reference](https://docs.duofiller.com/english/quickreference.md)
+- [Specs](https://docs.duofiller.com/english/specs.md): Specs in the table applies to both Mono and Duofiller unless specified
+
+## Español
+
+- [Introducción](https://docs.duofiller.com/spanish/introduction.md): La nueva serie Duofiller generación 2 (G2) es una llenadora de latas y botellas que llena hasta el nivel de llenado deseado. El llenado se realiza desde un barril presurizado, unitank, bidón, etc.
+- [Instrucciones de montaje del Duofiller](https://docs.duofiller.com/spanish/assembly-duofiller.md): Al montar la llenadora es obligatorio usar guantes. Puede haber bordes afilados que pueden cortar gravemente y los guantes también evitarán huellas dactilares en la superficie de acero inoxidable.
+- [Instrucciones de montaje Mono](https://docs.duofiller.com/spanish/assembly-mono.md): Al montar la llenadora es obligatorio usar guantes. Puede haber bordes afilados que pueden cortar gravemente y los guantes también evitarán huellas dactilares en la superficie de acero inoxidable.
+- [Primeros pasos](https://docs.duofiller.com/spanish/getting-started.md): Esta guía es tanto para Mono como para Duofiller.
+- [Limpieza](https://docs.duofiller.com/spanish/cleaning.md): Antes de utilizar el Duofiller, para asegurarse de que el recorrido está limpio antes de introducir la bebida, recomendamos el siguiente procedimiento de
+- [Add ons](https://docs.duofiller.com/spanish/addons.md): La llenadora viene con una longitud estándar de manguera para bebidas de 2.5m de DI 3.2mm (1/8") / DE 6.4 mm (1/4") para conectar entre el barril y la llenadora.
+- [Preguntas más frecuentes](https://docs.duofiller.com/spanish/faq.md): ¿Ofrecen un reembolso completo si no estoy satisfecho con el Duofiller? Por supuesto. Emitimos un reembolso completo (impuestos de importación excluidos) si el Duofiller no cumple con las expectativas.
+- [Solución de problemas](https://docs.duofiller.com/spanish/troubleshooting.md): Demasiada espuma. La formación de espuma puede ser complicada, pero hay algunas reglas que aumentarán en gran medida la tasa de éxito:
+- [Consejos y trucos](https://docs.duofiller.com/spanish/tips-and-tricks.md): El Duofiller requiere una presión baja de CO2, máx. 3 psi/0.2 bar. No todos los manómetros reguladores de presión tienen un rango de escala lo suficientemente fino como para asegurar que la presión esté por debajo de 3 psi.
+- [Referencia rápida](https://docs.duofiller.com/spanish/quickreference.md)
+- [Especificaciones](https://docs.duofiller.com/spanish/specs.md): Las especificaciones de la tabla se aplican tanto al Mono como al Duofiller, a menos que se indique lo contrario
+
+## Norsk
+
+- [Introduksjon](https://docs.duofiller.com/norsk/introduction.md): Den nye Duofiller generasjonen 2 (G2) serien er en boks- og flaskefyller som fyller til det ønskede fyllenivået. Fylling blir gjort fra et fat, unitank, tønne etc med trykk.
+- [Duofiller monteringsanvisning](https://docs.duofiller.com/norsk/assembly-duofiller.md): Når du skal sette sammen fylleren er det obligatorisk å bruke hansker. Det kan være skarpe kanter som kan føre til kuttskader. Hanskene vil beskytte mot dette, og samtidig vil man unngå fingeravtrykk på produktet.
+- [Mono monteringsanvisning](https://docs.duofiller.com/norsk/assembly-mono.md): Når du skal feste fylleren er det obligatorisk med hansker. Det kan være skarpe kanter som kan føre til kuttskader, samtidig som hanskene hindrer fingeravtrykk på de rustfrie ståldelene.
+- [Kom i gang](https://docs.duofiller.com/norsk/getting-started.md): Dette er en guide for både Mono og Duofiller.
+- [Rengjøring](https://docs.duofiller.com/norsk/cleaning.md): Før du bruker Duofiller, må du sørge for at fyllelangen er ren. Vi foreslår følgende rengjøringsprosedyre:
+- [Add ons](https://docs.duofiller.com/norsk/addons.md): Fylleren kommer med en standardlengde på 2,5m (ID 3,2mm (1/8'') / OD 6.4mm (1/4")). Fylleslangen festes mellom ølfatet og fylleren. Lengden på slangen er med å skape et trykkfall for å unngå skum.
+- [FAQ](https://docs.duofiller.com/norsk/faq.md): Tilbyr dere full refusjon hvis jeg ikke er fornøyd med Duofiller? Selvfølgelig. Vi refunderer hele beløpet hvis Duofilleren ikke lever opp til forventningene.
+- [Feilsøking](https://docs.duofiller.com/norsk/troubleshooting.md): For mye skum. Skumming kan være vanskelig, men det er noen få tommelfingerregler som vil øke suksessraten betraktelig:
+- [Tips og triks](https://docs.duofiller.com/norsk/tips-and-tricks.md): Duofilleren krever lavt CO2 trykk, maks 3psi/0,2bar. Ikke alle trykkregulator manometer har et skalaområde som er fint nok til å være sikker på at trykket er under 3 psi.
+- [Referanse](https://docs.duofiller.com/norsk/quickreference.md)
+- [Spesifikasjoner](https://docs.duofiller.com/norsk/specs.md): Spesifikasjoner i tabellen gjelder både Mono- og Duofiller med mindre spesifiserte spesifikasjoner.
