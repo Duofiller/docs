@@ -1,59 +1,59 @@
 # Feilsøking
 
-- **For mye skum. Skumming kan være vanskelig, men det er noen få tommelfingerregler som vil øke suksessraten betraktelig:**
-     I. Pass på at væsken er kald, 4 grader eller kaldere
-     II. Sørg for at karboneringen er ferdig. Vi anbefaler å bruke "forced carbonation" ved stabilt trykk/temperatur i 7 dager eller mer. Hvis du bruker "quick carb" eller en "carb stone", rister fatet, ruller fatet osv; Erfaringsmessig anbefaler vi å la ølet hvile i 4-7 dager (ved lav temperatur) før det fylles. Dette er for at CO2-trykket skal komme i likevekt med væsken. 
-     III. **IKKE RIST PÅ FATET** under stabiliseringsperioden. 
-     IIII. **ALDRI SENK TRYKKET I FATET** Etter at karboneringen er ferdig/før fylling. Det lager skumproblemer, siden CO2-bobler vil begynne å stige inne i fatet siden trykket på toppen av fatet senkes. Hvis trykket har vært senket må du sette trykket på nytt, og vente en dag eller to, til det stabiliserer seg igjen.
-     IIIII. Tommelfingerrel; Hvis karboneringsnivået er 3 volum ved normal kjøleskapstemperatur er det normalt kaldt nok til å fylles. Hvis karboneringsnivået er mer enn 3 vol, må du kanskje kjøle til under 4 grader og kanskje nær null grader for å få en vellykket fylling. Koble alltid fra CO2 hvis du kjøler under 4 grader, ellers vil du øke karboneringen når temperaturen synker. Koble fra CO2 -> kjøl ned -> vent en dag -> koble til CO2 igjen (husk at trykket i fatet er lavere fordi drikken er kaldere) -> begynn å fylle.
-     IIIIII. Bruk den tynneste slangen, den vil ha bedre skumreduserende egenskaper enn den tykke slangen.<br>
+- **For mye skum. Skumming kan være vanskelig, men det finnes noen tommelfingerregler som øker suksessraten betraktelig:**
+     I. Pass på at drikken er kald, 4 °C eller kaldere.
+     II. Sørg for at karboneringen er ferdig. Vi anbefaler tvangskarbonering ("sit and forget") ved stabilt trykk/temperatur i 7 dager eller mer. Hvis du hurtigkarbonerer eller bruker en carb stone, rister fatet, ruller fatet osv. — erfaringsmessig anbefaler vi å la ølet hvile 4–7 dager (ved kald temperatur) før fylling. Dette for at CO~2~-trykket skal komme helt i likevekt med drikketrykket.
+     III. **IKKE RIST PÅ FATET** i stabiliseringsperioden.
+     IIII. **SENK ALDRI FATTRYKKET** etter at karboneringen er ferdig / før fylling. Det kan skape kraftig skumming siden CO~2~-bobler vil begynne å migrere ut av drikken. Hvis trykket har vært senket, sett trykket på nytt og vent én dag til ny stabilisering.
+     IIIII. Tommelfingerregel: hvis karboneringsnivået er under 3 volum er normal kjøleskapstemperatur vanligvis kaldt nok til fylling. Er det mer enn 3 volum kan det være nødvendig å kjøle under 4 °C — kanskje nær null grader — for en vellykket fyllesesjon. Koble alltid fra CO~2~ hvis du kjøler under 4 °C, ellers vil du øke karboneringen når temperaturen synker. Koble fra CO~2~ → kjøl ned → vent én dag → koble CO~2~ til igjen (husk at fattrykket er lavere fordi drikken er kaldere) → begynn å fylle.
+     IIIIII. Bruk den tynnere slangen — den har bedre skumreduserende egenskaper enn 1/4"-OD-slangen.<br>
 <br>
-     Sammen med karboneringsnivået er temperatur en av de viktigste faktorene som påvirker skumdannelse.
+     Sammen med karboneringsnivå er temperatur den viktigste faktoren som påvirker skumming.
 
 ##
-- **For lite skum. Å sette lokket på skum er ønskelig for å unngå oksygenkontakt med drikken:**
-     I. Øk fattemperaturen. Ta den for eksempel ut av kjøleskapet og la den varmes opp før du fortsetter. 
-     II. Øk fattrykket for å øke flow. Økt flow vil produsere mer skum, med det er ikke så effektivt som å øke temperaturen.
-     III. Skaff deg flow control kitet, det vil gi deg mer flow (og skum), men også muligheten til en viss grad å redusere flow/skum hvis det er for mye skum.<br>
+- **For lite skum. En skumtopp er ønskelig for å unngå oksygenkontakt med drikken:**
+     I. Øk fattemperaturen. Ta fatet for eksempel ut av kjøleskapet og la det varmes opp før du fortsetter.
+     II. Øk fattrykket for å øke flow. Det gir mer skum, men er ikke like effektivt som å øke temperaturen.
+     III. Skaff deg flow control kitet — det gir mer flow (og skum), og samtidig muligheten til å redusere flow/skum hvis det blir for mye skum.<br>
 <br>
 
-     Folk karbonerer forskjellig og det påvirker skumhøyden. Generelt anbefaler vi å alltid fylle kald øl, men det kan også hende at varmere enn 4 grader (5-8 grader) vil fungere best for din drikketype og karboneringsnivå. Eksperimenter over tid. Start kaldt og la det varmes opp til du får den perfekte skumtoppen. Etterhvert kan du gå litt kaldere hvis det er for mye skum ved 4 grader.
+     Folk karbonerer ulikt, og det påvirker skumtoppen. Generelt anbefaler vi alltid å fylle kald øl, men det kan også hende at varmere enn 4 °C (5–8 °C) fungerer best for din drikketype og karboneringsnivå. Eksperimenter over tid. Start kaldt og la det varmes opp til du får den perfekte skumtoppen. Eventuelt gå kaldere hvis det er for mye skum ved 4 °C.
 ##
-- **Fylleventilen åpner ikke første gangen. Fylleventil åpner ikke helt/lav flow og/eller mye skumming:**
-     I. Slangen gjennom pinch-ventilen har satt seg fast. Ikke bekymre deg, da dette er normalt, og det løses enkelt ved å øke trykket for å hjelpe den til å åpne seg.
-     II. Start en fylling. Vent til LED lyser rødt. Rød LED betyr at fylleventilen har åpningssignal.
-     III. Øk fattrykket sakte (maks 20psi/1,4bar) og fylleventilen åpnes. Lytt etter et høyt klikk når den åpner. Senk fattrykket tilbake til normalt. 
+- **Drikkeventilen åpner ikke ved første gangs bruk, drikkeventilen åpner ikke helt / lav flow og/eller skumming:**
+     I. Slangen i ventilen har satt seg fast i posisjon. Det er normalt, og enkelt å løse ved å øke drikketrykket for å hjelpe ventilen å åpne.
+     II. Start en fylling. Vent til LED-en lyser rødt. Rød LED betyr at drikkeventilen har fått åpningssignal.
+     III. Øk fattrykket sakte (maks 20 psi / 1,4 bar), så åpner drikkeventilen. Lytt etter et tydelig klikk når den låser seg åpen. Senk fattrykket tilbake til normalt.
 <br>
 Hvis ventilen fortsatt ikke åpner:
 <br>
-     IIII. Prøv å klemme røret i toppen av fylleren for å skape et mottrykk i slangen som går gjennom ventilen.
-     IIIII. På alle følgende fyllinger skal ventilen åpne helt uten hjelp eller forsinkelse. Hvis det fortsatt er et problem kan det være for mye strekk i slangen som trekker ventilstempelet sideveis og hindrer det i å åpne seg. Det kan løses ved å ganske enkelt flytte røret i ventilsporet. Kontakt oss for assistanse. 
+     IIII. Prøv å klemme slangen i toppen av boksfylleren for å skape mottrykk i slangen som går gjennom ventilen.
+     IIIII. På alle påfølgende fyllinger skal ventilen åpne helt uten hjelp eller forsinkelse. Hvis det fortsatt er problemer kan det være for mye strekk i slangen, som drar ventilstempelet sideveis og hindrer det i å åpne. Det kan løses ved å redusere strekket eller rett og slett legge slangen riktig i ventilsporet. Kontakt oss for assistanse.
 <br>
 <br>
 <img src="/static/pinch.png" alt="drawing" style="width:300px;"/>
 <br>
 <br>
 ##
-- **Fylleventilen lukker ikke/fyllehodet drypper:**
-     I. Dette skjer hvis fylletrykket er for høyt. Senk fylletrykket til 20psi/1,4bar eller lavere.
+- **Drikkeventilen lukker ikke / fyllehodet drypper:**
+     I. Dette skjer hvis drikketrykket er for høyt. Senk drikketrykket til 20 psi / 1,4 bar eller lavere.
 ##
-- **Ustabilt fyllenivå i sensormodus:**
-     I. Senk CO2-trykk. **Maks 3psi/0,2bar.** Langsom purging uten turbulens gir den beste purgingen og sparer deg for CO2. For høyt purgetrykk vil forstyrre nivåsensoren og det vil føre til ustabilt fyllenivå. 
-     II. Kalibrer fyllenivået med den faktiske drikkevaren og faktisk fat trykk. 
-     III. Hvis drikken er svært kullsyreholdig og har en stor boblestørrelse >1mm (vann, brus, cider), vil sensormodusen være mer ustabil ettersom de store boblene som stiger forstyrrer trykkmålingen<br>
+- **Inkonsekvent fyllenivå i Sensormodus:**
+     I. Senk CO~2~-purgetrykket. **Maks 3 psi / 0,2 bar.** Sakte purge uten turbulens gir best purge og sparer CO~2~. For høyt purgetrykk forstyrrer nivåsensoren og gir inkonsekvent fyllenivå.
+     II. Kalibrer fyllenivået med den faktiske drikken og faktisk flow.
+     III. Hvis drikken er sterkt karbonert og har stor boblestørrelse >1 mm (vann, brus, sider), blir Sensormodus mer ustabil ettersom de store stigende boblene forstyrrer trykkmålingen.<br>
 <br>
-     Fyllnivå-nøyaktighet med en ideell drikkevare og ideell flow er brøkdeler av en millimeter. Hvis nivåmålingen påvirkes av andre faktorer, kan fyllenivåmålingen bli påvirket og det faktiske fyllenivået vil bli inkosekvent. Slike eksterne faktorer kan være (store) karboneringsbobler, strømning fra fyllerøret som påvirker trykkmålingen utført av CO2-røret, for høyt CO2 purgetrykk, etc. 
+     Nøyaktigheten på fyllenivået med en ideell drikke og ideell flow er brøkdeler av en millimeter. Hvis nivåmålingen påvirkes av andre faktorer, kan fyllenivå-målingen bli upålitelig og det faktiske fyllenivået bli inkonsekvent. Slike eksterne faktorer kan være (store) karboneringsbobler, flow fra drikkerøret som påvirker trykkmålingen i CO~2~-røret, for høyt CO~2~-purgetrykk osv.
      <br>
      <br>
-     Etter hver purging og før fylleventilen åpner, gjør fylleren en referansetrykkmåling, derfor er det en 1,5 sekunders forsinkelse mellom purging og før fylleventilen åpner. Det kan være lurt å sjekke at dråper fra fyllerøret ikke dannes på tuppen av CO2-røret etter purging. Da påvirkes referansetrykkmålingen og fyllenivået vil ende opp feil. Det er en enkel løsning, bare sørg for at tuppen av CO2-røret er på samme nivå eller høyere enn tuppen av drikkerøret, slik at dråper fra drikkerøret faller ned og ikke fester seg til CO2-røret. CO2 røret er skråkuttet for å hindre slike dråper i å feste seg på tuppen.
+     Etter hver purge og før drikkeventilen åpner, gjør boksfylleren en referansetrykk-måling i den 1,5 sekunder lange forsinkelsen mellom de to operasjonene. Du bør sjekke at dråper fra drikkerøret ikke danner seg på tuppen av CO~2~-røret etter purgen. Hvis det skjer påvirkes referansetrykk-målingen, og fyllenivået ender opp feil. Løsningen er enkel: pass på at tuppen av CO~2~-røret står på samme nivå som — eller høyere enn — tuppen av drikkerøret, slik at dråper fra drikkerøret faller ned og ikke fester seg på CO~2~-røret. CO~2~-røret er også skråkuttet for å hindre at dråper fester seg på tuppen.
      <br>
      <br>
-     En annen test du kan gjøre er å sette et glass vann under påfyllingshodet mens CO2 er under trykk. Se etter bobler som kommer ut av CO2-røret. Hvis det gjør det, kontroller at purgetrykket er under 3psi. Hvis ikke, senk purgetrykket og sjekk igjen. Hvis purgetrykket er lavere enn 3psi, og det kommer ut bobler:[Kontakt oss](https://duofiller.com/pages/contact), da det kan hende du har en defekt renseventil.
+     En annen test du kan gjøre er å sette et glass vann under fyllehodet mens CO~2~ er trykksatt. Se etter bobler som kommer ut av CO~2~-røret. Hvis det gjør det, kontroller at purgetrykket er under 3 psi. Hvis ikke, senk purgetrykket og sjekk igjen. Hvis purgetrykket er lavere enn 3 psi og det fortsatt kommer bobler ut, [ta kontakt med oss](https://duofiller.com/pages/contact) — du kan ha en defekt purgeventil.
 
 ##
-- **Ustabilt fyllenivå i timermodus:**
-     I. Sjekk fattrykk/CO2-regulatoren. Stabilt fattrykk er nøkkelen til å ha et konsistent fyllenivå i timermodus. Hvis du justerer flow eller fattrykket må du programmere fyllenivået på nytt. Sørg for at slangen er primet med væske og at boksen/flasken er tom før programmering.
+- **Inkonsekvent fyllenivå i Timermodus:**
+     I. Sjekk fattrykk / CO~2~-regulator. Stabilt fattrykk er nøkkelen til konsekvent fyllenivå i Timermodus. Hvis du justerer flow eller fattrykk må fyllenivået programmeres på nytt. Sørg for at drikkelinjen er primet med væske og at boksen/flasken er tom før programmering.
 
 ##
-- **Fyllingsnivået i sensormodus er ikke lagret:**
-     I. Sensoren må registrere en væskehøyde på 25mm eller mer for å lagre fyllenivået.
+- **Fyllenivå i Sensormodus blir ikke lagret:**
+     I. Sensoren må registrere en væskehøyde på 25 mm eller mer for å lagre fyllenivået.

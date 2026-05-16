@@ -1,28 +1,28 @@
 # Bruk
 
-Betjeningen av Mono- og Duofiller er enkel og intuitiv. Når fylleren er inaktiv, trykker du kort på den tilsvarende trykknappen for å starte en fylling. Fyllingssekvensen starter med tømming og deretter drikkefylling. Når som helst under påfyillingssekvensen kan den stoppes eller avbrytes ved et kort trykk på trykknappen.
+Bruken av Mono og Duofiller er enkel og intuitiv. Når boksfylleren er inaktiv, gir du et kort trykk på den tilhørende trykknappen for å starte en fylling. Fyllesekvensen starter med purge og deretter drikkefylling. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på trykknappen.
 
-Typisk fylling av boks:
+Typisk boksefylling:
 
 <img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
 
-I. Sett inn en tom boks, og trykk på knappen for å starte fyllingen
-II. Vent til fyllingen stopper
-III. Fjern boksen når den er full, og sett inn en tom boks
+I. Sett inn tom boks, trykk på knappen for å starte fyllingen.
+II. Vent til fyllingen stopper.
+III. Fjern den fulle boksen og sett inn en ny tom boks.
 IIII. Gjenta.
 
-Typisk fylling av flaske:
+Typisk flaskefylling:
 
-I. Sett inn en tom flaske, og press på knappen for å starte fyllingen
-II. Flytt flasken nedover mens den fylles, slik at fyllerøret er et par centimeter under væskenivået i flasken
-III. Flytt flasken når den er full, og sett inn en ny tom flaske
+I. Sett inn tom flaske, trykk på knappen for å starte fyllingen. Hold flasken på plass med hånden mens den fylles.
+II. Senk flasken nedover etter hvert som den fylles, slik at fyllerøret er senket bare et par centimeter ned i væsken. Vent til fyllingen stopper.
+III. Fjern den fulle flasken og sett inn en ny tom flaske.
 IIII. Gjenta.
 
-### Fyllingssekvens
+### Fyllesekvens
 
-Fyllesekvensen starter ved å trykke på knappen med et kort trykk når fylleren er i Timer- eller Sensormodus. 
+Fyllesekvensen startes med et kort trykk på knappen når boksfylleren er inaktiv i Timermodus eller Sensormodus.
 
-**Timermodus med LED-status:**
+**Timermodus-sekvens og LED-status:**
 
 ```mermaid
 graph TD;
@@ -37,7 +37,7 @@ graph TD;
     
 ```
 
-**Sensormodus med LED-status:**
+**Sensormodus-sekvens og LED-status:**
 
 ```mermaid
 graph TD;
@@ -52,42 +52,48 @@ graph TD;
     
 ```
 
-Fyllesekvensen kan avbrytes når som helst ved å trykke på knappen mens fyllesekvensen pågår. I sensormodus vil lysdioden lyse grønt til boksen fjernes. 
+Fyllesekvensen kan avbrytes når som helst med et kort trykk på knappen mens den pågår. I Sensormodus vil LED-en lyse grønt til boksen fjernes.
 
-For å stille inn fyllnivået går vi først gjennom den forskjellige modusen:
+For å stille inn fyllenivå-settpunktene, går vi først gjennom de ulike modusene:
 
 ### Timermodus
 
-Timermodus indikeres med et kostant grønt lys i trykknappen når påfyllingen er inaktiv. Timermodus fyller boksen i en definert tid. Timermodus er veldig pålitelig og konsekvent, men det krever at fattrykket er stabilt og skumlokket er konsistent fra boks til boks. Vi anbefaler å bruke timermodus som standardmodus for både kullsyreholdige og ukullsyreholdige drikker. Timermodus kan også brukes til å fylle flasker. 
+Timermodus indikeres med konstant grønt lys i trykknappen når boksfylleren er inaktiv. Timermodus fyller boksen i en definert tid. Timermodus er svært pålitelig og konsekvent, men krever at fattrykket er stabilt og at skumtoppen er konsistent fra boks til boks. Vi anbefaler Timermodus som standard for både karbonerte og ikke-karbonerte drikker. Timermodus kan også brukes til å fylle flasker.
 
-***Timermodusprogrammering***
+***Programmering av fyllenivå i Timermodus***
 
-For å gå inn i timermodusprogrammering, må du først gå til timermodus. Trykk på knappen og hold den inne i 4-5 sekunder. SLipp knappen og det grønne lyset vil begynne å blinke, noe som indikerer at programmering av timermodus er aktiv. For å stille inn fyllingsnivået må du starte en fylling og stoppe den ved ønsket fyllingsnivå. Fyllingsnivået lagres når stoppknappen trykkes inn. Lysdioden blinker 3x grønt. For å gå tilbake til timermodus, trykk og hold knappen i 4-5 sekunder. Lysdioden vil bytte til konstant grønt, noe som indikerer at den er tilbake i timermodus. 
+For å gå inn i programmering av fyllenivå i Timermodus, gå først til Timermodus. Trykk og hold inne knappen i 4–5 sekunder. Slipp knappen, så begynner det grønne lyset å blinke — det indikerer at programmering av fyllenivå i Timermodus er aktiv. For å stille inn fyllenivået: start en fylling og stopp den ved ønsket fyllenivå. Fyllenivået lagres når stopp-knappen trykkes inn. LED-en blinker grønt 3 ganger. For å gå tilbake til Timermodus, trykk og hold inne knappen i 4–5 sekunder. LED-en skifter til konstant grønt, som indikerer at den er tilbake i Timermodus.
 
-Siden timermodus måler den nøyaktige tiden som brukes til å fylle til ønsket fyllingsnivå, er det viktig å ha det i bakhodet før fyllingsnivået programmeres. Still inn fattrykket, spyle drikkeslanger osv. før programmering av timermodus.
+Siden Timermodus måler nøyaktig tiden som brukes til å fylle til ønsket fyllenivå, er det viktig å ha dette i bakhodet før fyllenivået programmeres. Sett fattrykket, skyll/prim drikkeslangene osv. før Timermodus-programmeringen.
 
 ### Sensormodus
 
-Sensormodus indikeres med et konstant blått lys i trykknappen når påfyllingen er inaktiv. Sensormodus bruker en trykksensor for å måle fyllingsnivåhøyden. Trykket måles i CO2-røret. Når væskenivået i boksen øker, vil trykket i CO2 røret øke direkte proporsjonalt med væskenivået i boksen.  
+Sensormodus indikeres med konstant blått lys i trykknappen når boksfylleren er inaktiv. Sensormodus bruker en trykksensor til å måle fyllenivåhøyden. Trykket måles i CO~2~-røret. Når væskenivået i boksen stiger, øker trykket i CO~2~-røret direkte proporsjonalt med væskenivået i boksen.
 
-Sensormodus anbefales brukt hvis timermodusfylling gir et inkosekvent fyllingsnivå. For eksempel ved inkosekvent skumdannelse eller hvis du ønsker å justere trykk eller strømningshastighet mens du fyller. Siden sensoren måler hydrostatisk trykk, er høyden på væsken nesten neglisjert, siden SG av skum er svært lav sammenlignet med flytende SG. Det betyr at sensoren måler væskehøyden og ikke væske+skumhøyden. 
+Sensormodus anbefales hvis Timermodus gir inkonsekvent fyllenivå. Eksempler er inkonsekvent skumdannelse, eller når du vil justere trykk eller flow underveis. Siden sensoren måler hydrostatisk trykk er skumtoppens høyde i praksis neglisjerbar — SG i skum er svært lav sammenlignet med SG i væsken. Det vil si at sensoren måler væskehøyden og ikke væske+skum-høyden.
 
-Sensormodus kan ikke brukes til å fylle flasker fordi skummet kommer inn i den trange flaskehalsen, som skaper mottrykk i flasken, som er nok til at sensoren oppdager en falsk nivåavlesning. Vær også oppmerksom på at de store boblene du ofte finner i høyt kullsyreholdig vann, brus, og cider vil gjøre sensormodusen mer inkonsekvent enn å bruke den med øl. Timermodusen vil fungere best for enb kullsyreholdig drikk med store bobler og høy kullsyre. 
+Sensormodus kan ikke brukes til å fylle flasker. Når skum kommer inn i den trange flaskehalsen oppstår et lite mottrykk i flasken, nok til at sensoren registrerer en falsk nivåavlesning. Vær også oppmerksom på at de store boblene man ofte finner i sterkt karbonert vann, brus og sider gjør Sensormodus mer inkonsekvent enn med øl. Timermodus fungerer best for sterkt karbonerte drikker med store bobler.
 
-***Sensormodusprogrammering***
+***Programmering av fyllenivå i Sensormodus***
 
-For å gå inn i sensormodusprogrammering går du først til sensormodus. Trykk på knappen og hold den inne i 4-5 sekunder. Det blå lyset vil begynne å blinke, noe som indikerer at programmering av fyllnivå i sensormodus er aktiv. For å stille inn fyllingsnivået, start en fylling og stopp den ved ønsket fyllingsnivå. Fyllingsnivået lagres når stoppknappen trykkes inn. Lysdioden blinker 3X grønt og den går automatisk tilbake til sensormodus.  
+For å gå inn i programmering av fyllenivå i Sensormodus, gå først til Sensormodus. Trykk og hold inne knappen i 4–5 sekunder. Det blå lyset begynner å blinke, som indikerer at programmering av fyllenivå i Sensormodus er aktiv. For å stille inn fyllenivået: start en fylling og stopp den ved ønsket fyllenivå. Fyllenivået lagres når stopp-knappen trykkes inn. LED-en blinker grønt 3 ganger, og den går automatisk tilbake til Sensormodus.
 
-*Vær oppmerksom på denne forskjellen; i sensormodusprogrammering går den automatisk tilbake til sensormodus etter vellykket nivåprogrammering. I timermodusprogrammering gjør den ikke det, og knappen må holdes inne i 4 sekunder og slippes for å gå tilbake til denne modusen.*
+*Merk denne forskjellen: i Sensormodus-programmering går boksfylleren automatisk tilbake til Sensormodus etter vellykket programmering. I Timermodus-programmering gjør den ikke det — knappen må holdes inne i 4–5 sekunder og slippes for å gå tilbake til Timermodus.*
 
-Fyllingsnivået vil ikke bli lagret hvis fyllnivået er satt til 25mm eller mindre. Hvis fyllnivået ikke lagres på riktig måte, blinker det rødt og forblir i programmodus for fyllnivå.
+Fyllenivået lagres ikke hvis det er satt til 25 mm eller mindre. Hvis fyllenivået ikke blir lagret, blinker LED-en rødt og forblir i programmeringsmodus.
 
 ### Programmering av purgetid
 
-Det er en tredje modus og den brukes til å programmere purgetiden. Hold trykknappen inne i mer enn 6 sekunder og slipp. LED-lyset vil slå seg av, noe som indikerer at den er i programmeringsmodus for purgetid. Da vil et kort trykk på knappen øke tiden med +1 sekund fremover. For hvert trinn vil lysdioden blinke rødt. Når purgetiden er 5 sekunder vil lysdioden blinke grønt i stedet for rødt. Når du kommer til 10 sekunder vil neste trinn være 0 sekunder. Når den står på 0 sekunder blinker lysdioden blått (0 sekunder = purging deaktivert). 
+Det finnes en tredje modus som brukes til å programmere purgetiden. Hold inne trykknappen i mer enn 6 sekunder og slipp. LED-en slukker, som indikerer at den er i programmeringsmodus for purgetid. I denne modusen øker hvert korte trykk på knappen purgetiden med +1 sekund. For hvert steg blinker LED-en rødt. Når purgetiden er 5 sekunder blinker LED-en grønt i stedet for rødt. Når den står på 10 sekunder vil neste steg være 0 sekunder. Ved 0 sekunder blinker LED-en blått (0 sekunder = purge deaktivert).
 
-Når du har satt din ønskede purgetid, kan du holde knappen inne i mer enn 6 sekunder og slippe. Purgetiden vil bli lagret, og du vil være tilbake i den tidligere brukte modusen. 
+Når ønsket purgetid er valgt: hold inne knappen i mer enn 6 sekunder og slipp. Purgetiden lagres, og du er tilbake i tidligere brukte modus.
 
-Purgetid er satt globalt for både timermodus og sensormodus. For timermodus kan rensing deaktiveres, men for sensormodus anbefales det å bruke minst 1 sekunds purgetid for å sikre at CO2-røret er fri for væske før hver fyllingssekvens.
+Purgetid er satt globalt for både Timermodus og Sensormodus. For Timermodus kan purge deaktiveres, men for Sensormodus anbefales minst 1 sekunds purgetid for å sikre at CO~2~-røret er fri for væske før hver fyllesekvens.
 
-Standard og fabrikkinnstilt purgetid er 6 sekunder. Innstillingen for purgetid lagres i minnet. 
+Standard og fabrikkinnstilt purgetid er 6 sekunder. Innstillingen for purgetid lagres i permanent minne.
+
+### Firmwareoppgradering
+
+Duofiller har et wifi-aksesspunkt (AP) som kan brukes til å laste opp ny firmware. For å starte AP-en, koble først boksfylleren fra strøm. Hold inne knappen mens du kobler til strøm igjen. Ved oppstart vil LED-en begynne å veksle mellom rød–grønn–blå. Det indikerer at AP-en er startet. Koble til AP-en med passord "duofiller". Gå til http://192.168.4.1 og last opp den nye firmware-filen. Koble aldri fra boksfylleren mens oppgraderingen pågår. Når oppgraderingen er ferdig indikeres dette med konstant grønt lys i LED-en — boksfylleren er tilbake i Timermodus. Det er ikke nødvendig å starte boksfylleren på nytt etter oppgraderingen.
+
+![](/static/IMG_1242_small.jpg)

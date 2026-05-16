@@ -1,60 +1,61 @@
 <img src="/static/nogo.png" alt="drawing" style="width:600px;"/>
 
-Dette er en manual for G2 serie fyllere, Mono og Duofiller. 
+Denne brukermanualen gjelder kun for G2-serie boksfyllere, Mono og Duofiller G2.
 
-Duofiller Gen1 fyllere som er oppgradert med G2 oppgraderingskit har de samme funksjonene som G2 fyllere.
+Duofiller Gen1 som er oppgradert med G2-oppgraderingskit har samme funksjonalitet som G2-fyllerne.
 
-# Sikkerhet
+## Sikkerhet
 
-For å kunne få mest ut av din filler er det viktig å følge disse instruksene nøye.
+For å få mest mulig ut av boksfylleren din er det viktig at du leser og følger disse instruksjonene nøye.
 
-For barnets sikkerhet, ikke la delene være innen rekkevidde for barnet. La ikke små barn leke med folien, da det er fare for kveling. Filleren skal ikke brukes av mennesker med nedsatt fysisk, elelr mental kapasitet, eller for personer med mangelfull informasjon eller kunnskap, med mindre de passes på av en person med kunnskap om dette produktet. 
-Barn burde holdes unna eller følges på med, for å forsikre at de blir holder unna produktet og ikke leker med delene.
+For barnas sikkerhet, ikke la deler av emballasjen (papp, plast osv.) ligge innen rekkevidde. La aldri små barn leke med folie — det er fare for kveling. Boksfylleren er ikke ment brukt av personer (inkludert barn) med nedsatt fysisk, sensorisk eller mental kapasitet, eller manglende erfaring og/eller kunnskap, med mindre de er under tilsyn av en person som er ansvarlig for deres sikkerhet eller har fått veiledning fra denne personen i hvordan utstyret skal brukes.
 
-Duofilleren skal kun brukes til sitt mente formål, i sikre/trygge omstendigheter. Sjekk at fylleren er i god stand før hvert bruk.
-Fylleren må være i en stående posisjon ved bruk. Bruk alltid dryppskål under fylleren.
+Barn skal holdes under tilsyn for å sikre at de holdes unna apparatet og ikke leker med det.
+
+Duofiller skal kun brukes til tiltenkt formål og i sikker og trygg stand. Kontroller at boksfylleren er i god stand før hver bruk.
+Boksfylleren skal stå i oppreist stilling til enhver tid under bruk. Bruk alltid dryppskål under boksfylleren.
 
 <br>
 <img src="/static/suffocation.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 
-Brukes kun i godt ventilerte områder, da fylleren bruker CO2 til purge gass, det kan det skape farlige situasjoner som kan føre til kvelning hvis det ikke er rikelig med ventilasjon. 
+Brukes kun i godt ventilerte områder. Siden boksfylleren bruker CO~2~ som purgegass er det fare for kvelning hvis bruksstedet ikke er tilstrekkelig ventilert.
 
 <br>
 <br>
 <img src="/static/flammable.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Bruk aldri fylleren med brennbare væsker. Aldri bruk med væsker som inneholder mer enn 30% alkohol. Bruk den kun til å fylle drikkevarer og rengjør kun med anbefalte rengjøringsmidler.<br>
+Bruk aldri boksfylleren til å fylle brennbare væsker. Bruk den aldri med drikkevarer med over 30 % alkoholinnhold. Bruk den kun til drikkevarer og anbefalte rengjøringsmidler — aldri til kjemikalier.<br>
 <br>
 <br>
 <img src="/static/pressure.jfif" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Duofiller blir normalt brukt til væske under trykk. Inspiser alltid slanger og koblinger for skade før bruk. Bruk kun originale koblinger og/eller tilbehør for å unngå lekkasje og/eller skader. 
+Duofiller brukes normalt med væske under trykk. Inspiser alltid slanger og koblinger for skade før bruk. Bruk kun originale koblinger og/eller tilbehør for å unngå lekkasje eller brudd.
 
-**Bruk aldri mer trykk enn 1,4 bar (20 psi) og/eller væske som er over 65 °C. Utfør alltid alltid en lekkasjetest med rent, kaldt vann før hver gang den brukes.**
+**Bruk aldri høyere trykk enn 1,4 bar (20 psi) og/eller væsketemperatur over 65 °C på Duofiller. Utfør alltid en trykktest med rent, kaldt vann før hver bruk.**
 
-**Fjern trykket når du er ferdig med å bruke fylleren**
+**Fjern alltid trykket når boksfylleren ikke er i bruk.**
 <br>
 <br>
 <img src="/static/spray.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Fylleren skal ikke installeres i et område hvor spyling eller vannsprut kan forekomme. Ikke spray den eller dynk den i vann. Det kan føre til skade på helse, liv, eller eiendeler. 
+Boksfylleren skal ikke installeres i områder der vannstråle kan brukes. Ikke spray og ikke senk den i vann. Det kan føre til skade på helse, liv eller eiendeler.
 <br>
 <br>
 <img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Når du bruker fylleren med vaskemidler og/eller varm væske, bruk obligatorisk verneutstyr. Bruk alltid vernebriller som et minimum.
+Ved bruk av boksfylleren med rengjøringskjemikalier og/eller varm væske, bruk personlig verneutstyr som angitt i kjemikaliets sikkerhetsdatablad — og bruk alltid vernebriller som minimum.
 <br>
 <br>
 <img src="/static/electric.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Det kan være livstruende eller forårsake alvorlig skade på helse eller eiendom hvis du prøver å åpne, endre, fikse, eller på en annen måte tukler med duofilleren sin strømforsyningenhet. Hvis kablene er skadet, synlig, våte, eller viser andre tegn til skade, skal strømforsyningen kasseres. Sjekk alltid strømforsyningen og dets kabler før bruk. Som en generell sikkerhetsregel burde du koble fra strømmen når enheten ikke er i bruk.
+Det kan være livstruende eller forårsake alvorlig skade på helse eller eiendom å åpne, endre, reparere eller på annen måte tukle med strømforsyningen til Duofiller. Ikke bruk strømforsyningen hvis den eller kablene er synlig skadet, har vært utsatt for fukt eller viser andre tegn på skade. Inspiser alltid strømforsyningen og kablene før hver bruk. Som en generell sikkerhetsregel: trekk ut støpselet når enheten ikke er i bruk.
 <br>
 <br>
 <br>

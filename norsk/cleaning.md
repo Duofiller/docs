@@ -1,38 +1,38 @@
 # Rengjøring
 
 ### Før bruk
-Før du bruker Duofiller, må du sørge for at fyllelangen er ren. Vi foreslår følgende rengjøringsprosedyre:
+Før du bruker Duofiller bør du sikre at strømningsbanen er ren før drikken introduseres. Vi anbefaler følgende rengjøringsprosedyre:
 
-1. Rens fylleren med lunkent vann. Start en fylling i timer mode programmeringsmodus for flushing. Ventilen står da åpen til du stenger den. Kontakttid er på 5 minutter eller mer. Hvis det er første gang du bruker fylleren anbefaler vi at du bruker PBW eller oppvaskmiddel, og skyll i 10 minutter.
-2. Skyll igjennom med et syre-basert rensemiddel for tappeutstyr. (vi anbefaler StarSan, SureSan, eller lignende). Kontakttiden er på 3 minutter eller mer.
-3. Spray forsiktig (med sprayflaske) eller dynk utsiden av de rustfrie stålrørene med syre-basert rensemiddel. Bruk vernebriller. Kontakttiden er 3 minutter.
+1. Skyll gjennom boksfylleren med lunkent vann. Start en fylling i Timermodus-programmeringsmodus for skylling — drikkeventilen står da åpen til den manuelt avbrytes. Kontakttid 5 minutter eller mer. Hvis det er førstegangs bruk eller det er væskerester i slangene, anbefaler vi PBW eller oppvaskmiddel (i anbefalt konsentrasjon) og 10 minutters skylling.
+2. Skyll gjennom med et syrebasert desinfeksjonsmiddel for bryggeriutstyr (vi anbefaler StarSan, SureSan eller tilsvarende) i anbefalt konsentrasjon. Kontakttid 3 minutter eller mer.
+3. Spray forsiktig (med en sprayflaske) eller dynk utsiden av de rustfrie fyllerørene med syrebasert desinfeksjonsmiddel. Bruk vernebriller. Kontakttid 3 minutter.
 
 ### Etter bruk
-Etter bruk av Duofiller med væske er det obligatorisk å rengjøre fylleren innvendig.  
+Etter bruk av Duofiller med drikke er det obligatorisk å rengjøre boksfylleren innvendig umiddelbart.
 
-1. Koble til et fat med lunkent vann blandet med et vaskemiddel som PBW eller oppvaskmiddel. Skyll gjennom fylleren i minst 5 minutter eller mer.
-2. Skyll igjennom rent, lunkent vann for å fjerne alt av vaskemiddel.
-3. Blås ut væsken fra slangen ved å koble den til CO2 utgangen på fatet. (Pass på at ventilene er åpne). CO2en fra fatet vil fjerne væsken i slangen. Du kan enten bruke den grå CO2 hurtgigkoblingen eller den sorte ved ved å dytte den ned på gassposten og holde den der CO2-en mens en tapper co2en av fatet og den strømmer gjennom fylleren.
-4. Tørk av kabinettet og de rustfrie rørene med en ren fuktig klut.
-5. Unngå å la en væskefylt boks stå under fylleren i lang tid (over 1 time). Kapillæreffekten kan føre til væske løftes opp i CO2 røret og inn i CO2 systemet.  
-6. Husk alltid å fjerne trykket i alle slanger og trekk ut strømmen etter bruk. 
+1. Koble til et fat med lunkent vann og et husholdnings-, næringsmiddelgodkjent vaskemiddel som PBW eller oppvaskpulver i anbefalt konsentrasjon. Skyll gjennom boksfylleren med kontakttid på 5 minutter eller mer.
+2. Skyll gjennom med rent, lunkent vann for å fjerne vaskemiddelet.
+3. Tøm væsken ut av drikkelinjene ved å koble drikkeslangen til gass-posten på fatet (pass på at drikkeventilene er åpne). CO~2~ fra fatet vil trykke væsken ut av slangene. Du kan enten bruke en grå CO~2~-hurtigkobling, eller bruke den sorte ved å presse den ned på gass-posten og holde den der mens CO~2~ strømmer gjennom.
+4. Tørk av kabinettet og fyllerørene med en ren, fuktig klut.
+5. Ikke la en væskefylt boks stå under fyllerørene over lang tid (mer enn 1 time). Kapillærkreftene kan trekke væske opp i CO~2~-systemet.
+6. Fjern alltid trykket fra drikkeslangen og CO~2~-slangen, og koble fra strømmen etter bruk.
 
 ### Periodisk rengjøring
-Periodisk rengjøring kan gjøres med en passende kjemikalie, som "Pipeline beer line cleaner". 
+Periodisk innvendig rengjøring kan gjøres med et egnet ølanleggsrengjøringsmiddel som "Pipeline beer line cleaner" i anbefalt konsentrasjon.
 
 ### Rengjøring av kabinettet
-Det rustfrie kabinettet kan bli vasket daglig med spray for vindusvask og mikrofiberklut, for å fjerne fingermerker, vaskemiddel, væske, osv. Bruk et middel for rens av rustfritt stål (bar keepers friend) periodisk for å lettere unngå fingeravtrykk og lignende på kabinettet. Dekselet foran kan også taes fra hverandre og vaskes i oppvaskmaskinen hvis man ønsker det. Bruk kun en liten mengde vaskemiddel og den skal aldri vaskes sammen med aluminum eller andre metaller enn rustfritt stål. 
+Det rustfrie kabinettet kan vaskes daglig med vindusrensspray og mikrofiberklut for å fjerne drikkesøl, fingermerker, vaskemiddel, desinfeksjonsmiddel osv. fra kabinettet. Bruk periodisk et middel for pleie/polering av rustfritt stål (Bar Keepers Friend) for å gi kabinettet et beskyttende lag, slik at det blir mindre utsatt for fingeravtrykk osv. Frontdekselet kan også demonteres og vaskes i oppvaskmaskin om ønskelig. Bruk kun en liten mengde vaskemiddel, og vask aldri sammen med aluminium eller andre metaller enn rustfritt stål.
 
-### Rengjøring av det rustfrie CO2-røret
-Hold CO2 systemet tørt til en hver tid. Du må aldri koble CO2 slangen til vann, da dette vil skade fyllesensoren. Det holder å spraye utsiden av CO2 slangen for å rengjøre denne. Hvis du vil rengjøre innsiden av CO2 røret kan du koble det fra og skylle det. Du kan også bruke en liten børste for å rengjøre det uten å koble det fra.
+### Rengjøring av det rustfrie CO~2~-røret
+Hold CO~2~-systemet tørt til enhver tid. Koble aldri væske til CO~2~-tilkoblingen — det vil skade fyllesensoren. Det er tilstrekkelig å spraye utsiden av CO~2~-røret for å rengjøre det. Hvis du vil rengjøre innsiden av CO~2~-røret, kan du koble det fra og skylle det, eller bruke en rørbørste for å rengjøre det på plass.
 
-### Sterilisering
-Bruk et syre-basert desinfeksjonssmiddel (som for eksempel StarSan, SureSan). Ta kontakt med oss hvis du ønsker å benytte et annet desinfiseringsmiddel.   
+### Desinfeksjon (sanitizing)
+Bruk et syrebasert desinfeksjonsmiddel (f.eks. StarSan, SureSan), men kun i anbefalt konsentrasjon. For høy konsentrasjon av syrebasert desinfeksjonsmiddel kan skade plastkoblingene. Ta kontakt med oss for en kjemisk kompatibilitetssjekk hvis du vil bruke et annet desinfeksjonsmiddel.
 
-### Desinfisering
-Hvis du bruker fylleren til surøl kan det være ønskelig å desinfisere fylleren etter bruk. Vi anbefaler at du kobler fra delene som er i kontakt med væske og koker disse i vann. Med høytemperatur add-on kitet kan alle delene kokes i vann på 100 grader. Hvis du ikke har høytemperatur add-on kitet kan du ikke koke slangen mellom fatet og Duofiller, da den vil bli deformeres. Ikke kjør damp eller kokende vann gjennom slangen, da sjansen for skade på deg selv er alt for stor.
+### Desinfeksjon (disinfecting)
+Hvis du bruker boksfylleren til surøl eller andre mixed fermentation-drikker, kan det være ønskelig å desinfisere fylleren etter bruk. Vi anbefaler å demontere delene som er i kontakt med drikken og koke disse i vann. Ikke kok drikkeslangen på 2 m, da den vil deformeres og bli ubrukelig. Legg delene i vann og kok dem — ikke skyll med kokende vann eller damp, da faren for personskade blir for stor.
 
-Alternativt kan du bruke et basisk desinfeksjonsmiddel. Ta helst kontakt med oss før du gjør dette. Ikke bruk klorin eller sterke syrer. Alle rengjøringsmidler som selges i hjemmebryggerbutikker er kompatible i deres anbefalte konsentrasjon. 
+Alternativt kan du bruke et basisk desinfeksjonsmiddel. Vi ber deg ta kontakt med oss for en kjemisk kompatibilitetssjekk før bruk av et nytt desinfeksjonsmiddel. Ikke bruk klor eller sterke syrer. Alle rengjøringsmidler som selges i hjemmebryggerbutikker er kompatible i anbefalt konsentrasjon.
 
 <img src="/static/chemical.png" alt="drawing" style="width:600px;"/>
 
