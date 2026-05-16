@@ -2,7 +2,7 @@
 order: 109
 ---
 
-# Mono assembly instructions
+# Mono monteringsanvisning
 
 Når du skal feste fylleren er det obligatorisk med hansker. Det kan være skarpe kanter som kan føre til kuttskader, samtidig som hanskene hindrer fingeravtrykk på de rustfrie ståldelene.<br>
 <img src="/static/gloves.png" alt="drawing" style="width:200px;"/>

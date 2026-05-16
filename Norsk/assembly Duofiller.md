@@ -2,7 +2,7 @@
 order: 110
 ---
 
-# Duofiller assembly instructions
+# Duofiller monteringsanvisning
 
 Når du skal sette sammen fylleren er det obligatorisk å bruke hansker. Det kan være skarpe kanter som kan føre til kuttskader. Hanskene vil beskytte mot dette, og samtidig vil man unngå fingeravtrykk på produktet.<br>
 <img src="/static/gloves.png" alt="drawing" style="width:200px;"/>
