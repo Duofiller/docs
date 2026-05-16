@@ -17,4 +17,4 @@ En sakte og jevn purge unngår turbulens og sparer CO~2~. Det er ingen vits i å
 Hvis du er usikker på om nåværende purgetrykk og purgetid er nok til å purge volumet i boksen eller flasken, kan du bruke en plastpose eller ballong til å måle purgevolumet.
 
 ### Finjustering av fyllenivå i Sensormodus
-For å finjustere fyllenivået i Sensormodus kan du ganske enkelt flytte CO~2~-røret opp eller ned. Flytter du det for eksempel 1 mm opp, flytter fyllenivå-settpunktet seg tilsvarende. Det er fordi fyllenivået måles via trykket (trykk = væskehøyde over tuppen av CO~2~-røret), og når du flytter røret opp eller ned endres væskehøyden som CO~2~-røret måler. Endre ikke høyden på CO~2~-røret med mindre du har til hensikt å endre fyllenivået.
+For å finjustere fyllenivået i Sensormodus kan du ganske enkelt flytte CO~2~-røret opp eller ned. Flytter du det for eksempel 1 mm opp, flytter settpunktet seg tilsvarende. Det er fordi fyllenivået måles via trykket (trykk = væskehøyde over tuppen av CO~2~-røret), og når du flytter røret opp eller ned endres væskehøyden som CO~2~-røret måler. Endre ikke høyden på CO~2~-røret med mindre du har til hensikt å endre fyllenivået.

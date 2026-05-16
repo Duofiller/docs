@@ -15,7 +15,7 @@ Inkludert i esken:
 <br>
 <br>
 <br>
-Slik kommer boksfylleren i esken. Du må montere de rustfrie rørene på de myke slangene og montere rørholder- og bokseholder-brakettene.<br>
+Slik kommer boksfylleren i esken. Du må montere de rustfrie rørene på de myke slangene og montere rørholder- og boksholder-brakettene.<br>
 <img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -51,7 +51,7 @@ Skyv rørklemmen opp mot rørholder-braketten. Du må dytte rørklemmen fra unde
 <br>
 <br>
 <br>
-Skal du bruke boksfylleren med bokser, fester du bokseholder-braketten. Skal du kun fylle flasker, trenger du ikke denne braketten.<br>
+Skal du bruke boksfylleren med bokser, fester du boksholder-braketten. Skal du kun fylle flasker, trenger du ikke denne braketten.<br>
 <img src="/static/mono11.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -65,7 +65,7 @@ Avstanden mellom festehullene for veggmontering er 55 mm. Duofiller Mono er ment
 <br>
 <br>
 <br>
-Plugg inn drikkeslangen, strømplugg og CO~2~-slangen:<br>
+Plugg inn fylleslangen, strømplugg og CO~2~-slangen:<br>
 <img src="/static/mono12.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
@@ -80,7 +80,7 @@ Maks CO~2~-trykk er 3 psi / 0,2 bar. Bruk alltid en egen regulator for CO~2~-try
 <br>
 <br>
 <br>
-Koble drikkeslangen til et fat. Maks drikketrykk er 20 psi / 1,4 bar. Merk at hurtigkobling til fat ikke er inkludert. Det følger med to typer slanger; bruk den tynne for sterkt karbonert øl, og den tykke (OD 1/4") for normalt karbonert øl.<br>
+Koble fylleslangen til et fat. Maks drikketrykk er 20 psi / 1,4 bar. Merk at hurtigkobling til fat ikke er inkludert. Det følger med to typer slanger; bruk den tynne for sterkt karbonert øl, og den tykke (OD 1/4") for normalt karbonert øl.<br>
 <img src="/static/mono15.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
