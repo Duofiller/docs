@@ -6,28 +6,28 @@ Duofiller Gen1 som er oppgradert med G2-oppgraderingskit har samme funksjonalite
 
 ## Sikkerhet
 
-For å få mest mulig ut av boksfylleren din er det viktig at du leser og følger disse instruksjonene nøye.
+For å få mest mulig ut av Duofiller er det viktig at du leser og følger disse instruksjonene nøye.
 
-For barnas sikkerhet, ikke la deler av emballasjen (papp, plast osv.) ligge innen rekkevidde. La aldri små barn leke med folie — det er fare for kveling. Boksfylleren er ikke ment brukt av personer (inkludert barn) med nedsatt fysisk, sensorisk eller mental kapasitet, eller manglende erfaring og/eller kunnskap, med mindre de er under tilsyn av en person som er ansvarlig for deres sikkerhet eller har fått veiledning fra denne personen i hvordan utstyret skal brukes.
+For barnas sikkerhet, ikke la deler av emballasjen (papp, plast osv.) ligge innen rekkevidde. La aldri små barn leke med folie — det er fare for kveling. Duofiller er ikke ment brukt av personer (inkludert barn) med nedsatt fysisk, sensorisk eller mental kapasitet, eller manglende erfaring og/eller kunnskap, med mindre de er under tilsyn av en person som er ansvarlig for deres sikkerhet eller har fått veiledning fra denne personen i hvordan utstyret skal brukes.
 
 Barn skal holdes under tilsyn for å sikre at de holdes unna apparatet og ikke leker med det.
 
-Duofiller skal kun brukes til tiltenkt formål og i sikker og trygg stand. Kontroller at boksfylleren er i god stand før hver bruk.
-Boksfylleren skal stå i oppreist stilling til enhver tid under bruk. Bruk alltid dryppbrett under boksfylleren.
+Duofiller skal kun brukes til tiltenkt formål og i sikker og trygg stand. Kontroller at den er i god stand før hver bruk.
+Duofiller skal stå i oppreist stilling til enhver tid under bruk. Bruk alltid dryppbrett under.
 
 <br>
 <img src="/static/suffocation.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 
-Brukes kun i godt ventilerte områder. Siden boksfylleren bruker CO~2~ som purgegass er det fare for kvelning hvis bruksstedet ikke er tilstrekkelig ventilert.
+Brukes kun i godt ventilerte områder. Siden Duofiller bruker CO~2~ som purgegass er det fare for kvelning hvis bruksstedet ikke er tilstrekkelig ventilert.
 
 <br>
 <br>
 <img src="/static/flammable.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Bruk aldri boksfylleren til å fylle brennbare væsker. Bruk den aldri med drikkevarer med over 30 % alkoholinnhold. Bruk den kun til drikkevarer og anbefalte rengjøringsmidler — aldri til kjemikalier.<br>
+Bruk aldri Duofiller til å fylle brennbare væsker. Bruk den aldri med produkter med over 30 % alkoholinnhold. Bruk den kun til drikkevarer og anbefalte rengjøringsmidler — aldri til kjemikalier.<br>
 <br>
 <br>
 <img src="/static/pressure.jfif" alt="drawing" style="width:200px;"/>
@@ -37,19 +37,19 @@ Duofiller brukes normalt med væske under trykk. Inspiser alltid slanger og kobl
 
 **Bruk aldri høyere trykk enn 1,4 bar (20 psi) og/eller væsketemperatur over 65 °C på Duofiller. Utfør alltid en trykktest med rent, kaldt vann før hver bruk.**
 
-**Fjern alltid trykket når boksfylleren ikke er i bruk.**
+**Ta alltid trykket av når Duofiller ikke er i bruk.**
 <br>
 <br>
 <img src="/static/spray.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Boksfylleren skal ikke installeres i områder der vannstråle kan brukes. Ikke spray og ikke senk den i vann. Det kan føre til skade på helse, liv eller eiendeler.
+Duofiller skal ikke installeres i områder der vannstråle kan brukes. Ikke spray og ikke senk den i vann. Det kan føre til skade på helse, liv eller eiendeler.
 <br>
 <br>
 <img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Ved bruk av boksfylleren med rengjøringskjemikalier og/eller varm væske, bruk personlig verneutstyr som angitt i kjemikaliets sikkerhetsdatablad — og bruk alltid vernebriller som minimum.
+Ved bruk av Duofiller med rengjøringskjemikalier og/eller varm væske, bruk personlig verneutstyr som angitt i kjemikaliets sikkerhetsdatablad — og bruk alltid vernebriller som minimum.
 <br>
 <br>
 <img src="/static/electric.png" alt="drawing" style="width:200px;"/>

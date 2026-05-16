@@ -18,6 +18,6 @@ Sjekk først ditt nåværende versjonsnummer nederst på menysiden:
 
 ![](/static/menu.png)
 
-Gå til "Update firmware", velg firmware-filen (den nedlastede *.bin-filen) og trykk Upload. Koble aldri fra boksfylleren mens firmware-oppgraderingen pågår. Når oppgraderingen er ferdig vil LED-ene blinke når boksfylleren starter på nytt. Det er ikke nødvendig å starte boksfylleren manuelt på nytt etter oppgraderingen.
+Gå til "Update firmware", velg firmware-filen (den nedlastede *.bin-filen) og trykk Upload. Koble aldri fra Duofiller mens firmware-oppgraderingen pågår. Når oppgraderingen er ferdig vil LED-ene blinke når Duofiller starter på nytt. Det er ikke nødvendig å starte den manuelt på nytt etter oppgraderingen.
 
 ![](/static/firmware.png)

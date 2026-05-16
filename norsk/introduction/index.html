@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="color-scheme" content="light dark">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.832235803354">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="4.5.3.832252479617">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 4.5.3">
@@ -37,11 +37,11 @@
 
     <script data-cfasync="false">(function(){var cl=document.documentElement.classList,ls=localStorage.getItem("retype_scheme"),hd=cl.contains("dark"),hl=cl.contains("light"),wm=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches;if(ls==="dark"||(!ls&&wm&&!hd&&!hl)){cl.remove("light");cl.add("dark")}else if(ls==="light"||(!ls&&!wm&&!hd&&!hl)){cl.remove("dark");cl.add("light")}})();</script>
 
-    <link href="../../resources/css/retype.css?v=4.5.3.832235803354" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=4.5.3.832252479617" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.832235803354" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=4.5.3.832252479617" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=4.5.3" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.832235803354" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=4.5.3.832252479617" data-turbo-eval="false" defer></script>
     <script id="mermaid-js" data-cfasync="false" src="../../resources/js/mermaid.js?v=4.5.3" defer></script>
 </head>
 <body>
@@ -179,15 +179,15 @@
 <h1 id="intro">Intro</h1>
 <p>Den nye Duofiller generasjon 2 (G2)-serien er en boks- og flaskefyller som fyller bokser eller flasker til ønsket fyllenivå. Fyllingen skjer fra et trykksatt fat, unitank, tank osv.</p>
 <p>Serien har i dag to modeller, Mono og Duofiller. Mono er en fyller med ett fyllehode, mens Duofiller har to fyllehoder. Bortsett fra antall fyllehoder har modellene lik funksjonalitet og bruker programvare med samme funksjonalitet.</p>
-<p>Boksfylleren har en to-stegs fyllesekvens: trykk på knappen, så purger den først boksen med CO<sub>2</sub> før den begynner å fylle drikken. Purgingen lager et CO<sub>2</sub>-teppe over væsken som minimerer kontakt mellom drikken og luft, og som dermed øker holdbarheten. Fyllingen stopper automatisk når ønsket fyllenivå er nådd.</p>
-<p>Boksfylleren har elektriske ventiler som styrer CO<sub>2</sub>- og drikkestrømmen. Fylleventilene er av typen pinchventil, det vil si at de klemmer sammen en slange for å stenge. I åpen stilling er slangen helt åpen — uten innsnevringer som kan skape turbulens eller skum. Ventilen åpner eller lukker den fleksible slangen ved at solenoiden får strøm og enten trekker tilbake eller drar til seg stempelet. Denne ventiltypen er ideell for sanitære anvendelser, fordi det kun er den lett utskiftbare slangen som er i kontakt med væsken. Siden slangen har full gjennomgang er det ingen trange passasjer der partikler kan sette seg fast, og ingen lommer der partikler kan samle seg og være vanskelige å rengjøre.</p>
+<p>Duofiller har en to-stegs fyllesekvens: trykk på knappen, så purger den først boksen med CO<sub>2</sub> før selve fyllingen starter. Purgingen lager et CO<sub>2</sub>-teppe over væsken som minimerer luftkontakt, og som dermed øker holdbarheten. Fyllingen stopper automatisk når ønsket fyllenivå er nådd.</p>
+<p>Duofiller har elektriske ventiler som styrer CO<sub>2</sub> og væskestrømmen. Fylleventilene er av typen pinchventil, det vil si at de klemmer sammen en slange for å stenge. I åpen stilling er slangen helt åpen — uten innsnevringer som kan skape turbulens eller skum. Ventilen åpner eller lukker den fleksible slangen ved at solenoiden får strøm og enten trekker tilbake eller drar til seg stempelet. Denne ventiltypen er ideell for sanitære anvendelser, fordi det kun er den lett utskiftbare slangen som er i kontakt med væsken. Siden slangen har full gjennomgang er det ingen trange passasjer der partikler kan sette seg fast, og ingen lommer der partikler kan samle seg og være vanskelige å rengjøre.</p>
 <p>Ventilstempelet kan ikke trekkes tilbake av solenoiden alene — det trenger spensten i slangen pluss et minimumstrykk i fylleslangen (~0,5 bar) for å åpne helt. Etter lang tid uten bruk kan første åpning av fylleventilene kreve mer enn 1–1,4 bar for å hjelpe ventilen i gang. Når ventilen er helt åpen høres et tydelig klikk — det betyr at den har låst seg i full åpen stilling. Ventilen tåler 2 000 000 åpninger og slangen tåler 500 000 åpninger. Slangen er enkel å bytte hvis den blir slitt.
 <br>
 <img src="/static/valve.png" alt="drawing" style="width:400px;"/>
 <br></p>
 <h3 id="brukergrensesnitt">Brukergrensesnitt</h3>
-<p>Det primære brukergrensesnittet for Duofiller er trykknappen til hvert fyllehode. Hver knapp har en trefarget RGB-LED for tilbakemelding til brukeren. Fyllingen startes med et kort knappetrykk. En pågående fyllesekvens kan stoppes eller avbrytes når som helst ved å trykke på samme knapp én gang. Programmering og menynavigering gjøres med tidsstyrte knappetrykk.</p>
-<p>Det er også mulig å redigere parametere i Duofillers webgrensesnitt via wifi. Wifi må betraktes som et supplement — når du bruker Duofiller har du normalt våte hender, og det er ikke spesielt praktisk å navigere på en berøringsskjerm eller datamaskin. Men for enkelte innstillinger kan webgrensesnittet være mer hensiktsmessig — det er opp til brukeren. Wifi er ikke nødvendig for å bruke boksfylleren, og wifi-radioen kan også deaktiveres om ønskelig.</p>
+<p>Det primære brukergrensesnittet for Duofiller er knappen til hvert fyllehode. Hver knapp har en trefarget RGB-LED for tilbakemelding til brukeren. Fyllingen startes med et kort knappetrykk. En pågående fyllesekvens kan stoppes eller avbrytes når som helst ved å trykke på samme knapp én gang. Programmering og menynavigering gjøres med tidsstyrte knappetrykk.</p>
+<p>Det er også mulig å redigere parametere i Duofillers webgrensesnitt via wifi. Wifi må betraktes som et supplement — når du bruker Duofiller har du normalt våte hender, og det er ikke spesielt praktisk å navigere på en berøringsskjerm eller datamaskin. Men for enkelte innstillinger kan webgrensesnittet være mer hensiktsmessig — det er opp til brukeren. Wifi er ikke nødvendig for å bruke Duofiller, og wifi-radioen kan også deaktiveres om ønskelig.</p>
 <br>
 <img src="/static/menu.png" alt="drawing" style="width:300px;"/>
 <br>
@@ -201,9 +201,9 @@
 <h3 id="driftsmoduser">Driftsmoduser</h3>
 <p>Duofiller G2-serien har to moduser: Timermodus og Sensormodus.</p>
 <p>Sensormodus bruker en trykksensor til å måle fyllenivåhøyden. Trykket måles i CO<sub>2</sub>-røret. Når væskenivået i boksen stiger, øker trykket i CO<sub>2</sub>-røret direkte proporsjonalt med væskenivået, mens skumhøyden i praksis ignoreres. Sensormodus fungerer best med øl. De store boblene man ofte finner i sterkt karbonert vann, brus og sider gjør Sensormodus mindre stabil enn med øl.</p>
-<p>Timermodus fyller boksen i en definert tid. Timermodus er svært pålitelig og konsekvent, men krever at fattrykket er stabilt og at skumtoppen er konsistent fra boks til boks. Vi anbefaler Timermodus som standard for både karbonerte og ikke-karbonerte drikker. Ved fylling av flasker må Timermodus velges, fordi Sensormodus blir upålitelig på grunn av mottrykket som oppstår når skum presses ut av flaskehalsen.</p>
+<p>Timermodus fyller boksen i en definert tid. Timermodus er svært pålitelig og konsekvent, men krever at fattrykket er stabilt og at skumtoppen er konsistent fra boks til boks. Vi anbefaler Timermodus som standard for både karbonerte og ikke-karbonerte produkter. Ved fylling av flasker må Timermodus velges, fordi Sensormodus blir upålitelig på grunn av mottrykket som oppstår når skum presses ut av flaskehalsen.</p>
 <h4 id="bruk">Bruk</h4>
-<p>Bruken av Mono og Duofiller er enkel og intuitiv. Når boksfylleren er inaktiv, gir du et kort trykk på den tilhørende trykknappen for å starte en fylling. Fyllesekvensen starter med purge og deretter selve fyllingen. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på trykknappen.</p>
+<p>Bruken av Mono og Duofiller er enkel og intuitiv. Når Duofiller er inaktiv, gir du et kort trykk på den tilhørende knappen for å starte en fylling. Fyllesekvensen starter med purge og deretter selve fyllingen. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på knappen.</p>
 <p><strong>Typisk boksefylling:</strong></p>
 <img src="/static/monocan.png" alt="drawing" style="width:200px;"/>
 <p>Sett til Sensormodus eller Timermodus.</p>
@@ -224,7 +224,7 @@
 </ol>
 <p>Du senker flasken nedover etter hvert som den fylles for at fyllerørene ikke skal fortrenge for mye væske. Hvis rørene står helt nedsenket i flasken vil nivået synke når du tar flasken ut. Ved å senke flasken mens den fylles holdes volumet som fortrenges av fyllerørene på et minimum.</p>
 <h3 id="fyllesekvens">Fyllesekvens</h3>
-<p>Fyllesekvensen startes med et kort trykk på knappen når boksfylleren er inaktiv i Timermodus eller Sensormodus.</p>
+<p>Fyllesekvensen startes med et kort trykk på knappen når Duofiller er inaktiv i Timermodus eller Sensormodus.</p>
 <p><strong>Timermodus-sekvens og LED-status:</strong></p>
 <div class="overflow-hidden mb-6 py-4 dark:px-5 dark:bg-white rounded-md"><pre translate="no" class="mermaid w-full">graph TD;
     Idle(Idle)--&gt;|short button press|Purge(Purge);
