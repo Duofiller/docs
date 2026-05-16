@@ -13,7 +13,7 @@ Last ned den nyeste firmware-filen
 
 Endringslogg:
 
-- V1.1.0: Ny top-up-funksjon, forbedret webgrensesnitt tilpasset mobilskjermer, feilrettinger
+- V1.1.0: Ny top-up funksjon, forbedret webgrensesnitt tilpasset mobilskjermer, feilrettinger
 
 
 !!!

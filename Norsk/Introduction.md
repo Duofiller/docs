@@ -8,11 +8,11 @@ Den nye Duofiller generasjon 2 (G2)-serien er en boks- og flaskefyller som fylle
 
 Serien har i dag to modeller, Mono og Duofiller. Mono er en fyller med ett fyllehode, mens Duofiller har to fyllehoder. Bortsett fra antall fyllehoder har modellene lik funksjonalitet og bruker programvare med samme funksjonalitet.
 
-Boksfylleren har en to-stegs fyllesekvens: trykk på knappen, så purger den først boksen med CO~2~ før den begynner å fylle drikken. Purgingen lager et CO~2~-teppe over væsken som minimerer kontakt mellom drikken og luft, og som dermed øker holdbarheten. Drikkefyllingen stopper automatisk når ønsket fyllenivå er nådd.
+Boksfylleren har en to-stegs fyllesekvens: trykk på knappen, så purger den først boksen med CO~2~ før den begynner å fylle drikken. Purgingen lager et CO~2~-teppe over væsken som minimerer kontakt mellom drikken og luft, og som dermed øker holdbarheten. Fyllingen stopper automatisk når ønsket fyllenivå er nådd.
 
-Boksfylleren har elektriske ventiler som styrer CO~2~- og drikkestrømmen. Drikkeventilene er av typen pinch-ventil, det vil si at de klemmer sammen en slange for å stenge. I åpen stilling har ventilen full gjennomgang — en tilnærmet perfekt strømningsbane uten innsnevringer som kan skape turbulens eller skum. Ventilen åpner eller lukker den fleksible slangen ved at solenoiden får strøm og enten trekker tilbake eller drar til seg stempelet. Denne ventiltypen er ideell for sanitære anvendelser, fordi det kun er den lett utskiftbare slangen som er i kontakt med væsken. Siden slangen har full gjennomgang er det ingen trange passasjer der partikler kan sette seg fast, og ingen lommer der partikler kan samle seg og være vanskelige å rengjøre.
+Boksfylleren har elektriske ventiler som styrer CO~2~- og drikkestrømmen. Fylleventilene er av typen pinchventil, det vil si at de klemmer sammen en slange for å stenge. I åpen stilling er slangen helt åpen — uten innsnevringer som kan skape turbulens eller skum. Ventilen åpner eller lukker den fleksible slangen ved at solenoiden får strøm og enten trekker tilbake eller drar til seg stempelet. Denne ventiltypen er ideell for sanitære anvendelser, fordi det kun er den lett utskiftbare slangen som er i kontakt med væsken. Siden slangen har full gjennomgang er det ingen trange passasjer der partikler kan sette seg fast, og ingen lommer der partikler kan samle seg og være vanskelige å rengjøre.
 
-Ventilstempelet kan ikke trekkes tilbake av solenoiden alene — det trenger spensten i slangen pluss et minimumstrykk i drikkelinjen (~0,5 bar) for å åpne helt. Etter lang tid uten bruk kan første åpning av drikkeventilene kreve mer enn 1–1,4 bar for å hjelpe ventilen i gang. Når ventilen er helt åpen høres et tydelig klikk — det betyr at den har låst seg i full åpen stilling. Ventilen er klassifisert for 2 000 000 åpninger og slangen for 500 000 åpninger. Slangen er enkel å bytte hvis den blir slitt.
+Ventilstempelet kan ikke trekkes tilbake av solenoiden alene — det trenger spensten i slangen pluss et minimumstrykk i fylleslangen (~0,5 bar) for å åpne helt. Etter lang tid uten bruk kan første åpning av fylleventilene kreve mer enn 1–1,4 bar for å hjelpe ventilen i gang. Når ventilen er helt åpen høres et tydelig klikk — det betyr at den har låst seg i full åpen stilling. Ventilen tåler 2 000 000 åpninger og slangen tåler 500 000 åpninger. Slangen er enkel å bytte hvis den blir slitt.
 <br>
 <img src="/static/valve.png" alt="drawing" style="width:400px;"/>
 <br>
@@ -36,7 +36,7 @@ Det er også mulig å redigere parametere i Duofillers webgrensesnitt via wifi. 
 
 ### Driftsmoduser
 
-Duofiller G2-serien har to fyllemoduser: Timermodus og Sensormodus.
+Duofiller G2-serien har to moduser: Timermodus og Sensormodus.
 
 Sensormodus bruker en trykksensor til å måle fyllenivåhøyden. Trykket måles i CO~2~-røret. Når væskenivået i boksen stiger, øker trykket i CO~2~-røret direkte proporsjonalt med væskenivået, mens skumhøyden i praksis ignoreres. Sensormodus fungerer best med øl. De store boblene man ofte finner i sterkt karbonert vann, brus og sider gjør Sensormodus mindre stabil enn med øl.
 
@@ -44,7 +44,7 @@ Timermodus fyller boksen i en definert tid. Timermodus er svært pålitelig og k
 
 #### Bruk
 
-Bruken av Mono og Duofiller er enkel og intuitiv. Når boksfylleren er inaktiv, gir du et kort trykk på den tilhørende trykknappen for å starte en fylling. Fyllesekvensen starter med purge og deretter drikkefylling. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på trykknappen.
+Bruken av Mono og Duofiller er enkel og intuitiv. Når boksfylleren er inaktiv, gir du et kort trykk på den tilhørende trykknappen for å starte en fylling. Fyllesekvensen starter med purge og deretter selve fyllingen. Sekvensen kan stoppes/avbrytes når som helst med et kort trykk på trykknappen.
 
 **Typisk boksefylling:**
 
@@ -61,7 +61,7 @@ IIII. Gjenta.
 
 <img src="/static/duobottle.png" alt="drawing" style="width:200px;"/>
 
-Fjern bokseholder-braketten og sett til Timermodus.
+Fjern boksholder-braketten og sett til Timermodus.
 
 I. Sett inn tom flaske, trykk på knappen for å starte fyllingen. Hold flasken på plass med hånden mens den fylles.
 II. Senk flasken nedover etter hvert som den fylles, slik at fyllerøret er senket bare et par centimeter ned i væsken. Vent til fyllingen stopper.

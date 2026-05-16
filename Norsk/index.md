@@ -18,7 +18,7 @@ For barnas sikkerhet, ikke la deler av emballasjen (papp, plast osv.) ligge inne
 Barn skal holdes under tilsyn for å sikre at de holdes unna apparatet og ikke leker med det.
 
 Duofiller skal kun brukes til tiltenkt formål og i sikker og trygg stand. Kontroller at boksfylleren er i god stand før hver bruk.
-Boksfylleren skal stå i oppreist stilling til enhver tid under bruk. Bruk alltid dryppskål under boksfylleren.
+Boksfylleren skal stå i oppreist stilling til enhver tid under bruk. Bruk alltid dryppbrett under boksfylleren.
 
 <br>
 <img src="/static/suffocation.png" alt="drawing" style="width:200px;"/>

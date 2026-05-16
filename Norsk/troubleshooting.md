@@ -18,16 +18,15 @@ order: 99
 ##
 - **For lite skum. En skumtopp er ønskelig for å unngå oksygenkontakt med drikken:**
      I. Øk fattemperaturen. Ta fatet for eksempel ut av kjøleskapet og la det varmes opp før du fortsetter.
-     II. Øk fattrykket for å øke flow. Det gir mer skum, men er ikke like effektivt som å øke temperaturen.
-     III. Skaff deg flow control kitet — det gir mer flow (og skum), og samtidig muligheten til å redusere flow/skum hvis det blir for mye skum.<br>
+     II. Øk fattrykket for å øke flow. Det gir mer skum, men er ikke like effektivt som å øke temperaturen.<br>
 <br>
 
      Folk karbonerer ulikt, og det påvirker skumtoppen. Generelt anbefaler vi alltid å fylle kald øl, men det kan også hende at varmere enn 4 °C (5–8 °C) fungerer best for din drikketype og karboneringsnivå. Eksperimenter over tid. Start kaldt og la det varmes opp til du får den perfekte skumtoppen. Eventuelt gå kaldere hvis det er for mye skum ved 4 °C.
 ##
-- **Drikkeventilen åpner ikke ved første gangs bruk, drikkeventilen åpner ikke helt / lav flow og/eller skumming:**
+- **Fylleventilen åpner ikke ved første gangs bruk, fylleventilen åpner ikke helt / lav flow og/eller skumming:**
      I. Slangen i ventilen har satt seg fast i posisjon. Det er normalt, og enkelt å løse ved å øke drikketrykket for å hjelpe ventilen å åpne.
-     II. Start en fylling. Vent til LED-en lyser rødt. Rød LED betyr at drikkeventilen har fått åpningssignal.
-     III. Øk fattrykket sakte (maks 20 psi / 1,4 bar), så åpner drikkeventilen. Lytt etter et tydelig klikk når den låser seg åpen. Senk fattrykket tilbake til normalt.
+     II. Start en fylling. Vent til LED-en lyser rødt. Rød LED betyr at fylleventilen har fått åpningssignal.
+     III. Øk fattrykket sakte (maks 20 psi / 1,4 bar), så åpner fylleventilen. Lytt etter et tydelig klikk når den låser seg åpen. Senk fattrykket tilbake til normalt.
 <br>
 Hvis ventilen fortsatt ikke åpner:
 <br>
@@ -39,7 +38,7 @@ Hvis ventilen fortsatt ikke åpner:
 <br>
 <br>
 ##
-- **Drikkeventilen lukker ikke / fyllehodet drypper:**
+- **Fylleventilen lukker ikke / fyllehodet drypper:**
      I. Dette skjer hvis drikketrykket er for høyt. Senk drikketrykket til 20 psi / 1,4 bar eller lavere.
 ##
 - **Inkonsekvent fyllenivå i Sensormodus:**
@@ -47,10 +46,10 @@ Hvis ventilen fortsatt ikke åpner:
      II. Kalibrer fyllenivået med den faktiske drikken og faktisk flow.
      III. Hvis drikken er sterkt karbonert og har stor boblestørrelse >1 mm (vann, brus, sider), blir Sensormodus mer ustabil ettersom de store stigende boblene forstyrrer trykkmålingen.<br>
 <br>
-     Nøyaktigheten på fyllenivået med en ideell drikke og ideell flow er brøkdeler av en millimeter. Hvis nivåmålingen påvirkes av andre faktorer, kan fyllenivå-målingen bli upålitelig og det faktiske fyllenivået bli inkonsekvent. Slike eksterne faktorer kan være (store) karboneringsbobler, flow fra drikkerøret som påvirker trykkmålingen i CO~2~-røret, for høyt CO~2~-purgetrykk osv.
+     Nøyaktigheten på fyllenivået med en ideell drikke og ideell flow er brøkdeler av en millimeter. Hvis nivåmålingen påvirkes av andre faktorer, kan fyllenivå-målingen bli upålitelig og det faktiske fyllenivået bli inkonsekvent. Slike eksterne faktorer kan være (store) karboneringsbobler, flow fra fyllerøret som påvirker trykkmålingen i CO~2~-røret, for høyt CO~2~-purgetrykk osv.
      <br>
      <br>
-     Etter hver purge og før drikkeventilen åpner, gjør boksfylleren en referansetrykk-måling i den 1,5 sekunder lange forsinkelsen mellom de to operasjonene. Du bør sjekke at dråper fra drikkerøret ikke danner seg på tuppen av CO~2~-røret etter purgen. Hvis det skjer påvirkes referansetrykk-målingen, og fyllenivået ender opp feil. Løsningen er enkel: pass på at tuppen av CO~2~-røret står på samme nivå som — eller høyere enn — tuppen av drikkerøret, slik at dråper fra drikkerøret faller ned og ikke fester seg på CO~2~-røret. CO~2~-røret er også skråkuttet for å hindre at dråper fester seg på tuppen.
+     Etter hver purge og før fylleventilen åpner, gjør boksfylleren en referansemåling i den 1,5 sekunder lange forsinkelsen mellom de to operasjonene. Du bør sjekke at dråper fra fyllerøret ikke danner seg på tuppen av CO~2~-røret etter purgen. Hvis det skjer påvirkes referansemålingen, og fyllenivået ender opp feil. Løsningen er enkel: pass på at tuppen av CO~2~-røret står på samme nivå som — eller høyere enn — tuppen av fyllerøret, slik at dråper fra fyllerøret faller ned og ikke fester seg på CO~2~-røret. CO~2~-røret er også skråkuttet for å hindre at dråper fester seg på tuppen.
      <br>
      <br>
      En annen test du kan gjøre er å sette et glass vann under fyllehodet mens CO~2~ er trykksatt. Se etter bobler som kommer ut av CO~2~-røret. Hvis det gjør det, kontroller at purgetrykket er under 3 psi. Hvis ikke, senk purgetrykket og sjekk igjen. Hvis purgetrykket er lavere enn 3 psi og det fortsatt kommer bobler ut, [ta kontakt med oss](https://duofiller.com/pages/contact) — du kan ha en defekt purgeventil.
