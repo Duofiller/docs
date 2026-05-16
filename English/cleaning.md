@@ -35,7 +35,7 @@ Keep the CO~2~ system dry at all times. Never connect liquid to the CO~2~ connec
 Use an acid based sanitizer (e.g. StarSan, SureSan) but only at the recommended concentration. Too high concentration of acid sanitizer can damage the plastic connectors. Contact us for chemical compatibility check if you want to use another sanitizer.  
 
 ### Disinfecting
-If you use the filler for mixed fermentation fluids it might be desired to disinfect the filler after use. We recommend disassembling the beverage contact parts and boiling them in water. With the high-temperature add-on, all beverage contact parts can be boiled at 100C. If you don't have the high-temperature add-on don't boil the 2m beverage tube as it will deform and become unusable. Submerge the parts in water and boil, never flush with boiling water or steam, and the risk of personal injury would be too high.
+If you use the filler for mixed fermentation fluids it might be desired to disinfect the filler after use. We recommend disassembling the beverage contact parts and boiling them in water. Don't boil the 2m beverage tube as it will deform and become unusable. Submerge the parts in water and boil, never flush with boiling water or steam, and the risk of personal injury would be too high.
 
 Alternatively use a caustic disinfectant but please contact us for a chemical compatibility check if you want to use a disinfector. Don't use chlorine or strong acids. 
 

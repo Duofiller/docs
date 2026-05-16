@@ -4,14 +4,14 @@ order: 0
 
 # Spesifikasjoner
 
-Spesifikasjoner i tabellen gjelder både Mono- og Duofiller med mindre spesifiserte spesifikasjoner.
+Spesifikasjonene i tabellen gjelder både Mono og Duofiller med mindre annet er angitt.
 
 Property   | Value
 ---    | ---
 Max beverage working pressure  | 20psi / 1.4 bar
 Minimum beverage working pressure  | 7 psi / 0.5 bar
 Max CO~2~/purge gas working pressure  | 3 psi / 0.2 bar
-Max beverage temperature | +65 C / 149 F (with high temp add-on 98 C / 208 F)
+Max beverage temperature | +65 C / 149 F
 Min beverage temperature | 0 C / 32 F 
 Ambient temperature | 0 - 40 C / 34 - 104 F
 Flow rate @15psi/1 bar beverage pressure | 1.2 liter/min pr fill-head (with flow control add-on 1.6 liter/min pr fill-head)
@@ -28,6 +28,3 @@ Beverage connector | 1/4" Fluidfit type bulkhead
 Fill time repeatability Timer Mode | +/- 100 ms
 Fill level repeatability Sensor Mode | +/- 2 mm
 Wifi frequency | 2.4Ghz
-
-
-
