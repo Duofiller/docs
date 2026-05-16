@@ -37,7 +37,7 @@
 
 ## Norsk
 
-- [Introduksjon](https://docs.duofiller.com/norsk/introduction.md): Den nye Duofiller generasjonen 2 (G2) serien er en boks- og flaskefyller som fyller til det ønskede fyllenivået. Fylling blir gjort fra et fat, unitank, tønne etc med trykk.
+- [Intro](https://docs.duofiller.com/norsk/introduction.md): Den nye Duofiller generasjonen 2 (G2) serien er en boks- og flaskefyller som fyller til det ønskede fyllenivået. Fylling blir gjort fra et fat, unitank, tønne etc med trykk.
 - [Duofiller monteringsanvisning](https://docs.duofiller.com/norsk/assembly-duofiller.md): Når du skal sette sammen fylleren er det obligatorisk å bruke hansker. Det kan være skarpe kanter som kan føre til kuttskader. Hanskene vil beskytte mot dette, og samtidig vil man unngå fingeravtrykk på produktet.
 - [Mono monteringsanvisning](https://docs.duofiller.com/norsk/assembly-mono.md): Når du skal feste fylleren er det obligatorisk med hansker. Det kan være skarpe kanter som kan føre til kuttskader, samtidig som hanskene hindrer fingeravtrykk på de rustfrie ståldelene.
 - [Kom i gang](https://docs.duofiller.com/norsk/getting-started.md): Dette er en guide for både Mono og Duofiller.

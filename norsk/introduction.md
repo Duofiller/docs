@@ -1,8 +1,8 @@
-# Introduksjon
+# Intro
 
 Den nye Duofiller generasjonen 2 (G2) serien er en boks- og flaskefyller som fyller til det ønskede fyllenivået. Fylling blir gjort fra et fat, unitank, tønne etc med trykk. 
 
-Per nå er det en serie med to modeller; Mono og Duofiller. Mono er en fyller med singlehode, mens Duofiller er en med doble fyllehoder. Utenom antall fyllehoder er disse produktene og deres software av samme funksjon.
+G2 er en serie med to modeller; Mono og Duofiller. Mono er en fyller med singlehode, mens Duofiller er en med doble fyllehoder. Utenom antall fyllehoder er disse produktene og deres software av samme funksjon.
 
 Fylleren har to-stegs fyllesekvens; trykk på knappen og den purger først kannen med CO2, fører den begynner å fylle væske. Purgingen lager en pute med CO2 på toppen av væsken, for å minimere luftkontakt for væsken, som igjen øker holdbarheten til drikkevaren. Mengden med væske stopper automatisk når ønsket fyllenivå er nådd.
 
