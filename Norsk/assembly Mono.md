@@ -4,7 +4,7 @@ order: 109
 
 # Mono monteringsanvisning
 
-Når du skal montere boksfylleren er det obligatorisk å bruke hansker. Det kan være skarpe kanter som kan gi alvorlige kuttskader, og hanskene hindrer også fingeravtrykk på de rustfrie ståldelene.<br>
+Når du skal montere Duofiller er det obligatorisk å bruke hansker. Det kan være skarpe kanter som kan gi alvorlige kuttskader, og hanskene hindrer også fingeravtrykk på de rustfrie ståldelene.<br>
 <img src="/static/gloves.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -15,7 +15,7 @@ Inkludert i esken:
 <br>
 <br>
 <br>
-Slik kommer boksfylleren i esken. Du må montere de rustfrie rørene på de myke slangene og montere rørholder- og boksholder-brakettene.<br>
+Slik kommer Duofiller i esken. Du må montere de rustfrie rørene på de myke slangene og montere rørholder- og boksholder-brakettene.<br>
 <img src="/static/mono1.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -34,7 +34,7 @@ Tre den fleksible slangen ca. 10 mm inn på enden av det rustfrie røret.<br>
 <br>
 <br>
 <br>
-Det brede røret (drikke) skal på høyre side, og slangen skal festes på den smale enden. Det tynne røret (CO~2~) skal på venstre side. Sett den flate enden av CO~2~-røret inn i slangen, ikke den koniske enden.
+Det brede røret (væske) skal på høyre side, og slangen skal festes på den smale enden. Det tynne røret (CO~2~) skal på venstre side. Sett den flate enden av CO~2~-røret inn i slangen, ikke den koniske enden.
 Når du trer slangene over de rustfrie rørene må du ikke presse rørenden mot kroppen — hvis røret sklir kan det forårsake skade.
 Du kan smøre rørene med kaldt, rent vann for å gjøre monteringen lettere. Varmt vann gjør ikke slangen mykere.<br>
 <img src="/static/mono5.png" alt="drawing" width="300" height="700">
@@ -51,7 +51,7 @@ Skyv rørklemmen opp mot rørholder-braketten. Du må dytte rørklemmen fra unde
 <br>
 <br>
 <br>
-Skal du bruke boksfylleren med bokser, fester du boksholder-braketten. Skal du kun fylle flasker, trenger du ikke denne braketten.<br>
+Skal du bruke Duofiller med bokser, fester du boksholder-braketten. Skal du kun fylle flasker, trenger du ikke denne braketten.<br>
 <img src="/static/mono11.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -80,7 +80,7 @@ Maks CO~2~-trykk er 3 psi / 0,2 bar. Bruk alltid en egen regulator for CO~2~-try
 <br>
 <br>
 <br>
-Koble fylleslangen til et fat. Maks drikketrykk er 20 psi / 1,4 bar. Merk at hurtigkobling til fat ikke er inkludert. Det følger med to typer slanger; bruk den tynne for sterkt karbonert øl, og den tykke (OD 1/4") for normalt karbonert øl.<br>
+Koble fylleslangen til et fat. Maks trykk er 20 psi / 1,4 bar. Merk at hurtigkobling til fat ikke er inkludert. Det følger med to typer slanger; bruk den tynne for sterkt karbonert øl, og den tykke (OD 1/4") for normalt karbonert øl.<br>
 <img src="/static/mono15.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
