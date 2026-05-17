@@ -3,18 +3,18 @@
 
 Este manual de usuario es solo para las llenadoras de la serie G2, Mono y Duofiller G2.
 
-Los llenadores Duofiller Gen1 que se actualizan con el kit de actualización G2 tendrán la misma funcionalidad que los G2.
+Las llenadoras Duofiller Gen1 que se actualicen con el kit de actualización G2 tendrán la misma funcionalidad que las G2.
 
 ## Seguridad
 
-Para aprovechar al máximo su llenador, es importante que lea y siga estas instrucciones cuidadosamente.
+Para aprovechar al máximo su llenadora, es importante que lea y siga estas instrucciones cuidadosamente.
 
-Para la seguridad de niños, no deje al alcance ninguna pieza del embalaje (cartón, plástico, etc.). No permita que los niños pequeños jueguen con el papel de aluminio. ¡Existe peligro de asfixia! El llenador no está destinado a ser utilizado por personas (incluidos niños) con capacidades físicas, sensoriales o mentales reducidas o con falta de experiencia y/o conocimientos, a menos que estén supervisados por una persona responsable de su seguridad o hayan recibido instrucciones de dicha persona sobre cómo utilizar el dispositivo.
+Para la seguridad de los niños, no deje al alcance ninguna pieza del embalaje (cartón, plástico, etc.). No permita que los niños pequeños jueguen con el papel de aluminio. ¡Existe peligro de asfixia! La llenadora no está destinada a ser utilizada por personas (incluidos niños) con capacidades físicas, sensoriales o mentales reducidas o con falta de experiencia y/o conocimientos, a menos que estén supervisados por una persona responsable de su seguridad o hayan recibido instrucciones de dicha persona sobre cómo utilizar el dispositivo.
 
 Los niños deben ser supervisados para asegurarse de que se mantengan alejados del dispositivo y no jueguen con él.
 
 El Duofiller solo se puede utilizar para el fin previsto y en condiciones seguras y protegidas. Asegúrese de que el dispositivo esté en buenas condiciones antes de cada uso.
-El llenador debe estar en posición vertical en todo momento cuando esté en uso. Utilice siempre una bandeja de goteo debajo.
+La llenadora debe estar en posición vertical en todo momento cuando esté en uso. Utilice siempre una bandeja de goteo debajo.
 
 <br>
 <img src="/static/suffocation.png" alt="drawing" style="width:200px;"/>
@@ -28,7 +28,7 @@ Usar solo en áreas ventiladas. Dado que la llenadora utiliza CO~2~ como gas de 
 <img src="/static/flammable.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-Nunca utilice la llenadora para llenar líquidos inflamables. Nunca lo use con bebidas que tengan más de 30% de concentración de alcohol. Úselo solo con bebidas y agentes de limpieza recomendados, nunca lo use para llenar productos químicos<br>
+Nunca utilice la llenadora para llenar líquidos inflamables. Nunca la use con bebidas que tengan más de 30% de concentración de alcohol. Úsela solo con bebidas y agentes de limpieza recomendados; nunca la use para llenar productos químicos.<br>
 <br>
 <br>
 <img src="/static/pressure.jfif" alt="drawing" style="width:200px;"/>
@@ -44,7 +44,7 @@ Duofiller se utiliza normalmente con líquido a presión. Siempre inspeccione la
 <img src="/static/spray.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
-El llenador no es adecuado para su instalación en una zona en la que se pueda utilizar un chorro de agua. No rocíe y no sumerja en agua. Puede causar daños a la salud, la vida o la propiedad.
+La llenadora no es adecuada para su instalación en una zona en la que se pueda utilizar un chorro de agua. No la rocíe ni la sumerja en agua. Puede causar daños a la salud, la vida o la propiedad.
 <br>
 <br>
 <img src="/static/goggles.jpg" alt="drawing" style="width:200px;"/>
@@ -60,9 +60,9 @@ Puede poner en peligro la vida o causar daños graves a la salud o la propiedad 
 <br>
 <br>
 <br>
-Manufacturer: <br>
+Fabricante: <br>
 Brewket AS <br>
 Dalavikvegen 93 <br>
 5574 SKJOLD <br>
-Norway <br>
+Noruega <br>
 post@brewket.no<br>

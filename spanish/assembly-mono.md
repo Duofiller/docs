@@ -42,7 +42,7 @@ Coloque la abrazadera del tubo sobre los tubos:<br>
 <br>
 <br>
 <br>
-Deslice la lámpara tubular sobre el soporte del porta tubos. Hay que empujar la abrazadera desde abajo y hacia arriba y se deslizará sobre el soporte inoxidable. La almohadilla de espuma se comprimirá para sostener los tubos en su lugar.<br>
+Deslice la abrazadera del tubo sobre el soporte del porta tubos. Hay que empujar la abrazadera desde abajo y hacia arriba y se deslizará sobre el soporte inoxidable. La almohadilla de espuma se comprimirá para sostener los tubos en su lugar.<br>
 <img src="/static/mono7.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
@@ -61,22 +61,22 @@ La distancia del orificio de montaje en la pared es de 55mm. El Duofiller Mono e
 <br>
 <br>
 <br>
-Conecte el tubo de bebida, conecte el de alimentación y el tubo de CO2:<br> 
+Conecte el tubo de llenado, el cable de alimentación y el tubo de CO~2~:<br> 
 <img src="/static/mono12.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
 <br>
-No proporcionamos la manguera de CO2, pero incluimos un ajuste a presión de 3/8" a un accesorio de lengüeta de 1/4"<br>
+No proporcionamos la manguera de CO~2~, pero incluimos un ajuste a presión de 3/8" a un accesorio de lengüeta de 1/4"<br>
 <img src="/static/mono13.png" alt="drawing" style="width:400px;"/>
 <br>
 <br>
 <br>
-Presión máxima de CO2 3psi / 0.2bar. Por favor, utilice siempre un regulador independiente para la presión del CO2. El regulador de CO2 no está incluido. <br>
+Presión máxima de CO~2~: 3 psi / 0.2 bar. Por favor, utilice siempre un regulador independiente para la presión del CO~2~. El regulador de CO~2~ no está incluido.<br>
 <img src="/static/mono14.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 <br>
-Conecte el tubo de bebidas a un barril. La presión máxima de la bebida es de 20 psi/1.4 bar. Por favor, tenga en cuenta que la desconexión rápida del barril no está incluida. Hay dos tipos de mangueras en el kit; use el delgado para las cervezas con alto contenido de gas y el grueso (OD 1/4 ") para las cervezas con gas promedio.<br>
+Conecte el tubo de llenado a un barril. La presión máxima es de 20 psi / 1.4 bar. Por favor, tenga en cuenta que la desconexión rápida del barril no está incluida. Hay dos tipos de mangueras en el kit; use la delgada para las cervezas con alto contenido de gas y la gruesa (OD 1/4") para las cervezas con gas promedio.<br>
 <img src="/static/mono15.png" alt="drawing" style="width:200px;"/>
 <br>
 <br>
