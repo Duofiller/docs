@@ -28,6 +28,6 @@ Primero verifique su versión actual en la parte inferior de la página menú:
 
 ![](/static/menu.png)
 
-Vaya a "Actualizar firmware", seleccione el archivo de firmware (el archivo *.bin descargado) y presione cargar. Nunca desconecte el llenador mientras la actualización del firmware está en curso. Cuando se complete la actualización, los LED parpadearán cuando la llenadora se reinicie después de la actualización. No es necesario reiniciar el llenador manualmente después de la actualización.
+Vaya a "Actualizar firmware", seleccione el archivo de firmware (el archivo *.bin descargado) y presione cargar. Nunca desconecte la llenadora mientras la actualización del firmware está en curso. Cuando se complete la actualización, los LED parpadearán cuando la llenadora se reinicie. No es necesario reiniciar la llenadora manualmente después de la actualización.
 
 ![](/static/firmware.png)
