@@ -9,7 +9,7 @@ Por supuesto. Emitimos un reembolso completo (impuestos de importación excluido
 ---
 
 - ¿Cuánto es el período de garantía?
-Tenemos dos años de garantía. Si su llenador falla, le enviaremos piezas de repuesto o lo llevaremos para una reparación gratuita.
+Tenemos dos años de garantía. Si su llenadora falla, le enviaremos piezas de repuesto o la llevaremos para una reparación gratuita.
 ---
 
 - ¿Cuál es la diferencia entre Mono y Duofiller?
@@ -17,7 +17,7 @@ La única diferencia es que Mono tiene un cabezal de llenado único y Duofiller 
 ---
 
 - ¿Pueden el Mono y Duofiller llenar botellas?
-Sí, ambos pueden llenar botellas, pero solo en modo temporizador y el usuario tiene que sujetar la botella con la mano mientras se llena. Se pueden utilizar casi todos los tamaños de botellas.
+Sí, ambos pueden llenar botellas, pero solo en Modo Temporizador y el usuario tiene que sujetar la botella con la mano mientras se llena. Se pueden utilizar casi todos los tamaños de botellas.
 ---
 
 - ¿Pueden el Mono y Duofiller llenar bebidas sin gas?
@@ -25,17 +25,16 @@ Sí, pueden, pero la bebida debe estar presurizada. Recomendamos llenar con un b
 ---
 
 - ¿Para qué bebidas se pueden utilizar Mono y Duofiller?
-Casi cualquiera. Carbonatadas y no carbonatadas. Las bebidas altamente carbonatadas con tamaño de burbuja >1 mm solo funcionarán en el modo de temporizador.<br>
-Con el complemento de alta temperatura, puede usarlo de manera segura para bebidas de fermentación mixta ya que con este complemento todas las partes en contacto con la bebida se pueden hervir en agua para desinfectarlas.<br>
+Casi cualquiera. Carbonatadas y no carbonatadas. Las bebidas altamente carbonatadas con tamaño de burbuja >1 mm solo funcionarán en Modo Temporizador.<br>
 La presión de la bebida debe ser de 20 psi o menos.
 ---
 
-- ¿Pueden Mono y Duofiller llenar todo tipo de latas de bebidas estándar?  ¿250ml (slim), 330ml, 440ml, 500ml, 8oz, 12oz, 16oz, 19.2oz, 24oz latas de cerveza, latas de conserva?
-Sí. Hay un límite de altura de 190mm entre el soporte de la lata y la abrazadera del tubo de llenado. Si monta el soporte para latas boca abajo, la altura máxima será de 215mm.
+- ¿Pueden Mono y Duofiller llenar todo tipo de latas de bebidas estándar? ¿250 ml (slim), 330 ml, 440 ml, 500 ml, 8oz, 12oz, 16oz, 19.2oz, tallboys de 24oz, latas slim?
+Sí. Hay un límite de altura de 190 mm entre el soporte de la lata y la abrazadera del tubo de llenado. Si monta el soporte para latas boca abajo, la altura máxima será de 215 mm.
 ---
 
 - ¿La cerveza recoge oxígeno mientras se llena con el Duofiller?
-La purga de CO~2~ eliminará el oxígeno de la lata antes de llenarla. Para obtener el mejor resultado, utilice una presión de purga baja para garantizar una purga lenta y constante. Asegúrese siempre de que haya un tapón de espuma y de que se tapa con espuma. Si se hace correctamente, la cerveza tendrá un DO bajo y una larga vida útil sin oxidación.
+La purga de CO~2~ eliminará el oxígeno de la lata antes de llenarla. Para obtener el mejor resultado, utilice una presión de purga baja para garantizar una purga lenta y constante. Asegúrese siempre de que haya una tapa de espuma y de que se tapa con espuma. Si se hace correctamente, la cerveza tendrá un DO (oxígeno disuelto) bajo y una larga vida útil sin oxidación.
 ---
 
 - ¿Debo obtener una llenadora de contrapresión en lugar de una llenadora abierta como Duofiller?
