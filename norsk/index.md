@@ -30,7 +30,6 @@ Brukes kun i godt ventilerte områder. Siden Duofiller bruker CO~2~ som purgegas
 Bruk aldri Duofiller til å fylle brennbare væsker. Bruk den aldri med produkter med over 30 % alkoholinnhold. Bruk den kun til drikkevarer og anbefalte rengjøringsmidler — aldri til kjemikalier.<br>
 <br>
 <br>
-<img src="/static/pressure.jfif" alt="drawing" style="width:200px;"/>
 <br>
 <br>
 Duofiller brukes normalt med væske under trykk. Inspiser alltid slanger og koblinger for skade før bruk. Bruk kun originale koblinger og/eller tilbehør for å unngå lekkasje eller brudd.
