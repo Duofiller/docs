@@ -31,7 +31,6 @@ Usar solo en áreas ventiladas. Dado que la llenadora utiliza CO~2~ como gas de 
 Nunca utilice la llenadora para llenar líquidos inflamables. Nunca la use con bebidas que tengan más de 30% de concentración de alcohol. Úsela solo con bebidas y agentes de limpieza recomendados; nunca la use para llenar productos químicos.<br>
 <br>
 <br>
-<br>
 Duofiller se utiliza normalmente con líquido a presión. Siempre inspeccione las mangueras y los conectores en busca de daños antes de usarlos. Utilice únicamente conectores y/o accesorios originales para evitar fugas o roturas.
 
 **Nunca presurice el Duofiller con más de 1.4 bar (20 psi) y/o una temperatura del líquido superior a 65 °C. Realice siempre una prueba de presión con agua limpia y fría antes de cada uso.**

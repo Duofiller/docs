@@ -30,8 +30,6 @@ Use only in ventilated areas. As the filler uses CO~2~ for purge gas there is ha
 Never use the filler to fill flammable liquids. Never use it with beverages that has more than 30% alcohol concentration. Use only for beverages and the recommended cleaning agents, never use it to fill chemicals<br>
 <br>
 <br>
-<br>
-<br>
 Duofiller is normally used with liquid under pressure. Always inspect hoses and connectors for damage before use. Use only original connectors and/or accessories to prevent leakage or breakage. 
 
 **Never pressurize the Duofiller with more than 1.4 bar (20 psi) and/or liquid temperature over 65 °C. Always perform a pressure test with clean, cold water before each use.**
