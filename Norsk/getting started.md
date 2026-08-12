@@ -15,7 +15,7 @@ Når den starter opp første gang vil kanppen lyse grønt. Det indikerer at den 
 
 ## Programmering av fyllenivå i Sensormodus
 Når du er i Sensormodus, hold inne knappen i 4 sekunder og slipp. Knappen begynner å blinke blått. Det indikerer at boksfylleren er i programmeringsmodus for Sensormodus.
-For å programmere starter vi en fylling og stopper den på ønsket fyllenivå. Sett et glass eller en boks under fyllehodet og start en fylling ved å trykke på knappen. Fyllesekvensen starter med purge og bytter deretter til selve fyllingen. Følg med på fyllenivået. Når ønsket nivå er nådd, gi knappen et kort trykk slik at fyllingen stopper. Knappen blir grønn, som betyr at fyllenivået er lagret. Fyllenivået lagres ikke hvis det er satt til 25 mm eller mindre. Hvis fyllenivået ikke blir lagret, blinker kanppen rødt og forblir i programmeringsmodus. Ved vellykket lagring hopper boksfylleren automatisk tilbake til Sensormodus etter at boksen er fjernet.
+For å programmere starter vi en fylling og stopper den på ønsket fyllenivå. Sett et glass eller en boks under fyllehodet og start en fylling ved å trykke på knappen. Fyllesekvensen starter med purge og bytter deretter til selve fyllingen. Følg med på fyllenivået. Når ønsket nivå er nådd, gi knappen et kort trykk slik at fyllingen stopper. Knappen blir grønn, som betyr at fyllenivået er lagret. Fyllenivået lagres ikke hvis det er satt til 25 mm eller mindre. Hvis fyllenivået ikke blir lagret, blinker knappen rødt og forblir i programmeringsmodus. Ved vellykket lagring hopper boksfylleren automatisk tilbake til Sensormodus etter at boksen er fjernet.
 
 Start en ny fylling, og den vil stoppe på det lagrede fyllenivået.
 
